@@ -1,0 +1,50 @@
+name: "✏️ Correction Report"
+description: Create a new ticket to report a typo/mistranscription.
+title: "✏️ [CORRECTION] - <title>"
+labels: [
+  "correction"
+]
+assignees:
+  - ibleaman
+body:
+  - type: textarea
+    id: testimony
+    attributes:
+      label: "Testimony"
+      description: Whose testimony contains a typo or mistranscription?
+      placeholder: Survivor Name
+    validations:
+      required: true
+  - type: textarea
+    id: tape
+    attributes:
+      label: "Tape(s)"
+      description: Which tape(s) do you wish to correct?
+      placeholder: 1, 2 (this information is optional)
+    validations:
+      required: false
+  - type: textarea
+    id: typo
+    attributes:
+      label: "Typo or mistranscription"
+      description: What is the current text that you wish to correct?
+      placeholder: | 
+        Enter the problematic text here. For example:
+        * ihk red yidish
+        Or if you find a mistake only in the Yiddish-alphabetical version:
+        * איך הײס אַבֿהרם
+        (You can also provide a numbered list if there are several problems.)
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: "Correction"
+      description: What is the *corrected* text?
+      placeholder: | 
+        Enter your corrections here. For example:
+          ikh red yidish.
+          איך הײס אַבֿרהם.
+        (You can also provide a numbered list.)
+    validations:
+      required: true
