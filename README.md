@@ -1,6 +1,7 @@
-# CSYE Transcripts
+# <a href="#"><img alt="CSYE logo" src="https://www.yiddishcorpus.org/csye/assets/img/logo/CSYE-logo.svg" width="75px" /></a> CSYE Transcripts
 
-This public repository hosts all of the testimony transcript files that are available as part of the [Corpus of Spoken Yiddish in Europe](https://www.yiddishcorpus.org). New transcripts are being added all the time, so please check back here for the latest additions.
+This public repository hosts all of the testimony transcript files that are available as part of the [Corpus of Spoken Yiddish in Europe](https://www.yiddishcorpus.org) (קאָרפּוס פֿון דער ייִדישער שמועסשפּראַך אין אײראָפּע).
+New transcripts are being added all the time, so please check back here for the latest additions.
 
 As a reminder, the use of all CSYE materials, including these transcripts, is governed by our Terms of Use and requirements for proper attribution in citations, available [here](https://www.yiddishcorpus.org/csye/user-guide/).
 
@@ -23,4 +24,4 @@ There are also directories containing the transcripts in subtitle format (`srt/`
 
 If you notice any typographical errors or mistranscriptions,[^1] in either orthography, we encourage you to submit corrections to our team by [opening a support ticket](https://github.com/YiddishCorpus/CSYE-Transcripts/issues/new?assignees=ibleaman&labels=correction&template=CORRECTION_REPORT.yml&title=%E2%9C%8F%EF%B8%8F+%5BCORRECTION%5D+-+%3Ctitle%3E), which we can track and resolve. Before doing so, make sure that you have [created a GitHub account](https://github.com/join) and are signed in.
 
-[^1]: 'UNK' and <brackets> appear in transcripts during moments when our transcribers could not understand or were not sure what was being said. We are especially grateful for updates that address these gaps.
+[^1]: 'UNK' and \<brackets\> appear in transcripts during moments when our transcribers could not understand or were not sure what was being said. We are especially grateful for updates that address these gaps.
