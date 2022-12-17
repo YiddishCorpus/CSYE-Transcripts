@@ -11,7 +11,7 @@ item []:
         name = "Jacob Ruppo"
         xmin = 0.000000
         xmax = 1860.982000
-        intervals: size = 536
+        intervals: size = 537
         intervals [1]:
             xmin = 0.000000
             xmax = 95.556000
@@ -19,7 +19,7 @@ item []:
         intervals [2]:
             xmin = 95.556000
             xmax = 98.328000
-            text = "מײַן נאָמען איז JACOB RUPPO."
+            text = "מײַן נאָמען איז JACOB רופּאָ."
         intervals [3]:
             xmin = 98.328000
             xmax = 100.797000
@@ -51,7 +51,7 @@ item []:
         intervals [10]:
             xmin = 134.544000
             xmax = 138.885000
-            text = "FAMILY RUPPO אין דיסנע: דרײַ שװעסטער"
+            text = "FAMILY רופּאָ אין דיסנע: דרײַ שװעסטער"
         intervals [11]:
             xmin = 138.885000
             xmax = 148.895000
@@ -67,7 +67,7 @@ item []:
         intervals [14]:
             xmin = 153.355000
             xmax = 159.881000
-            text = "אײנער װאָס איז געבליבן לעבן פֿון מײַן באַליבטע FAMILY RUPPO אין פּױלן, דיסנע."
+            text = "אײנער װאָס איז געבליבן לעבן פֿון מײַן באַליבטע FAMILY רופּאָ אין פּױלן, דיסנע."
         intervals [15]:
             xmin = 159.881000
             xmax = 164.719000
@@ -766,1393 +766,1397 @@ item []:
             text = ""
         intervals [189]:
             xmin = 605.642000
-            xmax = 609.188000
-            text = "פֿון שלום־עליכמ'ס דאָרטן, און שלום אַש'ס פֿאַרשײדענע,"
+            xmax = 609.125000
+            text = "פֿון שלום־עליכמ'ס דאָרטן, און שלום אַש'ס פֿאַרשײדענע"
         intervals [190]:
-            xmin = 609.188000
+            xmin = 609.125000
+            xmax = 610.777000
+            text = "סצענעס."
+        intervals [191]:
+            xmin = 610.777000
             xmax = 611.441000
             text = ""
-        intervals [191]:
+        intervals [192]:
             xmin = 611.441000
             xmax = 612.944000
             text = "נו און eh..."
-        intervals [192]:
+        intervals [193]:
             xmin = 612.944000
             xmax = 615.976000
             text = ""
-        intervals [193]:
+        intervals [194]:
             xmin = 615.976000
             xmax = 620.247000
             text = "די די, אַלע געשעפֿטן איז געװען אין די ייִדישע הענט."
-        intervals [194]:
+        intervals [195]:
             xmin = 620.247000
             xmax = 621.188000
             text = ""
-        intervals [195]:
+        intervals [196]:
             xmin = 621.188000
             xmax = 626.292000
             text = "די האַנדלונגען מיט די אַל-, אַלץ איז גע-, האָבן מיר נאָר גע- נאָר ייִדן זײַנען געװען."
-        intervals [196]:
+        intervals [197]:
             xmin = 626.292000
             xmax = 630.247000
             text = "די רוסן, זײ האָבן געהאַט די ערד דאָרטן אַרום און אַזױ װײַטער."
-        intervals [197]:
+        intervals [198]:
             xmin = 630.247000
             xmax = 631.788000
             text = "דיסנע איז געװען"
-        intervals [198]:
+        intervals [199]:
             xmin = 631.788000
             xmax = 632.047000
             text = ""
-        intervals [199]:
+        intervals [200]:
             xmin = 632.047000
             xmax = 635.870000
             text = "אַן אָרעמע שטאָט נאָר זי איז געװען אַ רײַכע אין גוטס. אַזױ איז געװען"
-        intervals [200]:
+        intervals [201]:
             xmin = 635.870000
             xmax = 635.929000
             text = ""
-        intervals [201]:
+        intervals [202]:
             xmin = 635.929000
             xmax = 637.047000
             text = "עפּל,"
-        intervals [202]:
+        intervals [203]:
             xmin = 637.047000
             xmax = 638.174000
             text = ""
-        intervals [203]:
+        intervals [204]:
             xmin = 638.174000
             xmax = 640.627000
             text = "eh װאָס מע האָט געהאַנדלט מיט אײער"
-        intervals [204]:
+        intervals [205]:
             xmin = 640.627000
             xmax = 645.174000
-            text = "מיט פֿעלכלעך מיט חזירלעך, פֿאַרשײדענע אַזױנע זאַכן,"
-        intervals [205]:
+            text = "מיט פֿעלכלעך, מיט חזירלעך, פֿאַרשײדענע אַזױנע זאַכן,"
+        intervals [206]:
             xmin = 645.174000
             xmax = 645.546000
             text = ""
-        intervals [206]:
+        intervals [207]:
             xmin = 645.546000
             xmax = 650.675000
             text = "װאָס ס'איז גע- װאָס מע האָט, פֿון פֿון, פֿלעגט מען קומען פֿון דײַטשלאַנד,"
-        intervals [207]:
+        intervals [208]:
             xmin = 650.675000
             xmax = 655.364000
             text = "פֿון פּױלן, פֿון פֿאַרשײדענע לענדער אײַנקױפֿן דאָס."
-        intervals [208]:
+        intervals [209]:
             xmin = 655.364000
             xmax = 659.986000
             text = "װעלדער... אַלץ איז גע-, אַלץ איז געװען אין דיסנע."
-        intervals [209]:
+        intervals [210]:
             xmin = 659.986000
             xmax = 664.810000
             text = ""
-        intervals [210]:
+        intervals [211]:
             xmin = 664.810000
             xmax = 665.689000
             text = "װי?"
-        intervals [211]:
+        intervals [212]:
             xmin = 665.689000
             xmax = 669.428000
             text = ""
-        intervals [212]:
+        intervals [213]:
             xmin = 669.428000
             xmax = 672.919000
             text = "מײַן ש- eh מײַנע שװעסטער האָבן גע- eh..."
-        intervals [213]:
+        intervals [214]:
             xmin = 672.919000
             xmax = 674.330000
             text = ""
-        intervals [214]:
+        intervals [215]:
             xmin = 674.330000
             xmax = 677.070000
             text = "דרײַ שװע- דרײַ, eh פֿיר שװעסטער האָב איך געהאַט."
-        intervals [215]:
+        intervals [216]:
             xmin = 677.070000
             xmax = 678.950000
             text = ""
-        intervals [216]:
+        intervals [217]:
             xmin = 678.950000
             xmax = 680.442000
             text = "דרײַ איז געװען געהײראַט"
-        intervals [217]:
+        intervals [218]:
             xmin = 680.442000
             xmax = 681.907000
             text = "מיט מענער און קינדער,"
-        intervals [218]:
+        intervals [219]:
             xmin = 681.907000
             xmax = 682.358000
             text = ""
-        intervals [219]:
+        intervals [220]:
             xmin = 682.358000
             xmax = 685.428000
             text = "און די ייִנגסטע איז געװען מיט דער מאַמען מיטן פֿאָטער."
-        intervals [220]:
+        intervals [221]:
             xmin = 685.428000
             xmax = 686.023000
             text = ""
-        intervals [221]:
+        intervals [222]:
             xmin = 686.023000
             xmax = 688.316000
             text = "און זי, און אַ ברודערל"
-        intervals [222]:
+        intervals [223]:
             xmin = 688.316000
             xmax = 688.782000
             text = ""
-        intervals [223]:
+        intervals [224]:
             xmin = 688.782000
             xmax = 690.364000
             text = "און זײ זענען אַלע אומגעקומען."
-        intervals [224]:
+        intervals [225]:
             xmin = 690.364000
             xmax = 693.310000
             text = ""
-        intervals [225]:
+        intervals [226]:
             xmin = 693.310000
             xmax = 694.603000
             text = "אַלע האָט מען געשאָסן."
-        intervals [226]:
+        intervals [227]:
             xmin = 694.603000
             xmax = 700.143000
             text = ""
-        intervals [227]:
+        intervals [228]:
             xmin = 700.143000
             xmax = 700.912000
             text = "eh"
-        intervals [228]:
+        intervals [229]:
             xmin = 700.912000
             xmax = 703.222000
             text = ""
-        intervals [229]:
+        intervals [230]:
             xmin = 703.222000
             xmax = 706.167000
             text = "eh אין פּױלן איז געװען דער אַנטיסעמיטיזם גרױס"
-        intervals [230]:
+        intervals [231]:
             xmin = 706.167000
             xmax = 706.599000
             text = ""
-        intervals [231]:
+        intervals [232]:
             xmin = 706.599000
             xmax = 708.204000
             text = "נאָר בײַ אונדז אין שטעטל"
-        intervals [232]:
+        intervals [233]:
             xmin = 708.204000
             xmax = 708.438000
             text = ""
-        intervals [233]:
+        intervals [234]:
             xmin = 708.438000
             xmax = 713.190000
             text = "אַזױ װי ס'איז געװען אַ ייִדישע, אַ ייִדישע eh אַ ייִדישע ש-, אַ ייִדישע שטאָט קען מען זאָגן"
-        intervals [234]:
+        intervals [235]:
             xmin = 713.190000
             xmax = 713.277000
             text = ""
-        intervals [235]:
+        intervals [236]:
             xmin = 713.277000
             xmax = 716.224000
             text = "ah ס'איז געװען חסידים, האָט <מען> זיך אָנגערופֿן זיך דאָרטן."
-        intervals [236]:
+        intervals [237]:
             xmin = 716.224000
             xmax = 716.232000
             text = ""
-        intervals [237]:
+        intervals [238]:
             xmin = 716.232000
             xmax = 719.856000
             text = "<האָט מען>, ס'איז גע- אַלץ געװען, די פֿײַער־לעשער"
-        intervals [238]:
+        intervals [239]:
             xmin = 719.856000
             xmax = 720.076000
             text = ""
-        intervals [239]:
+        intervals [240]:
             xmin = 720.076000
             xmax = 721.952000
             text = "די <שומר->קאָמיטעט"
-        intervals [240]:
+        intervals [241]:
             xmin = 721.952000
             xmax = 722.047000
             text = ""
-        intervals [241]:
+        intervals [242]:
             xmin = 722.047000
             xmax = 726.404000
             text = "מיט נאָך אַזױנע אָרגאַניזאַציעס, אַלץ װ- אַלץ װאָס ס'איז געװען אָנגעפֿירט פֿון די ייִדן."
-        intervals [242]:
+        intervals [243]:
             xmin = 726.404000
             xmax = 726.940000
             text = ""
-        intervals [243]:
+        intervals [244]:
             xmin = 726.940000
             xmax = 729.393000
             text = "און קײן אַנטיסעמיטיזם האָט מען ניט געפֿילט דאָרטן"
-        intervals [244]:
+        intervals [245]:
             xmin = 729.393000
             xmax = 731.452000
             text = "װײַל דאָס איז ניט געװען פֿון װעמען צו פֿילן."
-        intervals [245]:
+        intervals [246]:
             xmin = 731.452000
             xmax = 732.803000
             text = ""
-        intervals [246]:
+        intervals [247]:
             xmin = 732.803000
             xmax = 734.037000
             text = "אַלע ייִדן, יע."
-        intervals [247]:
+        intervals [248]:
             xmin = 734.037000
             xmax = 738.614000
             text = ""
-        intervals [248]:
+        intervals [249]:
             xmin = 738.614000
             xmax = 739.073000
             text = "יע?"
-        intervals [249]:
+        intervals [250]:
             xmin = 739.073000
             xmax = 745.051000
             text = ""
-        intervals [250]:
+        intervals [251]:
             xmin = 745.051000
             xmax = 747.876000
             text = "אַז די, װען די קריג האָט זיך אָנגעהױבן,"
-        intervals [251]:
+        intervals [252]:
             xmin = 747.876000
             xmax = 749.164000
             text = ""
-        intervals [252]:
+        intervals [253]:
             xmin = 749.164000
             xmax = 752.659000
             text = "eh איך בין געװען מיט מײַן פֿרױ אין די-, איז געקומען אין דיסנע"
-        intervals [253]:
+        intervals [254]:
             xmin = 752.659000
             xmax = 753.020000
             text = ""
-        intervals [254]:
+        intervals [255]:
             xmin = 753.020000
             xmax = 754.453000
             text = "צו זען זיך."
-        intervals [255]:
+        intervals [256]:
             xmin = 754.453000
             xmax = 754.817000
             text = ""
-        intervals [256]:
+        intervals [257]:
             xmin = 754.817000
             xmax = 756.466000
             text = "נאָר מיר האָבן נאָך ניט אַזױ"
-        intervals [257]:
+        intervals [258]:
             xmin = 756.466000
             xmax = 757.792000
             text = ""
-        intervals [258]:
+        intervals [259]:
             xmin = 757.792000
             xmax = 759.879000
             text = "גע- געפֿילט צו זען זיך"
-        intervals [259]:
+        intervals [260]:
             xmin = 759.879000
             xmax = 763.010000
             text = "װי ס'איז eh אױפֿן צװײטן טאָג שױן אױסגעבראָכן די מלחמה."
-        intervals [260]:
+        intervals [261]:
             xmin = 763.010000
             xmax = 766.138000
             text = ""
-        intervals [261]:
+        intervals [262]:
             xmin = 766.138000
             xmax = 769.643000
             text = "און און אַ- אַזױ װי ס'איז געװאָרן די מלחמה איז שױן געװען דאָרטן גע-"
-        intervals [262]:
+        intervals [263]:
             xmin = 769.643000
             xmax = 769.751000
             text = ""
-        intervals [263]:
+        intervals [264]:
             xmin = 769.751000
             xmax = 770.498000
             text = "געקומען"
-        intervals [264]:
+        intervals [265]:
             xmin = 770.498000
             xmax = 770.754000
             text = ""
-        intervals [265]:
+        intervals [266]:
             xmin = 770.754000
             xmax = 773.240000
             text = "זען, מײַנע שװעסטער זײַנען געקומען צו פֿאָרן זען"
-        intervals [266]:
+        intervals [267]:
             xmin = 773.240000
             xmax = 773.694000
             text = ""
-        intervals [267]:
+        intervals [268]:
             xmin = 773.694000
             xmax = 775.033000
             text = "מײַן מײַן פֿרױ"
-        intervals [268]:
+        intervals [269]:
             xmin = 775.033000
             xmax = 776.673000
             text = ""
-        intervals [269]:
+        intervals [270]:
             xmin = 776.673000
             xmax = 779.684000
             text = "איז, אַז ס'איז געװאָרן די מלחמה האָט מען געדאַרפֿט פֿאָרן צוריק"
-        intervals [270]:
+        intervals [271]:
             xmin = 779.684000
             xmax = 779.972000
             text = ""
-        intervals [271]:
+        intervals [272]:
             xmin = 779.972000
             xmax = 784.575000
             text = "יעדער אײנער צו זײַן eh אַהײם, זײ זײַנען געװען אין באַזונדערע שטעט זײַנען זײ געװען."
-        intervals [272]:
+        intervals [273]:
             xmin = 784.575000
             xmax = 784.794000
             text = ""
-        intervals [273]:
+        intervals [274]:
             xmin = 784.794000
             xmax = 788.000000
             text = "און פֿון און, פֿון דיסנע איז קײן באַנען ניט געגאַנגען"
-        intervals [274]:
+        intervals [275]:
             xmin = 788.000000
             xmax = 788.164000
             text = ""
-        intervals [275]:
+        intervals [276]:
             xmin = 788.164000
             xmax = 791.465000
             text = "נאָר ס'איז געװען, מע האָט געדאַרפֿט פֿאָרן מיט אַ פֿור, מיט אַ פֿערד."
-        intervals [276]:
+        intervals [277]:
             xmin = 791.465000
             xmax = 791.808000
             text = ""
-        intervals [277]:
+        intervals [278]:
             xmin = 791.808000
             xmax = 794.411000
             text = "זעכציק קילאָמעטער צום באַן"
-        intervals [278]:
+        intervals [279]:
             xmin = 794.411000
             xmax = 795.397000
             text = ""
-        intervals [279]:
+        intervals [280]:
             xmin = 795.397000
             xmax = 797.287000
             text = "און אַזױ װי די"
-        intervals [280]:
+        intervals [281]:
             xmin = 797.287000
             xmax = 797.342000
             text = ""
-        intervals [281]:
+        intervals [282]:
             xmin = 797.342000
             xmax = 800.506000
             text = "ס'האָט אָנגעהױבן די מלחמה האָבן זײ <אונדז> ניט געװעלט נעמען"
-        intervals [282]:
+        intervals [283]:
             xmin = 800.506000
             xmax = 801.127000
             text = ""
-        intervals [283]:
+        intervals [284]:
             xmin = 801.127000
             xmax = 801.903000
             text = "פֿאָרן"
-        intervals [284]:
+        intervals [285]:
             xmin = 801.903000
             xmax = 802.356000
             text = ""
-        intervals [285]:
+        intervals [286]:
             xmin = 802.356000
             xmax = 806.438000
             text = "צום eh אַזױ, צו- צום באַן װײַלע די געלט איז שױן גאָרניט ניט געװען װערט"
-        intervals [286]:
+        intervals [287]:
             xmin = 806.438000
             xmax = 807.369000
             text = ""
-        intervals [287]:
+        intervals [288]:
             xmin = 807.369000
             xmax = 810.849000
             text = "זײַנען מיר אַ טײל געפֿאָרן און אַ טײל אַװעקגעגאַנגען צו פֿוס"
-        intervals [288]:
+        intervals [289]:
             xmin = 810.849000
             xmax = 811.383000
             text = ""
-        intervals [289]:
+        intervals [290]:
             xmin = 811.383000
             xmax = 813.065000
             text = "ביז eh צו פֿ-..."
-        intervals [290]:
+        intervals [291]:
             xmin = 813.065000
             xmax = 814.684000
             text = "דאָס איז אַ"
-        intervals [291]:
+        intervals [292]:
             xmin = 814.684000
             xmax = 814.849000
             text = ""
-        intervals [292]:
+        intervals [293]:
             xmin = 814.849000
             xmax = 816.369000
             text = "אַ הונדערט eh"
-        intervals [293]:
+        intervals [294]:
             xmin = 816.369000
             xmax = 816.643000
             text = ""
-        intervals [294]:
+        intervals [295]:
             xmin = 816.643000
             xmax = 820.246000
             text = "אַ אַ הונדערט צװאַנציק, הונדערט דרײַסיק מע- מײַל."
-        intervals [295]:
+        intervals [296]:
             xmin = 820.246000
             xmax = 821.000000
             text = ""
-        intervals [296]:
+        intervals [297]:
             xmin = 821.000000
             xmax = 824.027000
             text = "זענען מיר צװײ־דרײַ טעג געגאַנגען צו פֿוס"
-        intervals [297]:
+        intervals [298]:
             xmin = 824.027000
             xmax = 824.246000
             text = ""
-        intervals [298]:
+        intervals [299]:
             xmin = 824.246000
             xmax = 827.095000
             text = "און מיר האָבן דערגרײכט צו קומען אין מינסק."
-        intervals [299]:
+        intervals [300]:
             xmin = 827.095000
             xmax = 827.246000
             text = ""
-        intervals [300]:
+        intervals [301]:
             xmin = 827.246000
             xmax = 829.190000
             text = "אַזױ אַז מיר זײַנען אַרײַן אין מינסק"
-        intervals [301]:
+        intervals [302]:
             xmin = 829.190000
             xmax = 829.633000
             text = ""
-        intervals [302]:
+        intervals [303]:
             xmin = 829.633000
             xmax = 831.455000
             text = "איז שױן דאָרטן אָבער געװען דער דײַטש."
-        intervals [303]:
+        intervals [304]:
             xmin = 831.455000
             xmax = 831.671000
             text = ""
-        intervals [304]:
+        intervals [305]:
             xmin = 831.671000
             xmax = 835.177000
             text = "מע האָט שױן ניט געקענט אָפּגײן ע- ערגעץ װוּ אין אַ זײַט."
-        intervals [305]:
+        intervals [306]:
             xmin = 835.177000
             xmax = 835.405000
             text = ""
-        intervals [306]:
+        intervals [307]:
             xmin = 835.405000
             xmax = 837.855000
             text = "זײ האָבן אַ-, אונדז אַרומגערינגלט."
-        intervals [307]:
+        intervals [308]:
             xmin = 837.855000
             xmax = 838.052000
             text = ""
-        intervals [308]:
+        intervals [309]:
             xmin = 838.052000
             xmax = 842.526000
             text = "ס'איז געװען, געגאַנגען אַזױ מיט אַ שטראָם ייִדן"
-        intervals [309]:
+        intervals [310]:
             xmin = 842.526000
             xmax = 842.631000
             text = ""
-        intervals [310]:
+        intervals [311]:
             xmin = 842.631000
             xmax = 845.131000
             text = "װאָס אין אין די טױזנטער"
-        intervals [311]:
+        intervals [312]:
             xmin = 845.131000
             xmax = 845.171000
             text = ""
-        intervals [312]:
+        intervals [313]:
             xmin = 845.171000
             xmax = 847.937000
             text = "װאָס מע האָט אָנגעפֿירט פֿון אַלע שטעטלעך, פֿון אומעטום"
-        intervals [313]:
+        intervals [314]:
             xmin = 847.937000
             xmax = 851.937000
             text = "און מ'איז געגאַנגען מיט ני- װאָס, װוּ מע האָט געקענט גײן, מ'איז געגאַנגען."
-        intervals [314]:
+        intervals [315]:
             xmin = 851.937000
             xmax = 854.646000
             text = "די דײַטשן האָ- האָבן פֿאַרכאַפּט די װעג"
-        intervals [315]:
+        intervals [316]:
             xmin = 854.646000
             xmax = 855.633000
             text = "פֿריִער"
-        intervals [316]:
+        intervals [317]:
             xmin = 855.633000
             xmax = 858.898000
             text = "און זײ האָבן אַלץ אַרומגערינגלט און אַלעמען אַרײַנגענומען אין פּלען."
-        intervals [317]:
+        intervals [318]:
             xmin = 858.898000
             xmax = 862.608000
             text = ""
-        intervals [318]:
+        intervals [319]:
             xmin = 862.608000
             xmax = 867.443000
             text = "נו, און די, uh, אַז מיר זײַנען גע- <אַװעק ערגעץ װוּ>, אַז מיר זײַנען אָבער צוגעקומען צו מינסק"
-        intervals [319]:
+        intervals [320]:
             xmin = 867.443000
             xmax = 871.139000
             text = "אַזױ אַז מ'איז אַרײַן, מע, זײ האָבן געגעבן בײַ די דײַטשן, די דײַטשן האָבן"
-        intervals [320]:
+        intervals [321]:
             xmin = 871.139000
             xmax = 873.233000
             text = "גלײַך גע- אַרױסגעגעבן אַ באַפֿעל"
-        intervals [321]:
+        intervals [322]:
             xmin = 873.233000
             xmax = 876.671000
             text = "אַז די מענער ניט־ייִדן"
-        intervals [322]:
+        intervals [323]:
             xmin = 876.671000
             xmax = 880.025000
             text = "זאָלן זײַן אָפּגעטײלט באַזונדער,"
-        intervals [323]:
+        intervals [324]:
             xmin = 880.025000
             xmax = 882.203000
             text = "געגעבן אַ פּלאַץ אױף אַ פֿעלד,"
-        intervals [324]:
+        intervals [325]:
             xmin = 882.203000
             xmax = 886.570000
             text = "דאָרטן האָבן זײ גוט געהרגעט eh װיפֿל זײ האָבן געקענט, געשאָסן"
-        intervals [325]:
+        intervals [326]:
             xmin = 886.570000
             xmax = 890.861000
             text = "נאָר גלײַכצײַטיק האָבן זײ גע- געטײלט מענטשן אױף אַרבעט"
-        intervals [326]:
+        intervals [327]:
             xmin = 890.861000
             xmax = 894.979000
             text = "אױף פֿאַרשײדענע שװאַרצע אַרבעט. און זײ האָבן אױסגערופֿן"
-        intervals [327]:
+        intervals [328]:
             xmin = 894.979000
             xmax = 897.454000
             text = """װער האָט געאַרבעט אױף די <בע-> ראַדיאָ־זאַװאָד?"""
-        intervals [328]:
+        intervals [329]:
             xmin = 897.454000
             xmax = 898.441000
             text = ""
-        intervals [329]:
+        intervals [330]:
             xmin = 898.441000
             xmax = 900.330000
             text = "האָבן זיך אָפּגערופֿן ביז אַ פֿופֿצן מענטשן"
-        intervals [330]:
+        intervals [331]:
             xmin = 900.330000
             xmax = 901.139000
             text = ""
-        intervals [331]:
+        intervals [332]:
             xmin = 901.139000
             xmax = 904.139000
             text = "אַז זײ האָבן געאַרבעט אינזשעניערן, פֿאַ- פֿאַרשײדענע"
-        intervals [332]:
+        intervals [333]:
             xmin = 904.139000
             xmax = 908.474000
             text = "און איך בין געװען מיט זײ, בײַ זײ, אין אין די אין דער צאָל."
-        intervals [333]:
+        intervals [334]:
             xmin = 908.474000
             xmax = 912.645000
             text = "האָבן זײ אונדז גענומען אױף אַ מאַשין און מע האָט אונדז אַװעקגעפֿירט אױפֿן פֿאַבריק."
-        intervals [334]:
+        intervals [335]:
             xmin = 912.645000
             xmax = 915.516000
             text = "אין אַ באַראַק, דאָרטן געװען אַ באַראַק אַ גרױסע"
-        intervals [335]:
+        intervals [336]:
             xmin = 915.516000
             xmax = 920.522000
             text = "װאָס זײ האָבן אונדז געגעבן דאָרטן אַז מיר קענען מיר שלאָפֿן און דאָרטן װעלן מיר אַרבעטן."
-        intervals [336]:
+        intervals [337]:
             xmin = 920.522000
             xmax = 920.823000
             text = ""
-        intervals [337]:
+        intervals [338]:
             xmin = 920.823000
             xmax = 924.304000
             text = "נו, פֿאַרשטײט זיך"
-        intervals [338]:
+        intervals [339]:
             xmin = 924.304000
             xmax = 927.861000
             text = "אַז מ'איז געװען, אַז מע האָט געמוזט אַרבעטן האָט מען געמוזט"
-        intervals [339]:
+        intervals [340]:
             xmin = 927.861000
             xmax = 930.696000
             text = "אָנהאַלטן אין דעם לעבן װי מע זאָגט דאָס."
-        intervals [340]:
+        intervals [341]:
             xmin = 930.696000
             xmax = 933.708000
             text = "אָבער זײ האָבן נאָך צוגעפֿירט צו אונדז"
-        intervals [341]:
+        intervals [342]:
             xmin = 933.708000
             xmax = 936.949000
             text = "נאָך הונדערטער, צװײ הונדערט, דרײַ הונדערט"
-        intervals [342]:
+        intervals [343]:
             xmin = 936.949000
             xmax = 940.921000
             text = "פֿון געטאָ גענומען נאָך אַרבעטער פֿאַר די קהילה, די GMINA"
-        intervals [343]:
+        intervals [344]:
             xmin = 940.921000
             xmax = 943.235000
             text = "האָט עס צוגעשיקט."
-        intervals [344]:
+        intervals [345]:
             xmin = 943.235000
             xmax = 944.613000
             text = ""
-        intervals [345]:
+        intervals [346]:
             xmin = 944.613000
             xmax = 947.835000
             text = "אַזױ װי, אָבער אַז ס'איז"
-        intervals [346]:
+        intervals [347]:
             xmin = 947.835000
             xmax = 951.873000
             text = "די צײַט איז געװען אַזאַ װאָס זײ האָבן נאָר געװוּסט פֿון פּײַניקן,"
-        intervals [347]:
+        intervals [348]:
             xmin = 951.873000
             xmax = 954.392000
             text = "שלאָגן, הרגענען."
-        intervals [348]:
+        intervals [349]:
             xmin = 954.392000
             xmax = 959.000000
             text = "אַזױ אַז עס זײַנען געװע-, פֿון די צ- eh די צװײ־דרײַ הונדערט פֿלעגן"
-        intervals [349]:
+        intervals [350]:
             xmin = 959.000000
             xmax = 964.531000
             text = "אַ העלפֿט אָפּבלײַבן ברענגען װײַטער אַהער װײַטער אַ פּ- אַ גרופּע אַזאַ"
-        intervals [350]:
+        intervals [351]:
             xmin = 964.531000
             xmax = 969.468000
             text = "און מע האָט צעשלאָגן אַלע ביז ס'איז שױן געבליבן אַ קלײנע צאָל."
-        intervals [351]:
+        intervals [352]:
             xmin = 969.468000
             xmax = 972.629000
             text = "און די געטאָ איז שױן געװען ליקװידירט."
-        intervals [352]:
+        intervals [353]:
             xmin = 972.629000
             xmax = 977.507000
             text = "שױן געװען אין, קײנער איז ניט געװען אין די געטאָ װײַל זײ האָבן דאָרטן שױן אױסגעהרגעט אַלעמען."
-        intervals [353]:
+        intervals [354]:
             xmin = 977.507000
             xmax = 978.366000
             text = ""
-        intervals [354]:
+        intervals [355]:
             xmin = 978.366000
             xmax = 982.957000
             text = "דאַן האָבן זײ אונדז גענ- די װאָס ס'איז געבליבן אין אַ גרױסער צאָל"
-        intervals [355]:
+        intervals [356]:
             xmin = 982.957000
             xmax = 985.183000
             text = "האָבן זײ אונדז אַרױסגעפֿירט אין"
-        intervals [356]:
+        intervals [357]:
             xmin = 985.183000
             xmax = 988.968000
             text = "פּױלן אין POZNAŃ, איז געװען PINNE, אַזאַ"
-        intervals [357]:
+        intervals [358]:
             xmin = 988.968000
             xmax = 991.283000
             text = "שטעטל װאָס דאָרטן איז געװען אַ גרױסע טורמע."
-        intervals [358]:
+        intervals [359]:
             xmin = 991.283000
             xmax = 995.772000
             text = "זײ האָבן אונדז אַרײַנגעפֿירט אין די טורמע, פֿאַרשפּאַרט די טױערן און מע האָט אונדז ניט אַרױסגעלאָזן."
-        intervals [359]:
+        intervals [360]:
             xmin = 995.772000
             xmax = 998.873000
             text = "און צװײ טעג זײַנען מיר אַזױ געלעגן און ניט גע- דאָרטן"
-        intervals [360]:
+        intervals [361]:
             xmin = 998.873000
             xmax = 1000.988000
             text = "און ניט געגעסן, ניט געטרונקען."
-        intervals [361]:
+        intervals [362]:
             xmin = 1000.988000
             xmax = 1004.586000
             text = "דען איז אַרײַנגעקומען דײַטשן"
-        intervals [362]:
+        intervals [363]:
             xmin = 1004.586000
             xmax = 1007.810000
             text = "צו אונדז, אױפֿגעעפֿנט דעם טױער און זײ האָבן געזאָגט"
-        intervals [363]:
+        intervals [364]:
             xmin = 1007.810000
             xmax = 1011.987000
             text = "אַז זײ פֿירן אונדז אַרױס אין אַ לאַגער. זײ האָבן ניט געזאָגט אין װאָס פֿאַר אַ לאַגער,"
-        intervals [364]:
+        intervals [365]:
             xmin = 1011.987000
             xmax = 1016.050000
             text = "נאָר זײ האָבן אונדז אַװעקגעפֿירט אין אַ לאַגער, און דאָס איז געװען BERGEN-BELSEN."
-        intervals [365]:
+        intervals [366]:
             xmin = 1016.050000
             xmax = 1019.474000
             text = "ס'איז געװען דער עקסטרע לאַגער װאָס אַזױ װי, פֿאָרנדיק שױן"
-        intervals [366]:
+        intervals [367]:
             xmin = 1019.474000
             xmax = 1022.081000
             text = "האָבן מיר געזען קרבנות װײַל דאָס איז"
-        intervals [367]:
+        intervals [368]:
             xmin = 1022.081000
             xmax = 1025.995000
             text = "אױפֿן װעג פֿאָרנדיק, דאָס איז געװען מאַסן,"
-        intervals [368]:
+        intervals [369]:
             xmin = 1025.995000
             xmax = 1028.412000
             text = "מאַסן. אַז מ'איז אַרײַנגעפֿאָרן אין BERGEN-BELSEN"
-        intervals [369]:
+        intervals [370]:
             xmin = 1028.412000
             xmax = 1032.379000
             text = "האָבן מיר גלײַך געזען, װײַל דער טױט ליגט װי מע זאָגט דאָס"
-        intervals [370]:
+        intervals [371]:
             xmin = 1032.379000
             xmax = 1038.443000
             text = "גלײַך אױפֿן, אױף די אױף די ייִדן, מאַסן־קבֿרים."
-        intervals [371]:
+        intervals [372]:
             xmin = 1038.443000
             xmax = 1043.228000
             text = "נאָר פֿון דעם איז eh אין יעדער זאַך איז דאָך פֿאַראַן אַ שטיקעלע מזל"
-        intervals [372]:
+        intervals [373]:
             xmin = 1043.228000
             xmax = 1047.772000
             text = "האָבן זײ גע- די, האָבן זײ גענומען פֿון די קאַצעטלער װאָס מיר זײַנען אַרײַנגעקומען"
-        intervals [373]:
+        intervals [374]:
             xmin = 1047.772000
             xmax = 1050.460000
             text = "האָבן זײ גענומען אַ אַ צװײ־דרײַ הונדערט מענטשן"
-        intervals [374]:
+        intervals [375]:
             xmin = 1050.460000
             xmax = 1052.969000
             text = "און מע האָט אַװעקגעפֿירט אין אַ צװײטן לאַגער."
-        intervals [375]:
+        intervals [376]:
             xmin = 1052.969000
             xmax = 1055.582000
             text = "איך געדענק ניט דעם נאָמען פֿון דעם צװײטן לאַגער."
-        intervals [376]:
+        intervals [377]:
             xmin = 1055.582000
             xmax = 1057.318000
             text = "נאָר דאָס איז געװען אין דײַטשלאַנד."
-        intervals [377]:
+        intervals [378]:
             xmin = 1057.318000
             xmax = 1060.038000
             text = "זײ האָבן געבױט דאָרטן אונטערװאַסער־שיפֿן."
-        intervals [378]:
+        intervals [379]:
             xmin = 1060.038000
             xmax = 1060.557000
             text = ""
-        intervals [379]:
+        intervals [380]:
             xmin = 1060.557000
             xmax = 1064.046000
             text = "און מיר זײַנען דאָרטן eh געאַרבעט, דאָרטן האָט מען גע-"
-        intervals [380]:
+        intervals [381]:
             xmin = 1064.046000
             xmax = 1068.336000
             text = "האָבן זײ אונדז געגעבן אַ ביסל עסן װײַל ס'איז שױן געװ- געװען זײער אַ שװערע אַרבעט,"
-        intervals [381]:
+        intervals [382]:
             xmin = 1068.336000
             xmax = 1071.448000
             text = "eh בױען, סטרױען"
-        intervals [382]:
+        intervals [383]:
             xmin = 1071.448000
             xmax = 1075.677000
             text = "און מיר זײַנען"
-        intervals [383]:
+        intervals [384]:
             xmin = 1075.677000
             xmax = 1080.045000
             text = "אָפּגעװען אַ מאָנאַט, צװײ מאָנאַט, איך געדענק ניט גענױ,"
-        intervals [384]:
+        intervals [385]:
             xmin = 1080.045000
             xmax = 1084.035000
             text = "און זײ האָבן אונדז אַװעקגעפֿירט צוריק אין BERGEN-BELSEN."
-        intervals [385]:
+        intervals [386]:
             xmin = 1084.035000
             xmax = 1086.804000
             text = "אַזױ האָט מען אונדז געבראַכט אין BERGEN-BELSEN "
-        intervals [386]:
+        intervals [387]:
             xmin = 1086.804000
             xmax = 1091.063000
             text = "זײַנען מיר אָפּגעװען אַ װאָך, צװײ װאָכן, און ס'איז"
-        intervals [387]:
+        intervals [388]:
             xmin = 1091.063000
             xmax = 1094.536000
             text = "געװע-, געװאָרן אַזױ טומלדיק, אַז מיר קוקן, װאָס קומט דאָ פֿאָר?"
-        intervals [388]:
+        intervals [389]:
             xmin = 1094.536000
             xmax = 1098.426000
             text = "עס װײַזט זיך אַרױס אַז ס'איז אָנגעפֿאָרן די ענגלענדער"
-        intervals [389]:
+        intervals [390]:
             xmin = 1098.426000
             xmax = 1100.003000
             text = "און זײ האָבן אונדז באַפֿרײַט."
-        intervals [390]:
+        intervals [391]:
             xmin = 1100.003000
             xmax = 1101.137000
             text = ""
-        intervals [391]:
+        intervals [392]:
             xmin = 1101.137000
             xmax = 1102.820000
             text = "אַזױ װי זײ האָבן אונדז באַפֿרײַט"
-        intervals [392]:
+        intervals [393]:
             xmin = 1102.820000
             xmax = 1105.370000
             text = "האָט מען גענומען אַרױסגײן פֿון די לאַגערן"
-        intervals [393]:
+        intervals [394]:
             xmin = 1105.370000
             xmax = 1109.003000
             text = "װען ס'איז געװען פֿרײַ. איז eh, גײענדיק אַזױ"
-        intervals [394]:
+        intervals [395]:
             xmin = 1109.003000
             xmax = 1111.160000
             text = "האָב איך געטראָפֿן מײַן װײַב"
-        intervals [395]:
+        intervals [396]:
             xmin = 1111.160000
             xmax = 1115.530000
             text = "דאָרטן מיט נאָך אַ סך, מײַן װײַב'ס בײַ- חבֿרטעס"
-        intervals [396]:
+        intervals [397]:
             xmin = 1115.530000
             xmax = 1117.708000
             text = "װאָס זײ זײַנען געװען צוזאַמען,"
-        intervals [397]:
+        intervals [398]:
             xmin = 1117.708000
             xmax = 1119.956000
             text = "און געטראָפֿן אירע אַ שװעסטער"
-        intervals [398]:
+        intervals [399]:
             xmin = 1119.956000
             xmax = 1122.422000
             text = "מיט די צװײ קלײנע קינדער."
-        intervals [399]:
+        intervals [400]:
             xmin = 1122.422000
             xmax = 1123.642000
             text = ""
-        intervals [400]:
+        intervals [401]:
             xmin = 1123.642000
             xmax = 1124.953000
             text = "און אַז מיר זײַנען גע- eh נ-..."
-        intervals [401]:
+        intervals [402]:
             xmin = 1124.953000
             xmax = 1127.348000
             text = ""
-        intervals [402]:
+        intervals [403]:
             xmin = 1127.348000
             xmax = 1130.626000
             text = "נאָך דעם איז ah מיר האָבן געטראָפֿן אַז מיר זײַנען"
-        intervals [403]:
+        intervals [404]:
             xmin = 1130.626000
             xmax = 1135.111000
             text = "אַזױ װי מע זאָגט, געקומען אַ ביסעלע צו זיך"
-        intervals [404]:
+        intervals [405]:
             xmin = 1135.111000
             xmax = 1139.276000
             text = "האָבן זײ געפֿרעגט װער, װוּ עס לע-, eh, עס האָט געלעבט פֿריִער קען פֿאָרן"
-        intervals [405]:
+        intervals [406]:
             xmin = 1139.276000
             xmax = 1142.621000
             text = "װעלן זײ ש-, מיט אַ באַן אָפּ- eh צופֿירן."
-        intervals [406]:
+        intervals [407]:
             xmin = 1142.621000
             xmax = 1144.729000
             text = "נו, האָבן מיר געטראַכט"
-        intervals [407]:
+        intervals [408]:
             xmin = 1144.729000
             xmax = 1147.824000
             text = "אַז מיר זײַנען געװען אַזױ אױסגעהונגערטע, אױסגעמאַטערטע"
-        intervals [408]:
+        intervals [409]:
             xmin = 1147.824000
             xmax = 1153.719000
             text = "װוּ קענען מיר פֿאָרן אין אַ פֿרעמדע שפּראַך אָן אַ, אין אַ פֿרעמדע לאַנד אָן אַ שפּראַך?"
-        intervals [409]:
+        intervals [410]:
             xmin = 1153.719000
             xmax = 1161.321000
             text = "זײַנען מיר גע-, זײַנען מיר גע-, eh עס איז געבליבן אַזױ, טאָמער האָב איך מײַנע עלטערן געבליבן דאָרטן, מײַן שע- מײַן מ-..."
-        intervals [410]:
+        intervals [411]:
             xmin = 1161.321000
             xmax = 1167.565000
             text = "eh װײַב'ס עלטערן, װער עס איז געבליבן, זײַנען מיר געפֿאָרן צוריק אין רוסלאַנד."
-        intervals [411]:
+        intervals [412]:
             xmin = 1167.565000
             xmax = 1171.807000
             text = "נו, אַזױ װי מיר זײַנען אַרײַנגעפֿאָרן אין רוסלאַנד, פֿאַרשטײט זיך האָב איך קײנעם ניט געטראָפֿן."
-        intervals [412]:
+        intervals [413]:
             xmin = 1171.807000
             xmax = 1174.811000
             text = "אַלע זײַנען געװען אומגעקומען."
-        intervals [413]:
+        intervals [414]:
             xmin = 1174.811000
             xmax = 1178.605000
             text = "האָבן מיר געװעלט פֿאָרן גלײַך צוריק, האָבן זײ ניט"
-        intervals [414]:
+        intervals [415]:
             xmin = 1178.605000
             xmax = 1182.887000
             text = "ניט געלאָזן מיר פֿאָרן, װײַל eh איך האָב זײ געדאַרפֿט װײַזן אַ פּאַס,"
-        intervals [415]:
+        intervals [416]:
             xmin = 1182.887000
             xmax = 1186.687000
             text = "אַ DOKUMENT אַז איך בין אַ פּױלישער."
-        intervals [416]:
+        intervals [417]:
             xmin = 1186.687000
             xmax = 1192.234000
             text = "אָבער פֿון װאַנעט האָב איך געקענט האָבן די, דעם DOKUMENT אַז איך בין געװען אין קאָנצלאַגער מיט, אַז איך האָב קײן זאַך ניט געהאַט"
-        intervals [417]:
+        intervals [418]:
             xmin = 1192.234000
             xmax = 1195.197000
             text = "האָב איך געהאַט אַװעקגעשיקט אין אַרכיװן."
-        intervals [418]:
+        intervals [419]:
             xmin = 1195.197000
             xmax = 1198.946000
             text = "האָבן זײ אױפֿזוכן דאָרטן אַז איך בין געװען אַ פּױלישער בירגער."
-        intervals [419]:
+        intervals [420]:
             xmin = 1198.946000
             xmax = 1201.768000
             text = "נאָר ביז װאַנען ס'איז אָנגעקומען די פּאַפּירן"
-        intervals [420]:
+        intervals [421]:
             xmin = 1201.768000
             xmax = 1202.317000
             text = ""
-        intervals [421]:
+        intervals [422]:
             xmin = 1202.317000
             xmax = 1206.410000
             text = "איז זײַנען געװען שפּעט, און זײ האָבן אונדז ניט אַרױסגעלאָזן."
-        intervals [422]:
+        intervals [423]:
             xmin = 1206.410000
             xmax = 1208.576000
             text = "אין זיבן און פֿופֿציקסטן יאָר"
-        intervals [423]:
+        intervals [424]:
             xmin = 1208.576000
             xmax = 1211.166000
             text = "איז אין טױזנט נײַן הונדערט זיבן און פֿופֿציקסטן איז דאָס"
-        intervals [424]:
+        intervals [425]:
             xmin = 1211.166000
             xmax = 1214.566000
             text = "איז געװען אַ געזעץ אַז די פּױ- װער ס'איז פּױ-, פֿון די פּױלן"
-        intervals [425]:
+        intervals [426]:
             xmin = 1214.566000
             xmax = 1216.735000
             text = "קען פֿאָרן אין פּױלן."
-        intervals [426]:
+        intervals [427]:
             xmin = 1216.735000
             xmax = 1218.388000
             text = ""
-        intervals [427]:
+        intervals [428]:
             xmin = 1218.388000
             xmax = 1220.783000
             text = "אַזױ װי איך בין אַ פּױלישער בירגער"
-        intervals [428]:
+        intervals [429]:
             xmin = 1220.783000
             xmax = 1222.944000
             text = "האָב איך זיך פֿאַרשריבן אַז איך װיל פֿאָרן אין פּױלן"
-        intervals [429]:
+        intervals [430]:
             xmin = 1222.944000
             xmax = 1227.295000
             text = "זײַנען מיר אַרױסגעפֿאָרן אין, eh בין איך אַרױסגעפֿאָרן אין פּױלן מיט מײַן פֿרױ."
-        intervals [430]:
+        intervals [431]:
             xmin = 1227.295000
             xmax = 1230.012000
             text = "אַזױ װי מיר זײַנען געקומען אין פּױלן האָבן מיר געדענקט אַזױ"
-        intervals [431]:
+        intervals [432]:
             xmin = 1230.012000
             xmax = 1232.128000
             text = "אַז מיר װעלן גלײַך פֿאָרן"
-        intervals [432]:
+        intervals [433]:
             xmin = 1232.128000
             xmax = 1236.206000
             text = "אפֿשר אין ISRAEL, װוּ מע קען, נאָר ניט בלײַבן אין רוסלאַנד."
-        intervals [433]:
+        intervals [434]:
             xmin = 1236.206000
             xmax = 1237.597000
             text = ""
-        intervals [434]:
+        intervals [435]:
             xmin = 1237.597000
             xmax = 1239.078000
             text = "eh eh <דאָס איז>"
-        intervals [435]:
+        intervals [436]:
             xmin = 1239.078000
             xmax = 1240.128000
             text = ""
-        intervals [436]:
+        intervals [437]:
             xmin = 1240.128000
             xmax = 1245.749000
             text = "דאָס איז געװען אין eh זעקס און פֿערציקסטן יאָר שױן, זאָלן מיר זײַן..."
-        intervals [437]:
+        intervals [438]:
             xmin = 1245.749000
             xmax = 1245.770000
             text = ""
-        intervals [438]:
+        intervals [439]:
             xmin = 1245.770000
             xmax = 1251.916000
             text = "eh, ני- eh דאַן איז eh אין זיבן און פֿופֿציקסטן יאָר האָט מען אַרױסגעגעבן דעם געזעץ"
-        intervals [439]:
+        intervals [440]:
             xmin = 1251.916000
             xmax = 1256.833000
             text = "זײַנען מיר אַרױסגעפֿאָרן אין פּױלן, און פֿון פּױלן האָבן מיר געהאַט"
-        intervals [440]:
+        intervals [441]:
             xmin = 1256.833000
             xmax = 1261.562000
             text = "eh פּ- eh PAPERS װאָס מע האָט אונדז אַרױסגעפֿאָדערט אַ חבֿר אין אַמעריקע."
-        intervals [441]:
+        intervals [442]:
             xmin = 1261.562000
             xmax = 1267.221000
             text = "נאָר אַז מיר זײַנען געפֿאָרן, מיר האָבן מורא געהאַט טאָמער װעט מען אונדז ניט אַרױסלאָזן זײַנען מיר אַפֿריִער אַװעקגעפֿאָרן אין ISRAEL."
-        intervals [442]:
+        intervals [443]:
             xmin = 1267.221000
             xmax = 1269.852000
             text = "מיר זײַנען געװען דאָרטן אַ קנאַפּע יאָר צײַט"
-        intervals [443]:
+        intervals [444]:
             xmin = 1269.852000
             xmax = 1272.268000
             text = "און מיר זײַנען אַרױסגעפֿאָרן אין אַמעריקע."
-        intervals [444]:
+        intervals [445]:
             xmin = 1272.268000
             xmax = 1275.868000
             text = "אין אַמעריקע בין איך געקומען אין ניו־יאָרק."
-        intervals [445]:
+        intervals [446]:
             xmin = 1275.868000
             xmax = 1278.708000
             text = "כ'האָב געאַרבעט אין מײַן סטאָליערײַ."
-        intervals [446]:
+        intervals [447]:
             xmin = 1278.708000
             xmax = 1282.539000
             text = "בין געװען אַ UNION-מענטש, פֿאַרדינט, איך בין שױן געװען אַ"
-        intervals [447]:
+        intervals [448]:
             xmin = 1282.539000
             xmax = 1286.065000
             text = "װי מע זאָגט עס, אַ מ- אַ מענטש פֿאַר זיך װאָס מיר האָבן געקענט מאַכן אַ לעבן."
-        intervals [448]:
+        intervals [449]:
             xmin = 1286.065000
             xmax = 1291.402000
             text = "מײַן פֿרױ האָט געאַרבעט אַלס אַ BOOKKEEPERin."
-        intervals [449]:
+        intervals [450]:
             xmin = 1291.402000
             xmax = 1295.832000
             text = "אין, ביז ס'איז געקומען דער יאָר װאָס איך האָב געדאַרפֿט RETIREn."
-        intervals [450]:
+        intervals [451]:
             xmin = 1295.832000
             xmax = 1299.948000
             text = "מיר האָבן geRETIREt און מיר זײַנען אַרױסגעפֿאָרן אין פֿלאָרידע."
-        intervals [451]:
+        intervals [452]:
             xmin = 1299.948000
             xmax = 1307.237000
             text = "און יעצט זײַנען מיר geRETIREte, און מיר זיצן אין פֿלאָרידע, און און מיר דאַנקען גאָט פֿאַר דעם."
-        intervals [452]:
+        intervals [453]:
             xmin = 1307.237000
             xmax = 1328.308000
             text = ""
-        intervals [453]:
+        intervals [454]:
             xmin = 1328.308000
             xmax = 1331.898000
             text = "די ייִ- eh די די ייִדישע באַפֿעלקערונג אין אין דיסנע"
-        intervals [454]:
+        intervals [455]:
             xmin = 1331.898000
             xmax = 1335.911000
             text = "האָבן זײ eh נאָר געבראַכט אין דיסנע פֿון דעם אַרום, פֿון די קלײנשטעטעלעך"
-        intervals [455]:
+        intervals [456]:
             xmin = 1335.911000
             xmax = 1339.658000
             text = "װוּ ס'איז געװען eh זײער װײניק ייִדן, און זײ האָבן געבראַכט צוזאַמען"
-        intervals [456]:
+        intervals [457]:
             xmin = 1339.658000
             xmax = 1343.795000
             text = "און זײ האָבן פֿאַרשפּאַרט אין, אין אַ, אַזױ װי אין אַ געטאָ"
-        intervals [457]:
+        intervals [458]:
             xmin = 1343.795000
             xmax = 1345.352000
             text = ""
-        intervals [458]:
+        intervals [459]:
             xmin = 1345.352000
             xmax = 1352.501000
             text = "מיט די, אין, ס'איז געװען גע-, איך װײס ניט װיפֿל, גע-, אין צװײ־דרײַ גאַסן האָט מען געהאַלטן די די ייִדן"
-        intervals [459]:
+        intervals [460]:
             xmin = 1352.501000
             xmax = 1356.881000
             text = "ביז זײ האָבן גענומען ליקװידירן, זײ האָבן גענומען אױסשיסן"
-        intervals [460]:
+        intervals [461]:
             xmin = 1356.881000
             xmax = 1358.618000
             text = "די באַפֿעלקערונג."
-        intervals [461]:
+        intervals [462]:
             xmin = 1358.618000
             xmax = 1361.196000
             text = "און אַזױ האָבן זײ געמאַכט פֿון דיסנע, קען מען זאָגן"
-        intervals [462]:
+        intervals [463]:
             xmin = 1361.196000
             xmax = 1368.533000
             text = "איז גע- eh דאָ אפֿשר צװײ צי eh צי דרײַ דיסנער װאָס זײַנען געבליבן לעבן. װי אַזױ זײ זײַנען געבליבן לעבן װײס איך שױן ניט"
-        intervals [463]:
+        intervals [464]:
             xmin = 1368.533000
             xmax = 1371.409000
             text = "נאָר ס'איז דאָ צװײ־דרײַ, װײַל eh"
-        intervals [464]:
+        intervals [465]:
             xmin = 1371.409000
             xmax = 1375.024000
             text = "איך בין געפֿאָרן פֿ- פֿון פּױלן"
-        intervals [465]:
+        intervals [466]:
             xmin = 1375.024000
             xmax = 1377.226000
             text = "אַז איך האָב געדאַרפֿט, פֿאַרן פֿאָרן אין אַמעריקע"
-        intervals [466]:
+        intervals [467]:
             xmin = 1377.226000
             xmax = 1380.005000
             text = "האָב איך געװעלט באַזוכן די קבֿרים"
-        intervals [467]:
+        intervals [468]:
             xmin = 1380.005000
             xmax = 1383.116000
             text = "האָב איך געװעלט באַזוכן װי עס זעט אױס מײַ- מײַן שטאָט."
-        intervals [468]:
+        intervals [469]:
             xmin = 1383.116000
             xmax = 1383.784000
             text = ""
-        intervals [469]:
+        intervals [470]:
             xmin = 1383.784000
             xmax = 1385.778000
             text = "איז געװען מערניט װי אַ חור- eh"
-        intervals [470]:
+        intervals [471]:
             xmin = 1385.778000
             xmax = 1388.209000
             text = "אַלעס צעקלאַפּט, צעהאַקט"
-        intervals [471]:
+        intervals [472]:
             xmin = 1388.209000
             xmax = 1392.081000
             text = "און ס'איז געװען צװײ גרױסע קבֿרים װוּ מ'איז, ס'איז געװען אַלע אױסגעשאָסענע"
-        intervals [472]:
+        intervals [473]:
             xmin = 1392.081000
             xmax = 1395.080000
             text = "װײַל דאָרטן זײַנען זײ געלעגן"
-        intervals [473]:
+        intervals [474]:
             xmin = 1395.080000
             xmax = 1398.861000
             text = "eh גלײב איך אין די טױזנטער."
-        intervals [474]:
+        intervals [475]:
             xmin = 1398.861000
             xmax = 1403.076000
             text = "נו, און אַזױ eh אַזױ היטן מיר אָפּ דאָרטן דאַן"
-        intervals [475]:
+        intervals [476]:
             xmin = 1403.076000
             xmax = 1405.943000
             text = "די אַלע דיסנער, װאָס זײ געפֿינען זיך"
-        intervals [476]:
+        intervals [477]:
             xmin = 1405.943000
             xmax = 1409.658000
             text = "פֿון אַמעריקע, אין רוסלאַנד, אין eh אין CANADA"
-        intervals [477]:
+        intervals [478]:
             xmin = 1409.658000
             xmax = 1412.260000
             text = "שיקן מיר געלט אַז מע זאָל זײ ah"
-        intervals [478]:
+        intervals [479]:
             xmin = 1412.260000
             xmax = 1416.023000
             text = "אַז אײַנהיטן דעם די די קבֿרים."
-        intervals [479]:
+        intervals [480]:
             xmin = 1416.023000
             xmax = 1418.257000
             text = "און אַזױ"
-        intervals [480]:
+        intervals [481]:
             xmin = 1418.257000
             xmax = 1422.538000
             text = "אַזױ זײַנען מיר דאָ געקומען די דעם די דעם גאַנצן לעבן."
-        intervals [481]:
+        intervals [482]:
             xmin = 1422.538000
             xmax = 1423.271000
             text = ""
-        intervals [482]:
+        intervals [483]:
             xmin = 1423.271000
             xmax = 1425.144000
             text = "אױב איר האָט װאָס צו פֿרעגן, ביטע זײער."
-        intervals [483]:
+        intervals [484]:
             xmin = 1425.144000
             xmax = 1442.502000
             text = ""
-        intervals [484]:
+        intervals [485]:
             xmin = 1442.502000
             xmax = 1445.610000
             text = "די ער- די ערשטע יאָרן נאָך אַז איך בין געװען אַ קינד?"
-        intervals [485]:
+        intervals [486]:
             xmin = 1445.610000
             xmax = 1446.790000
             text = ""
-        intervals [486]:
+        intervals [487]:
             xmin = 1446.790000
             xmax = 1449.034000
             text = "אַז איך בין געקומען אין װילנע אין פּױלן."
-        intervals [487]:
+        intervals [488]:
             xmin = 1449.034000
             xmax = 1452.346000
             text = ""
-        intervals [488]:
+        intervals [489]:
             xmin = 1452.346000
             xmax = 1453.869000
             text = "אין ניו־יאָרק?"
-        intervals [489]:
+        intervals [490]:
             xmin = 1453.869000
             xmax = 1457.318000
             text = "נו, אין ניו־יאָרק װײסט איר eh געאַרבעט"
-        intervals [490]:
+        intervals [491]:
             xmin = 1457.318000
             xmax = 1460.704000
             text = "און דאָ איז געװען זײער אַ סך אָנגעפֿאָרענע"
-        intervals [491]:
+        intervals [492]:
             xmin = 1460.704000
             xmax = 1463.108000
             text = "פֿון RUSSIA"
-        intervals [492]:
+        intervals [493]:
             xmin = 1463.108000
             xmax = 1465.764000
             text = "װאָס מיר האָבן געהאַט זײער פֿיל באַקאַנטע."
-        intervals [493]:
+        intervals [494]:
             xmin = 1465.764000
             xmax = 1467.895000
             text = "מע האָט זײער גוט פֿאַרבראַכט,"
-        intervals [494]:
+        intervals [495]:
             xmin = 1467.895000
             xmax = 1469.782000
             text = "מע האָט גוט פֿאַרדינט."
-        intervals [495]:
+        intervals [496]:
             xmin = 1469.782000
             xmax = 1473.996000
             text = "מיר האָבן נאָר געדאַנקט גאָט װאָס מיר זײַנען אַרײַנגעפֿאַלן אין A- אין AMERICA."
-        intervals [496]:
+        intervals [497]:
             xmin = 1473.996000
             xmax = 1477.797000
             text = "און אַמעריקע איז די בעסטע לאַנד אין דער װעלט."
-        intervals [497]:
+        intervals [498]:
             xmin = 1477.797000
             xmax = 1482.483000
             text = "און מיר זײַנען געװ-, פֿאַרשטײט זיך, מיר האָבן נאָך אַזאַ אומקום מיט אַזאַ מיט אַזאַ לעבן"
-        intervals [498]:
+        intervals [499]:
             xmin = 1482.483000
             xmax = 1487.500000
             text = "זײַנען מיר געװען צופֿרידן מיט יעדער ביסעלע װאָס ס'האָט נאָר געקענט זײַן."
-        intervals [499]:
+        intervals [500]:
             xmin = 1487.500000
             xmax = 1489.645000
             text = "מיר זײַנען נאָך הײַנט אױך צופֿרידן"
-        intervals [500]:
+        intervals [501]:
             xmin = 1489.645000
             xmax = 1512.608000
             text = ""
-        intervals [501]:
+        intervals [502]:
             xmin = 1512.608000
             xmax = 1520.015000
             text = "eh NOW, YES? THIS IS MY WIFE, LIZA. זי..."
-        intervals [502]:
+        intervals [503]:
             xmin = 1520.015000
             xmax = 1527.246000
             text = "די גע- מײַן באַליבטע און מײַן בעסטע פֿרײַנדינע װאָס סע קען נאָר געבן אין מײַן לעבן."
-        intervals [503]:
+        intervals [504]:
             xmin = 1527.246000
             xmax = 1532.857000
             text = "זי איז בײַ מיר הײַנט אַלעס װײַל מער קײנעם האָב איך ניט."
-        intervals [504]:
+        intervals [505]:
             xmin = 1532.857000
             xmax = 1535.324000
             text = "און איך האָף אַז מיר װעלן אױסלעבן די הונדערט צװאַנציק יאָר."
-        intervals [505]:
+        intervals [506]:
             xmin = 1535.324000
             xmax = 1548.132000
             text = ""
-        intervals [506]:
+        intervals [507]:
             xmin = 1548.132000
             xmax = 1549.498000
             text = "WHAT WAS... WHAT WAS..."
-        intervals [507]:
+        intervals [508]:
             xmin = 1549.498000
             xmax = 1550.993000
             text = ""
-        intervals [508]:
+        intervals [509]:
             xmin = 1550.993000
             xmax = 1553.324000
             text = "oh I MEET HER IN MINSK,"
-        intervals [509]:
+        intervals [510]:
             xmin = 1553.324000
             xmax = 1555.422000
             text = ""
-        intervals [510]:
+        intervals [511]:
             xmin = 1555.422000
             xmax = 1557.403000
             text = "IN MINSK BY SKATING."
-        intervals [511]:
+        intervals [512]:
             xmin = 1557.403000
             xmax = 1558.294000
             text = ""
-        intervals [512]:
+        intervals [513]:
             xmin = 1558.294000
             xmax = 1560.067000
             text = "AND SHE IS, SHE FALLED,"
-        intervals [513]:
+        intervals [514]:
             xmin = 1560.067000
             xmax = 1561.164000
             text = ""
-        intervals [514]:
+        intervals [515]:
             xmin = 1561.164000
             xmax = 1563.468000
             text = "AND I I TAKE HER UP"
-        intervals [515]:
+        intervals [516]:
             xmin = 1563.468000
             xmax = 1566.199000
             text = "AND I SAID eh ""I'M SORRY,"
-        intervals [516]:
+        intervals [517]:
             xmin = 1566.199000
             xmax = 1569.572000
             text = "MAYBE YOU LIKE TO GO WITH ME IN THE MOVIES?"""
-        intervals [517]:
+        intervals [518]:
             xmin = 1569.572000
             xmax = 1573.046000
             text = "AND THEN WE START A LITTLE"
-        intervals [518]:
+        intervals [519]:
             xmin = 1573.046000
             xmax = 1575.312000
             text = "TO TALK"
-        intervals [519]:
+        intervals [520]:
             xmin = 1575.312000
             xmax = 1578.774000
             text = "ABOUT EH"
-        intervals [520]:
+        intervals [521]:
             xmin = 1578.774000
             xmax = 1581.719000
             text = "HOW IS, HOW YOU LIVE, HOW IS EVERYTHING."
-        intervals [521]:
+        intervals [522]:
             xmin = 1581.719000
             xmax = 1584.312000
             text = "נו, פֿון THIS TIME"
-        intervals [522]:
+        intervals [523]:
             xmin = 1584.312000
             xmax = 1589.221000
             text = "WE MAKE eh LOVING HER."
-        intervals [523]:
+        intervals [524]:
             xmin = 1589.221000
             xmax = 1599.389000
             text = ""
-        intervals [524]:
+        intervals [525]:
             xmin = 1599.389000
             xmax = 1599.967000
             text = "WE MA-"
-        intervals [525]:
+        intervals [526]:
             xmin = 1599.967000
             xmax = 1607.727000
             text = ""
-        intervals [526]:
+        intervals [527]:
             xmin = 1607.727000
             xmax = 1610.143000
             text = "WE MARRIED IN RUSSIA JUST"
-        intervals [527]:
+        intervals [528]:
             xmin = 1610.143000
             xmax = 1612.270000
             text = "EH IN THE BOOKS."
-        intervals [528]:
+        intervals [529]:
             xmin = 1612.270000
             xmax = 1614.792000
             text = ""
-        intervals [529]:
+        intervals [530]:
             xmin = 1614.792000
             xmax = 1615.679000
             text = "YES."
-        intervals [530]:
+        intervals [531]:
             xmin = 1615.679000
             xmax = 1779.511000
             text = ""
-        intervals [531]:
+        intervals [532]:
             xmin = 1779.511000
             xmax = 1781.636000
             text = "AND THEY GIVE US EH THE ROOM."
-        intervals [532]:
+        intervals [533]:
             xmin = 1781.636000
             xmax = 1785.881000
             text = ""
-        intervals [533]:
+        intervals [534]:
             xmin = 1785.881000
             xmax = 1786.489000
             text = "YEAH."
-        intervals [534]:
+        intervals [535]:
             xmin = 1786.489000
             xmax = 1790.718000
             text = ""
-        intervals [535]:
+        intervals [536]:
             xmin = 1790.718000
             xmax = 1793.492000
             text = "JUST A ROOM <ROO-> AND WE WERE HAPPY."
-        intervals [536]:
+        intervals [537]:
             xmin = 1793.492000
             xmax = 1860.982000
             text = ""
