@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2022-11-20T10:22:34-05:00" VERSION="3.0" FORMAT="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2023-02-02T16:03:31-08:00" VERSION="3.0" FORMAT="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
 		<MEDIA_DESCRIPTOR MEDIA_URL="Henryk_Robak_Tape1.m4a" RELATIVE_MEDIA_URL="./Henryk_Robak_Tape1.m4a" MIME_TYPE="audio/mp4" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -2450,7 +2450,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1472" TIME_SLOT_REF1="ts1154" TIME_SLOT_REF2="ts1156">
-				<ANNOTATION_VALUE>&lt;איז UNK&gt; ליטע האָט דאָך דעמאָלט שױן געהערט</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>BO ליטע האָט דאָך דעמאָלט שױן געהערט</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3130,7 +3130,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1608" TIME_SLOT_REF1="ts1698" TIME_SLOT_REF2="ts1700">
-				<ANNOTATION_VALUE>נישט קײן -קאָשעדיקן, גרױסן אַ ביסל אַק- eh אַרכיװ, אַזױ װי מע זאָגט.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>נישט קײן -קשהדיקן, גרױסן אַ ביסל אַק- eh אַרכיװ, אַזױ װי מע זאָגט.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
