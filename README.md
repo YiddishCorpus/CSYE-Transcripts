@@ -18,7 +18,7 @@ Transcripts are available in several different formats, each in its own director
 * `eaf/`: Transcript files, in both orthographies, that can be opened in [ELAN](https://archive.mpi.nl/tla/elan), with a separate tier for each speaker
 * `TextGrid/`: Transcript files, in both orthographies, that can be opened in [Praat](https://www.fon.hum.uva.nl/praat/), with a separate tier for each speaker
 
-There are also directories containing the transcripts in subtitle format (`srt/`, `vtt/`), which we use to embed subtitles in the videos displayed on the corpus website. We do not recommend using these because they are not as informative as the other formats (they do not include speaker names).
+There are also directories containing the transcripts in subtitle format (`srt/`, `vtt/`), which we use to embed subtitles in the videos displayed on the corpus website. We do not recommend using these because they are not as informative as the other formats (they do not include speaker names or tiers, some disfluencies, etc.).
 
 ## Submitting corrections
 
