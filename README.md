@@ -1,4 +1,4 @@
-# <a href="#"><img alt="CSYE logo" src="https://www.yiddishcorpus.org/csye/assets/img/logo/CSYE-logo.svg" width="75px" /></a> CSYE Transcripts
+# <a href="https://www.yiddishcorpus.org"><img alt="CSYE logo" src="https://www.yiddishcorpus.org/csye/assets/img/logo/CSYE-logo.svg" width="75px" /></a> CSYE Transcripts
 
 This public repository hosts all of the testimony transcript files that are available as part of the [Corpus of Spoken Yiddish in Europe](https://www.yiddishcorpus.org) (קאָרפּוס פֿון דער ייִדישער שמועסשפּראַך אין אײראָפּע).
 New transcripts are being added all the time, so please check back here for the latest additions.
@@ -7,7 +7,7 @@ As a reminder, the use of all CSYE materials, including these transcripts, is go
 
 ## Download the transcripts
 
-To save the transcripts for offline use, you can either [download a ZIP](https://github.com/YiddishCorpus/CSYE-Transcripts/archive/refs/heads/main.zip) of the repository or, if you have git installed on your computer, clone it:
+To save the transcripts for offline use, you can either [download a ZIP](https://github.com/YiddishCorpus/CSYE-Transcripts/archive/main.zip) of the repository or, if you have git installed on your computer, clone it:
 
     git clone https://github.com/YiddishCorpus/CSYE-Transcripts.git
 
