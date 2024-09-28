@@ -7,9 +7,9 @@ As a reminder, the use of all CSYE materials, including these transcripts, is go
 
 ## Download the transcripts
 
-To save the transcripts for offline use, you can either [download a ZIP](https://github.com/YiddishCorpus/CSYE-Transcripts/archive/main.zip) of the repository or, if you have git installed on your computer, clone it:
+To save the transcripts for offline use, you can either [download a ZIP of the repository here](https://github.com/YiddishCorpus/CSYE-Transcripts/archive/main.zip) or, if you prefer to use the command line:
 
-    git clone https://github.com/YiddishCorpus/CSYE-Transcripts.git
+    wget https://github.com/YiddishCorpus/CSYE-Transcripts/archive/main.zip -O CSYE-Transcripts-main.zip
 
 ## Repository structure
 
