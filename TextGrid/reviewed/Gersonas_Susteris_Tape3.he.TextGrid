@@ -1,0 +1,4240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1731.18 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Gersonas Susteris" 
+        xmin = 0 
+        xmax = 1731.18 
+        intervals: size = 1038 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.027 
+            text = "" 
+        intervals [2]:
+            xmin = 8.027 
+            xmax = 10.012 
+            text = "אַזױ אַז" 
+        intervals [3]:
+            xmin = 10.012 
+            xmax = 10.339 
+            text = "" 
+        intervals [4]:
+            xmin = 10.339 
+            xmax = 12.577 
+            text = "מענטשן האָבן געדאַרפֿט האָבן" 
+        intervals [5]:
+            xmin = 12.577 
+            xmax = 14.743 
+            text = "" 
+        intervals [6]:
+            xmin = 14.743 
+            xmax = 15.969 
+            text = "מע זאָל," 
+        intervals [7]:
+            xmin = 15.969 
+            xmax = 16.059 
+            text = "" 
+        intervals [8]:
+            xmin = 16.059 
+            xmax = 19.766 
+            text = "עס זאָל הײסן אַז זײ גײען אַרבעטן אױפֿן עראָדראָם," 
+        intervals [9]:
+            xmin = 19.766 
+            xmax = 20.127 
+            text = "" 
+        intervals [10]:
+            xmin = 20.127 
+            xmax = 22.855 
+            text = "אַז זײ זאָלן קריגן אין די אַרבעטס־קאַרטע" 
+        intervals [11]:
+            xmin = 22.855 
+            xmax = 23.097 
+            text = "" 
+        intervals [12]:
+            xmin = 23.097 
+            xmax = 25.504 
+            text = "אַ שטעמפּל אַז זײ זײַנען געװען." 
+        intervals [13]:
+            xmin = 25.504 
+            xmax = 27.012 
+            text = "" 
+        intervals [14]:
+            xmin = 27.012 
+            xmax = 30.128 
+            text = "אָבער זײ האָבן אַלײן ניט געװעלט גײן." 
+        intervals [15]:
+            xmin = 30.128 
+            xmax = 30.792 
+            text = "" 
+        intervals [16]:
+            xmin = 30.792 
+            xmax = 33.469 
+            text = "איז געװען אין געטאָ אַזאַ פֿאַך" 
+        intervals [17]:
+            xmin = 33.469 
+            xmax = 34.521 
+            text = "" 
+        intervals [18]:
+            xmin = 34.521 
+            xmax = 35.893 
+            text = "פֿאַר קינדער" 
+        intervals [19]:
+            xmin = 35.893 
+            xmax = 37.057 
+            text = "װי צו זײַן" 
+        intervals [20]:
+            xmin = 37.057 
+            xmax = 39.577 
+            text = "אַ מלאך, פֿלעגט מען דאָס אָנרופֿן." 
+        intervals [21]:
+            xmin = 39.577 
+            xmax = 39.921 
+            text = "" 
+        intervals [22]:
+            xmin = 39.921 
+            xmax = 41.585 
+            text = "הײסט דאָס אַז" 
+        intervals [23]:
+            xmin = 41.585 
+            xmax = 42.25 
+            text = "" 
+        intervals [24]:
+            xmin = 42.25 
+            xmax = 43.999 
+            text = "אַ יונגער ייִנגל" 
+        intervals [25]:
+            xmin = 43.999 
+            xmax = 45.068 
+            text = "" 
+        intervals [26]:
+            xmin = 45.068 
+            xmax = 48.133 
+            text = "פֿון דרײַצן פֿערצן יאָר, פֿופֿצן יאָר," 
+        intervals [27]:
+            xmin = 48.133 
+            xmax = 48.73 
+            text = "" 
+        intervals [28]:
+            xmin = 48.73 
+            xmax = 52.858 
+            text = "פֿלעג גײן פֿאַר אַ גרױסן מענטשן אױפֿן עראָדראָם אַרבעטן" 
+        intervals [29]:
+            xmin = 52.858 
+            xmax = 53.573 
+            text = "" 
+        intervals [30]:
+            xmin = 53.573 
+            xmax = 55.997 
+            text = "און דערפֿאַר פֿלעגט ער קריגן אָפּעסן." 
+        intervals [31]:
+            xmin = 55.997 
+            xmax = 57.049 
+            text = "" 
+        intervals [32]:
+            xmin = 57.049 
+            xmax = 59.793 
+            text = "איך בין אױך געװען אַזאַ מלאך." 
+        intervals [33]:
+            xmin = 59.793 
+            xmax = 61.453 
+            text = "" 
+        intervals [34]:
+            xmin = 61.453 
+            xmax = 63.525 
+            text = "איך בין געגאַנגען פֿאַר מענטשן" 
+        intervals [35]:
+            xmin = 63.525 
+            xmax = 65.446 
+            text = "אַרבעטן אױפֿן עראָדראָם." 
+        intervals [36]:
+            xmin = 65.446 
+            xmax = 65.942 
+            text = "" 
+        intervals [37]:
+            xmin = 65.942 
+            xmax = 67.201 
+            text = "פֿאַר דערפֿאַר" 
+        intervals [38]:
+            xmin = 67.201 
+            xmax = 67.815 
+            text = "" 
+        intervals [39]:
+            xmin = 67.815 
+            xmax = 70.408 
+            text = "פֿלעג איך קריגן אַ לעבל ברױט" 
+        intervals [40]:
+            xmin = 70.408 
+            xmax = 70.887 
+            text = "" 
+        intervals [41]:
+            xmin = 70.887 
+            xmax = 72.315 
+            text = "און אַ טעלער זופּ," 
+        intervals [42]:
+            xmin = 72.315 
+            xmax = 73.941 
+            text = "" 
+        intervals [43]:
+            xmin = 73.941 
+            xmax = 75.47 
+            text = "אַז איך פֿלעג קומען" 
+        intervals [44]:
+            xmin = 75.47 
+            xmax = 75.713 
+            text = "" 
+        intervals [45]:
+            xmin = 75.713 
+            xmax = 76.924 
+            text = "פֿון אָװנט" 
+        intervals [46]:
+            xmin = 76.924 
+            xmax = 78.237 
+            text = "פֿון אַעראָדראָם." 
+        intervals [47]:
+            xmin = 78.237 
+            xmax = 80.286 
+            text = "" 
+        intervals [48]:
+            xmin = 80.286 
+            xmax = 81.697 
+            text = "דעם טעלער זופּ" 
+        intervals [49]:
+            xmin = 81.697 
+            xmax = 81.822 
+            text = "" 
+        intervals [50]:
+            xmin = 81.822 
+            xmax = 83.604 
+            text = "פֿלעג איך אױפֿעסן" 
+        intervals [51]:
+            xmin = 83.604 
+            xmax = 84.167 
+            text = "" 
+        intervals [52]:
+            xmin = 84.167 
+            xmax = 85.612 
+            text = "בײַ דעם מענטשן" 
+        intervals [53]:
+            xmin = 85.612 
+            xmax = 86.091 
+            text = "" 
+        intervals [54]:
+            xmin = 86.091 
+            xmax = 87.269 
+            text = "בײַ װעלכן," 
+        intervals [55]:
+            xmin = 87.269 
+            xmax = 89.021 
+            text = "בײַ װעלכן איך בין געגאַנגען," 
+        intervals [56]:
+            xmin = 89.021 
+            xmax = 89.533 
+            text = "" 
+        intervals [57]:
+            xmin = 89.533 
+            xmax = 92.665 
+            text = "און דעם לעבל ברױט פֿלעג איך ברענגען אין שטוב" 
+        intervals [58]:
+            xmin = 92.665 
+            xmax = 93.077 
+            text = "" 
+        intervals [59]:
+            xmin = 93.077 
+            xmax = 94.353 
+            text = "פֿאַר אַלעמען." 
+        intervals [60]:
+            xmin = 94.353 
+            xmax = 96.992 
+            text = "" 
+        intervals [61]:
+            xmin = 96.992 
+            xmax = 98.319 
+            text = "מײַן טאַטע" 
+        intervals [62]:
+            xmin = 98.319 
+            xmax = 98.595 
+            text = "" 
+        intervals [63]:
+            xmin = 98.595 
+            xmax = 100.175 
+            text = "װאָס ער האָט געאַרבעט" 
+        intervals [64]:
+            xmin = 100.175 
+            xmax = 101.11 
+            text = "" 
+        intervals [65]:
+            xmin = 101.11 
+            xmax = 102.504 
+            text = "בײַ די דײַטשן" 
+        intervals [66]:
+            xmin = 102.504 
+            xmax = 103.742 
+            text = "" 
+        intervals [67]:
+            xmin = 103.742 
+            xmax = 105.99 
+            text = "פֿלעגט, פֿלעגט אױך ברענגען" 
+        intervals [68]:
+            xmin = 105.99 
+            xmax = 106.38 
+            text = "" 
+        intervals [69]:
+            xmin = 106.38 
+            xmax = 107.797 
+            text = "צו ביסלעך" 
+        intervals [70]:
+            xmin = 107.797 
+            xmax = 108.95 
+            text = "עסנװאַרג," 
+        intervals [71]:
+            xmin = 108.95 
+            xmax = 109.986 
+            text = "" 
+        intervals [72]:
+            xmin = 109.986 
+            xmax = 112.376 
+            text = "און דאָס האָט אונדז זײער געהאָלפֿן" 
+        intervals [73]:
+            xmin = 112.376 
+            xmax = 113.8 
+            text = "" 
+        intervals [74]:
+            xmin = 113.8 
+            xmax = 116.274 
+            text = "װײַל spn אין געטאָ" 
+        intervals [75]:
+            xmin = 116.274 
+            xmax = 116.382 
+            text = "" 
+        intervals [76]:
+            xmin = 116.382 
+            xmax = 117.675 
+            text = "מיטן עסן," 
+        intervals [77]:
+            xmin = 117.675 
+            xmax = 117.782 
+            text = "" 
+        intervals [78]:
+            xmin = 117.782 
+            xmax = 119.193 
+            text = "מיט עסנװאַרג," 
+        intervals [79]:
+            xmin = 119.193 
+            xmax = 119.655 
+            text = "" 
+        intervals [80]:
+            xmin = 119.655 
+            xmax = 122.349 
+            text = "איז געװען זײער אַ גרױסער פּראָבלעם," 
+        intervals [81]:
+            xmin = 122.349 
+            xmax = 125.781 
+            text = "" 
+        intervals [82]:
+            xmin = 125.781 
+            xmax = 127.631 
+            text = "װײַלע מענטשן" 
+        intervals [83]:
+            xmin = 127.631 
+            xmax = 127.907 
+            text = "" 
+        intervals [84]:
+            xmin = 127.907 
+            xmax = 129.858 
+            text = "האָבן ניט געהאַט װאָס צום עסן." 
+        intervals [85]:
+            xmin = 129.858 
+            xmax = 130.978 
+            text = "" 
+        intervals [86]:
+            xmin = 130.978 
+            xmax = 133.166 
+            text = "און מען פֿלעגט שטאַרבן פֿון הונגער," 
+        intervals [87]:
+            xmin = 133.166 
+            xmax = 134.978 
+            text = "" 
+        intervals [88]:
+            xmin = 134.978 
+            xmax = 136.845 
+            text = "איבער הױפּט אַזעלכע" 
+        intervals [89]:
+            xmin = 136.845 
+            xmax = 137.83 
+            text = "" 
+        intervals [90]:
+            xmin = 137.83 
+            xmax = 139.478 
+            text = "עלטערע מענטשן" 
+        intervals [91]:
+            xmin = 139.478 
+            xmax = 140.58 
+            text = "" 
+        intervals [92]:
+            xmin = 140.58 
+            xmax = 143.105 
+            text = "װאָס האָבן שױן ניט געקענט גײן אַרבעטן" 
+        intervals [93]:
+            xmin = 143.105 
+            xmax = 143.888 
+            text = "" 
+        intervals [94]:
+            xmin = 143.888 
+            xmax = 146.222 
+            text = "און זײ האָבן ניט געקענט" 
+        intervals [95]:
+            xmin = 146.222 
+            xmax = 146.72 
+            text = "" 
+        intervals [96]:
+            xmin = 146.72 
+            xmax = 151.324 
+            text = "װי מיר פֿלעגן זאָגן אױסקאָמבינירן אַװוּ ניט איז" 
+        intervals [97]:
+            xmin = 151.324 
+            xmax = 151.92 
+            text = "" 
+        intervals [98]:
+            xmin = 151.92 
+            xmax = 152.842 
+            text = "עסן." 
+        intervals [99]:
+            xmin = 152.842 
+            xmax = 154.114 
+            text = "" 
+        intervals [100]:
+            xmin = 154.114 
+            xmax = 155.61 
+            text = "נאָך פֿלעגט מען" 
+        intervals [101]:
+            xmin = 155.61 
+            xmax = 157.253 
+            text = "" 
+        intervals [102]:
+            xmin = 157.253 
+            xmax = 159.221 
+            text = "קריגן עסן דורך אַזױ" 
+        intervals [103]:
+            xmin = 159.221 
+            xmax = 159.227 
+            text = "" 
+        intervals [104]:
+            xmin = 159.227 
+            xmax = 162.815 
+            text = "װאָס אױף דער אַרבעטס־אָרט, װוּ מע פֿלעגט גײן אַרבעטן," 
+        intervals [105]:
+            xmin = 162.815 
+            xmax = 163.311 
+            text = "" 
+        intervals [106]:
+            xmin = 163.311 
+            xmax = 164.958 
+            text = "פֿלעגט מען בײַטן" 
+        intervals [107]:
+            xmin = 164.958 
+            xmax = 165.808 
+            text = "" 
+        intervals [108]:
+            xmin = 165.808 
+            xmax = 166.932 
+            text = "זאַכן" 
+        intervals [109]:
+            xmin = 166.932 
+            xmax = 168.373 
+            text = "" 
+        intervals [110]:
+            xmin = 168.373 
+            xmax = 170.847 
+            text = "מיט די ליטװינער אױף עסנװאַרג." 
+        intervals [111]:
+            xmin = 170.847 
+            xmax = 173.149 
+            text = "" 
+        intervals [112]:
+            xmin = 173.149 
+            xmax = 176.906 
+            text = "נו, דאָס הײסט אַזױ װי, לאָמיר זאָגן, מע ט- פֿלעגט נעמען" 
+        intervals [113]:
+            xmin = 176.906 
+            xmax = 177.199 
+            text = "" 
+        intervals [114]:
+            xmin = 177.199 
+            xmax = 178.458 
+            text = "אַ זײגער" 
+        intervals [115]:
+            xmin = 178.458 
+            xmax = 179.494 
+            text = "" 
+        intervals [116]:
+            xmin = 179.494 
+            xmax = 183.2 
+            text = "אַװע- אַװעק- אַװעקגײן בײַ דער אַרבעט. בײַ דער אַרבעט פֿלעגט זיך טרעפֿן" 
+        intervals [117]:
+            xmin = 183.2 
+            xmax = 183.595 
+            text = "" 
+        intervals [118]:
+            xmin = 183.595 
+            xmax = 187.014 
+            text = "ליטװינער מיט ייִדן פֿלעגן זיך טרעפֿן, פֿלעגט זײַן" 
+        intervals [119]:
+            xmin = 187.014 
+            xmax = 187.425 
+            text = "" 
+        intervals [120]:
+            xmin = 187.425 
+            xmax = 189.815 
+            text = "בײַ די זעלבע אַרבעט. פֿאַרשטײט זיך" 
+        intervals [121]:
+            xmin = 189.815 
+            xmax = 192.135 
+            text = "די ליטװינער האָבן געטאָן בעסערע אַרבעט." 
+        intervals [122]:
+            xmin = 192.135 
+            xmax = 192.285 
+            text = "" 
+        intervals [123]:
+            xmin = 192.285 
+            xmax = 194.658 
+            text = "די ייִדן האָבן געטאָן די שמוציקע אַרבעט." 
+        intervals [124]:
+            xmin = 194.658 
+            xmax = 195.947 
+            text = "" 
+        intervals [125]:
+            xmin = 195.947 
+            xmax = 198.523 
+            text = "אָבער די ליטװינער װעלנדיק האָבן" 
+        intervals [126]:
+            xmin = 198.523 
+            xmax = 198.715 
+            text = "" 
+        intervals [127]:
+            xmin = 198.715 
+            xmax = 199.924 
+            text = "פֿאַר ביליק" 
+        intervals [128]:
+            xmin = 199.924 
+            xmax = 200.352 
+            text = "" 
+        intervals [129]:
+            xmin = 200.352 
+            xmax = 201.983 
+            text = "פֿאַרשײדענע זאַכן" 
+        intervals [130]:
+            xmin = 201.983 
+            xmax = 202.309 
+            text = "" 
+        intervals [131]:
+            xmin = 202.309 
+            xmax = 204.564 
+            text = "פֿלעגן זײ ברענגען אַ שטיקל ברױט," 
+        intervals [132]:
+            xmin = 204.564 
+            xmax = 204.57 
+            text = "" 
+        intervals [133]:
+            xmin = 204.57 
+            xmax = 206.167 
+            text = "אַ שטיקל װוּרשט." 
+        intervals [134]:
+            xmin = 206.167 
+            xmax = 207.726 
+            text = "" 
+        intervals [135]:
+            xmin = 207.726 
+            xmax = 209.93 
+            text = "איז געװען אַזױ, פֿאַר אַ זײגער" 
+        intervals [136]:
+            xmin = 209.93 
+            xmax = 210.004 
+            text = "" 
+        intervals [137]:
+            xmin = 210.004 
+            xmax = 212.293 
+            text = "פֿלעגט מען קריגן אַ האַלבן לעבן ברױט," 
+        intervals [138]:
+            xmin = 212.293 
+            xmax = 213.784 
+            text = "" 
+        intervals [139]:
+            xmin = 213.784 
+            xmax = 215.448 
+            text = "אַ שטיקעלע װוּרשט." 
+        intervals [140]:
+            xmin = 215.448 
+            xmax = 216.18 
+            text = "" 
+        intervals [141]:
+            xmin = 216.18 
+            xmax = 219.92 
+            text = "פֿאַר אַ קאָסטיום פֿלעגט UNK אַװעקטראָגן אַ קאָסטיום" 
+        intervals [142]:
+            xmin = 219.92 
+            xmax = 220.146 
+            text = "" 
+        intervals [143]:
+            xmin = 220.146 
+            xmax = 222.755 
+            text = "פֿלעגט מען קריגן דאָרטן אַ קילאָ פֿלײש." 
+        intervals [144]:
+            xmin = 222.755 
+            xmax = 223.723 
+            text = "" 
+        intervals [145]:
+            xmin = 223.723 
+            xmax = 228.678 
+            text = "tsk אַזױ האָט מען געביטן, אַזױ אַז יעדער אײנער האָט זיך געדרײט װי ער האָט נאָר געקענט," 
+        intervals [146]:
+            xmin = 228.678 
+            xmax = 229.393 
+            text = "" 
+        intervals [147]:
+            xmin = 229.393 
+            xmax = 231.867 
+            text = "נאָר צום קריגן אַ שטיקל ברױט." 
+        intervals [148]:
+            xmin = 231.867 
+            xmax = 234.793 
+            text = "" 
+        intervals [149]:
+            xmin = 234.793 
+            xmax = 236.727 
+            text = "נו, דערפֿאַר," 
+        intervals [150]:
+            xmin = 236.727 
+            xmax = 236.903 
+            text = "" 
+        intervals [151]:
+            xmin = 236.903 
+            xmax = 240.609 
+            text = "װי איך האָב שױן געזאָגט, בין איך געגאַנגען אַלס אַ מלאך אױפֿן עראָדראָם" 
+        intervals [152]:
+            xmin = 240.609 
+            xmax = 240.666 
+            text = "" 
+        intervals [153]:
+            xmin = 240.666 
+            xmax = 241.875 
+            text = "פֿאַר מענטשן" 
+        intervals [154]:
+            xmin = 241.875 
+            xmax = 242.303 
+            text = "" 
+        intervals [155]:
+            xmin = 242.303 
+            xmax = 245.503 
+            text = "און איך האָב אױכעט געהאָלפֿן אין פֿאַמיליע" 
+        intervals [156]:
+            xmin = 245.503 
+            xmax = 247.315 
+            text = "" 
+        intervals [157]:
+            xmin = 247.315 
+            xmax = 248.929 
+            text = "מיט אַ שטיקל ברױט." 
+        intervals [158]:
+            xmin = 248.929 
+            xmax = 252.782 
+            text = "" 
+        intervals [159]:
+            xmin = 252.782 
+            xmax = 254.092 
+            text = "נו, װײַטער," 
+        intervals [160]:
+            xmin = 254.092 
+            xmax = 256.461 
+            text = "" 
+        intervals [161]:
+            xmin = 256.461 
+            xmax = 257.231 
+            text = "דעם" 
+        intervals [162]:
+            xmin = 257.231 
+            xmax = 258.503 
+            text = "" 
+        intervals [163]:
+            xmin = 258.503 
+            xmax = 262.783 
+            text = "דעם eh זעקס און צװאַנציקסטן צו פֿינף און צװאַנציקסטן" 
+        intervals [164]:
+            xmin = 262.783 
+            xmax = 266.012 
+            text = "" 
+        intervals [165]:
+            xmin = 266.012 
+            xmax = 267.288 
+            text = "אָקטאָבער" 
+        intervals [166]:
+            xmin = 267.288 
+            xmax = 270.113 
+            text = "" 
+        intervals [167]:
+            xmin = 270.113 
+            xmax = 271.896 
+            text = "איז אַרױס אַ באַפֿעל" 
+        intervals [168]:
+            xmin = 271.896 
+            xmax = 274.146 
+            text = "" 
+        intervals [169]:
+            xmin = 274.146 
+            xmax = 274.978 
+            text = "אַז דעם" 
+        intervals [170]:
+            xmin = 274.978 
+            xmax = 277.194 
+            text = "אַכט און צװאַנציקסטן אָקטאָבער" 
+        intervals [171]:
+            xmin = 277.194 
+            xmax = 279.006 
+            text = "" 
+        intervals [172]:
+            xmin = 279.006 
+            xmax = 280.502 
+            text = "דאַרפֿן אַלע" 
+        intervals [173]:
+            xmin = 280.502 
+            xmax = 281.014 
+            text = "" 
+        intervals [174]:
+            xmin = 281.014 
+            xmax = 282.442 
+            text = "געטאָ־מענטשן" 
+        intervals [175]:
+            xmin = 282.442 
+            xmax = 284.592 
+            text = "" 
+        intervals [176]:
+            xmin = 284.592 
+            xmax = 286.543 
+            text = "זיך צוזאַמענקלײַבן" 
+        intervals [177]:
+            xmin = 286.543 
+            xmax = 286.701 
+            text = "" 
+        intervals [178]:
+            xmin = 286.701 
+            xmax = 287.96 
+            text = "אין געטאָ" 
+        intervals [179]:
+            xmin = 287.96 
+            xmax = 288.777 
+            text = "" 
+        intervals [180]:
+            xmin = 288.777 
+            xmax = 290.121 
+            text = "אױף אַ פּלאַץ." 
+        intervals [181]:
+            xmin = 290.121 
+            xmax = 291.375 
+            text = "" 
+        intervals [182]:
+            xmin = 291.375 
+            xmax = 293.748 
+            text = "דער פּלאַץ האָט געהײסן DEMOKRATU," 
+        intervals [183]:
+            xmin = 293.748 
+            xmax = 294.447 
+            text = "" 
+        intervals [184]:
+            xmin = 294.447 
+            xmax = 296.483 
+            text = "דער דעמאָקראַטישער פּלאַץ." 
+        intervals [185]:
+            xmin = 296.483 
+            xmax = 301.72 
+            text = "" 
+        intervals [186]:
+            xmin = 301.72 
+            xmax = 303.722 
+            text = "גלײַך פֿון אין דער פֿרי" 
+        intervals [187]:
+            xmin = 303.722 
+            xmax = 305.078 
+            text = "" 
+        intervals [188]:
+            xmin = 305.078 
+            xmax = 306.641 
+            text = "מוזן אַלע" 
+        intervals [189]:
+            xmin = 306.641 
+            xmax = 307.288 
+            text = "" 
+        intervals [190]:
+            xmin = 307.288 
+            xmax = 309.003 
+            text = "קומען אױף דעם פּלאַץ" 
+        intervals [191]:
+            xmin = 309.003 
+            xmax = 311.592 
+            text = "" 
+        intervals [192]:
+            xmin = 311.592 
+            xmax = 314.978 
+            text = "און װער עס בלײַבן אין די שטיבער, מ'װעט גײן" 
+        intervals [193]:
+            xmin = 314.978 
+            xmax = 315.642 
+            text = "" 
+        intervals [194]:
+            xmin = 315.642 
+            xmax = 316.631 
+            text = "קוקן" 
+        intervals [195]:
+            xmin = 316.631 
+            xmax = 316.806 
+            text = "" 
+        intervals [196]:
+            xmin = 316.806 
+            xmax = 318.892 
+            text = "װער עס בלײַבן אין די שטיבער" 
+        intervals [197]:
+            xmin = 318.892 
+            xmax = 320.046 
+            text = "" 
+        intervals [198]:
+            xmin = 320.046 
+            xmax = 321.795 
+            text = "װעט װערן דערשאָסן." 
+        intervals [199]:
+            xmin = 321.795 
+            xmax = 324.72 
+            text = "" 
+        intervals [200]:
+            xmin = 324.72 
+            xmax = 326.165 
+            text = "פֿאַרשטײט זיך" 
+        intervals [201]:
+            xmin = 326.165 
+            xmax = 327.133 
+            text = "" 
+        intervals [202]:
+            xmin = 327.133 
+            xmax = 330.941 
+            text = "אַז מיר האָבן שױן פֿאַרשטאַנען אַז קײן גוטס װעט שױן דאָ ניט זײַן." 
+        intervals [203]:
+            xmin = 330.941 
+            xmax = 331.403 
+            text = "" 
+        intervals [204]:
+            xmin = 331.403 
+            xmax = 332.915 
+            text = "כאָטש מ'האָט געזאָגט" 
+        intervals [205]:
+            xmin = 332.915 
+            xmax = 333.141 
+            text = "" 
+        intervals [206]:
+            xmin = 333.141 
+            xmax = 336.527 
+            text = "אַז מ'װעט אַריבערפֿירן אַ טײל אױף אַנדערע אַרבעט," 
+        intervals [207]:
+            xmin = 336.527 
+            xmax = 336.837 
+            text = "" 
+        intervals [208]:
+            xmin = 336.837 
+            xmax = 340.408 
+            text = "נאָר מיר האָבן געװוּסט אַלץ אַז ס'גײט אַלץ מיט ליגנס." 
+        intervals [209]:
+            xmin = 340.408 
+            xmax = 343.047 
+            text = "" 
+        intervals [210]:
+            xmin = 343.047 
+            xmax = 345.302 
+            text = "דעם אַכט און צװאַנציקסטן אָקטאָבער" 
+        intervals [211]:
+            xmin = 345.302 
+            xmax = 346.067 
+            text = "" 
+        intervals [212]:
+            xmin = 346.067 
+            xmax = 347.512 
+            text = "איז שױן געװען קאַלט." 
+        intervals [213]:
+            xmin = 347.512 
+            xmax = 348.7 
+            text = "" 
+        intervals [214]:
+            xmin = 348.7 
+            xmax = 350.803 
+            text = "ס'איז געװען אַראָפּגעפֿאַלן אַ שנײ." 
+        intervals [215]:
+            xmin = 350.803 
+            xmax = 352.513 
+            text = "" 
+        intervals [216]:
+            xmin = 352.513 
+            xmax = 355.409 
+            text = "פֿאַר טאָג איז נאָך געװען פֿינצטער," 
+        intervals [217]:
+            xmin = 355.409 
+            xmax = 356.766 
+            text = "" 
+        intervals [218]:
+            xmin = 356.766 
+            xmax = 358.802 
+            text = "האָבן זיך פֿון גאַנץ געטאָ" 
+        intervals [219]:
+            xmin = 358.802 
+            xmax = 360.259 
+            text = "" 
+        intervals [220]:
+            xmin = 360.259 
+            xmax = 366.294 
+            text = "אָנגעהױבן צוזאַמענקלײַבן די ייִדן אױף דעם פּלאַץ." 
+        intervals [221]:
+            xmin = 366.294 
+            xmax = 367.077 
+            text = "" 
+        intervals [222]:
+            xmin = 367.077 
+            xmax = 368.539 
+            text = "יונג און אַלט," 
+        intervals [223]:
+            xmin = 368.539 
+            xmax = 368.916 
+            text = "" 
+        intervals [224]:
+            xmin = 368.916 
+            xmax = 370.479 
+            text = "קלײן און גרױס," 
+        intervals [225]:
+            xmin = 370.479 
+            xmax = 371.565 
+            text = "" 
+        intervals [226]:
+            xmin = 371.565 
+            xmax = 373.567 
+            text = "אַלע האָבן זיך געקליבן." 
+        intervals [227]:
+            xmin = 373.567 
+            xmax = 376.206 
+            text = "" 
+        intervals [228]:
+            xmin = 376.206 
+            xmax = 378.478 
+            text = "אַז ס'איז געװאָרן ליכטיקלעך" 
+        intervals [229]:
+            xmin = 378.478 
+            xmax = 379.885 
+            text = "" 
+        intervals [230]:
+            xmin = 379.885 
+            xmax = 381.296 
+            text = "האָבן מיר געזען" 
+        intervals [231]:
+            xmin = 381.296 
+            xmax = 381.505 
+            text = "" 
+        intervals [232]:
+            xmin = 381.505 
+            xmax = 382.832 
+            text = "װי סע קומען" 
+        intervals [233]:
+            xmin = 382.832 
+            xmax = 383.985 
+            text = "" 
+        intervals [234]:
+            xmin = 383.985 
+            xmax = 386.189 
+            text = "ליטװישע שאָל- סאָלדאַטן." 
+        intervals [235]:
+            xmin = 386.189 
+            xmax = 387.445 
+            text = "" 
+        intervals [236]:
+            xmin = 387.445 
+            xmax = 390.291 
+            text = "מען האָט אַרומגערינגלט דעם גאַנצן פּלאַץ," 
+        intervals [237]:
+            xmin = 390.291 
+            xmax = 392.676 
+            text = "" 
+        intervals [238]:
+            xmin = 392.676 
+            xmax = 394.205 
+            text = "אַװעקגעשטעלט" 
+        intervals [239]:
+            xmin = 394.205 
+            xmax = 394.583 
+            text = "" 
+        intervals [240]:
+            xmin = 394.583 
+            xmax = 396.23 
+            text = "קױלן־װאַרפֿערס." 
+        intervals [241]:
+            xmin = 396.23 
+            xmax = 398.295 
+            text = "" 
+        intervals [242]:
+            xmin = 398.295 
+            xmax = 399.841 
+            text = "עס איז געקומען" 
+        intervals [243]:
+            xmin = 399.841 
+            xmax = 401.383 
+            text = "" 
+        intervals [244]:
+            xmin = 401.383 
+            xmax = 402.744 
+            text = "פֿון S.S." 
+        intervals [245]:
+            xmin = 402.744 
+            xmax = 404.252 
+            text = "" 
+        intervals [246]:
+            xmin = 404.252 
+            xmax = 405.528 
+            text = "דער דײַטש" 
+        intervals [247]:
+            xmin = 405.528 
+            xmax = 409.011 
+            text = "" 
+        intervals [248]:
+            xmin = 409.011 
+            xmax = 410.051 
+            text = "און" 
+        intervals [249]:
+            xmin = 410.051 
+            xmax = 411.728 
+            text = "" 
+        intervals [250]:
+            xmin = 411.728 
+            xmax = 413.511 
+            text = "ער האָט געהײסן" 
+        intervals [251]:
+            xmin = 413.511 
+            xmax = 413.719 
+            text = "" 
+        intervals [252]:
+            xmin = 413.719 
+            xmax = 415.783 
+            text = "<הײסט,> ער איז געקומען מיט זײַן סװיטע" 
+        intervals [253]:
+            xmin = 415.783 
+            xmax = 418.117 
+            text = "מיט נאָך דײַטשן פֿון געשטאַפּאָ," 
+        intervals [254]:
+            xmin = 418.117 
+            xmax = 421.195 
+            text = "" 
+        intervals [255]:
+            xmin = 421.195 
+            xmax = 423.191 
+            text = "און ער האָט געהײסן" 
+        intervals [256]:
+            xmin = 423.191 
+            xmax = 424.344 
+            text = "אַלעמען" 
+        intervals [257]:
+            xmin = 424.344 
+            xmax = 428.788 
+            text = "" 
+        intervals [258]:
+            xmin = 428.788 
+            xmax = 430.537 
+            text = "פֿאַמיליעסװײַז" 
+        intervals [259]:
+            xmin = 430.537 
+            xmax = 432.552 
+            text = "" 
+        intervals [260]:
+            xmin = 432.552 
+            xmax = 434.548 
+            text = "און קאָלאָנענװײַז." 
+        intervals [261]:
+            xmin = 434.548 
+            xmax = 437.906 
+            text = "די ייִדישע פּאָליצײ האָט געדאַרפֿט אױסטאָן אַלעמען" 
+        intervals [262]:
+            xmin = 437.906 
+            xmax = 439.143 
+            text = "אין קאָלאָנעס." 
+        intervals [263]:
+            xmin = 439.143 
+            xmax = 439.47 
+            text = "" 
+        intervals [264]:
+            xmin = 439.47 
+            xmax = 440.578 
+            text = "און" 
+        intervals [265]:
+            xmin = 440.578 
+            xmax = 442.744 
+            text = "" 
+        intervals [266]:
+            xmin = 442.744 
+            xmax = 445.387 
+            text = "פֿאַמיליעסװײַז גײן צו אים." 
+        intervals [267]:
+            xmin = 445.387 
+            xmax = 447.823 
+            text = "" 
+        intervals [268]:
+            xmin = 447.823 
+            xmax = 450.551 
+            text = "און ער האָט אָנגעהױבן" 
+        intervals [269]:
+            xmin = 450.551 
+            xmax = 451.097 
+            text = "" 
+        intervals [270]:
+            xmin = 451.097 
+            xmax = 452.356 
+            text = "סאָרטירן." 
+        intervals [271]:
+            xmin = 452.356 
+            xmax = 452.447 
+            text = "" 
+        intervals [272]:
+            xmin = 452.447 
+            xmax = 453.993 
+            text = "דאָס הײסט װי אָפּטײלן." 
+        intervals [273]:
+            xmin = 453.993 
+            xmax = 454.759 
+            text = "" 
+        intervals [274]:
+            xmin = 454.759 
+            xmax = 455.867 
+            text = "ער האָט געשיקט" 
+        intervals [275]:
+            xmin = 455.867 
+            xmax = 456.632 
+            text = "" 
+        intervals [276]:
+            xmin = 456.632 
+            xmax = 459.37 
+            text = "אױף לינקס און אױף רעכטס," 
+        intervals [277]:
+            xmin = 459.37 
+            xmax = 461.48 
+            text = "אױף לינקס און אױף רעכטס." 
+        intervals [278]:
+            xmin = 461.48 
+            xmax = 463.916 
+            text = "װעמען ס'איז אים געפֿעלן געװאָרן." 
+        intervals [279]:
+            xmin = 463.916 
+            xmax = 464.378 
+            text = "" 
+        intervals [280]:
+            xmin = 464.378 
+            xmax = 465.722 
+            text = "פֿאַרשטײט זיך," 
+        intervals [281]:
+            xmin = 465.722 
+            xmax = 467.449 
+            text = "" 
+        intervals [282]:
+            xmin = 467.449 
+            xmax = 469.182 
+            text = "די װאָס זײַנען געװען," 
+        intervals [283]:
+            xmin = 469.182 
+            xmax = 472.872 
+            text = "ער האָט געזען אַז ס'זײַנען נאָך מענטשן װאָס קענען נאָך אַרבעטן," 
+        intervals [284]:
+            xmin = 472.872 
+            xmax = 475.849 
+            text = "װאָס אין פֿאַמיליע זײַנען ניטאָ קײן קלײנע קינדער," 
+        intervals [285]:
+            xmin = 475.849 
+            xmax = 477.838 
+            text = "אָדער װינציק קלײנע קינדער," 
+        intervals [286]:
+            xmin = 477.838 
+            xmax = 478.485 
+            text = "" 
+        intervals [287]:
+            xmin = 478.485 
+            xmax = 479.778 
+            text = "האָט ער געשיקט" 
+        intervals [288]:
+            xmin = 479.778 
+            xmax = 480.46 
+            text = "" 
+        intervals [289]:
+            xmin = 480.46 
+            xmax = 481.703 
+            text = "אױף אײן זײַט," 
+        intervals [290]:
+            xmin = 481.703 
+            xmax = 482.451 
+            text = "" 
+        intervals [291]:
+            xmin = 482.451 
+            xmax = 484.481 
+            text = "װי מיר האָבן דאָס אָנגערופֿן" 
+        intervals [292]:
+            xmin = 484.481 
+            xmax = 485.752 
+            text = "די גוטע זײַט." 
+        intervals [293]:
+            xmin = 485.752 
+            xmax = 486.838 
+            text = "" 
+        intervals [294]:
+            xmin = 486.838 
+            xmax = 489.363 
+            text = "די װאָס ער האָט געשיקט אױף די גוטע זײַט" 
+        intervals [295]:
+            xmin = 489.363 
+            xmax = 489.69 
+            text = "" 
+        intervals [296]:
+            xmin = 489.69 
+            xmax = 492.387 
+            text = "האָבן צוגענומען די ייִדישע" 
+        intervals [297]:
+            xmin = 492.387 
+            xmax = 493.481 
+            text = "פּאָליצײ" 
+        intervals [298]:
+            xmin = 493.481 
+            xmax = 494.837 
+            text = "" 
+        intervals [299]:
+            xmin = 494.837 
+            xmax = 496.552 
+            text = "און אַװעקגעפֿירט" 
+        intervals [300]:
+            xmin = 496.552 
+            xmax = 497.301 
+            text = "" 
+        intervals [301]:
+            xmin = 497.301 
+            xmax = 499.05 
+            text = "צוריק אין געטאָ." 
+        intervals [302]:
+            xmin = 499.05 
+            xmax = 499.815 
+            text = "" 
+        intervals [303]:
+            xmin = 499.815 
+            xmax = 503.369 
+            text = "און די װאָס ער האָט געשיקט אין די לער- אין די שלעכטע זײַט," 
+        intervals [304]:
+            xmin = 503.369 
+            xmax = 505.553 
+            text = "" 
+        intervals [305]:
+            xmin = 505.553 
+            xmax = 508.753 
+            text = "די האָבן צוגענומען די ליטװישע סאָלדאַטן" 
+        intervals [306]:
+            xmin = 508.753 
+            xmax = 509.586 
+            text = "" 
+        intervals [307]:
+            xmin = 509.586 
+            xmax = 511.734 
+            text = "און מ'האָט גלײַך אָנגעהױבן הרגענען" 
+        intervals [308]:
+            xmin = 511.734 
+            xmax = 512.938 
+            text = "און טרײַבן" 
+        intervals [309]:
+            xmin = 512.938 
+            xmax = 513.754 
+            text = "" 
+        intervals [310]:
+            xmin = 513.754 
+            xmax = 516.093 
+            text = "און אױך שטעלן אין קאָלאָנעס" 
+        intervals [311]:
+            xmin = 516.093 
+            xmax = 517.602 
+            text = "" 
+        intervals [312]:
+            xmin = 517.602 
+            xmax = 520.583 
+            text = "און מען האָט זײ אָנגעהױבן טרײַבן" 
+        intervals [313]:
+            xmin = 520.583 
+            xmax = 520.875 
+            text = "" 
+        intervals [314]:
+            xmin = 520.875 
+            xmax = 524.379 
+            text = "און אַװעקגעטריבן אין די געװעזענע קלײנע געטאָ." 
+        intervals [315]:
+            xmin = 524.379 
+            xmax = 526.377 
+            text = "" 
+        intervals [316]:
+            xmin = 526.377 
+            xmax = 528.581 
+            text = "אַזױ אַז אַ גאַנצן טאָג" 
+        intervals [317]:
+            xmin = 528.581 
+            xmax = 529.937 
+            text = "" 
+        intervals [318]:
+            xmin = 529.937 
+            xmax = 531.382 
+            text = "איז געשטאַנען" 
+        intervals [319]:
+            xmin = 531.382 
+            xmax = 533.616 
+            text = "" 
+        intervals [320]:
+            xmin = 533.616 
+            xmax = 536.225 
+            text = "דער פֿון געשטאַפּאָ, דער S.S.־מאַן," 
+        intervals [321]:
+            xmin = 536.225 
+            xmax = 539.353 
+            text = "" 
+        intervals [322]:
+            xmin = 539.353 
+            xmax = 544.156 
+            text = "און ער האָט געטײלט אױף לינקס און אױף רעכטס, אױף לינקס און אױף רעכטס." 
+        intervals [323]:
+            xmin = 544.156 
+            xmax = 545.125 
+            text = "" 
+        intervals [324]:
+            xmin = 545.125 
+            xmax = 547.903 
+            text = "אַזױ האָט ער אָפּגעטײלט אומגעפֿער" 
+        intervals [325]:
+            xmin = 547.903 
+            xmax = 548.179 
+            text = "" 
+        intervals [326]:
+            xmin = 548.179 
+            xmax = 550.029 
+            text = "אױף די שלעכטע זײַט" 
+        intervals [327]:
+            xmin = 550.029 
+            xmax = 550.356 
+            text = "" 
+        intervals [328]:
+            xmin = 550.356 
+            xmax = 552.155 
+            text = "אַרום צען טױזנט" 
+        intervals [329]:
+            xmin = 552.155 
+            xmax = 552.685 
+            text = "" 
+        intervals [330]:
+            xmin = 552.685 
+            xmax = 553.691 
+            text = "מענטשן" 
+        intervals [331]:
+            xmin = 553.691 
+            xmax = 556.178 
+            text = "" 
+        intervals [332]:
+            xmin = 556.178 
+            xmax = 557.623 
+            text = "ביז פֿון אָװנט." 
+        intervals [333]:
+            xmin = 557.623 
+            xmax = 558.068 
+            text = "" 
+        intervals [334]:
+            xmin = 558.068 
+            xmax = 561.724 
+            text = "און מ'האָט זײ אַלעמען אַװעקגעטריבן אין די קלײנע געטאָ." 
+        intervals [335]:
+            xmin = 561.724 
+            xmax = 564.075 
+            text = "" 
+        intervals [336]:
+            xmin = 564.075 
+            xmax = 568.017 
+            text = "און די װאָס ער האָט אָפּגעטײלט אױף די גוטע זײַט האָט מען" 
+        intervals [337]:
+            xmin = 568.017 
+            xmax = 569.712 
+            text = "" 
+        intervals [338]:
+            xmin = 569.712 
+            xmax = 572.068 
+            text = "געהײסן צוריקגײן אין געטאָ." 
+        intervals [339]:
+            xmin = 572.068 
+            xmax = 573.019 
+            text = "" 
+        intervals [340]:
+            xmin = 573.019 
+            xmax = 574.599 
+            text = "אונדזער פֿאַמיליע," 
+        intervals [341]:
+            xmin = 574.599 
+            xmax = 576.58 
+            text = "" 
+        intervals [342]:
+            xmin = 576.58 
+            xmax = 578.092 
+            text = "דאָס הײסט דער טאַטע," 
+        intervals [343]:
+            xmin = 578.092 
+            xmax = 578.453 
+            text = "" 
+        intervals [344]:
+            xmin = 578.453 
+            xmax = 579.611 
+            text = "מײַן מאַמע," 
+        intervals [345]:
+            xmin = 579.611 
+            xmax = 580.714 
+            text = "" 
+        intervals [346]:
+            xmin = 580.714 
+            xmax = 582.665 
+            text = "די שװעסטער און איך," 
+        intervals [347]:
+            xmin = 582.665 
+            xmax = 583.819 
+            text = "" 
+        intervals [348]:
+            xmin = 583.819 
+            xmax = 585.23 
+            text = "זײַנען געגאַנגען" 
+        intervals [349]:
+            xmin = 585.23 
+            xmax = 586.671 
+            text = "" 
+        intervals [350]:
+            xmin = 586.671 
+            xmax = 589.078 
+            text = "אין קאָלאָנע, און הינטער אונדז" 
+        intervals [351]:
+            xmin = 589.078 
+            xmax = 589.759 
+            text = "" 
+        intervals [352]:
+            xmin = 589.759 
+            xmax = 591.474 
+            text = "איז געגאַנגען מײַן אָנקל" 
+        intervals [353]:
+            xmin = 591.474 
+            xmax = 592.729 
+            text = "" 
+        intervals [354]:
+            xmin = 592.729 
+            xmax = 594.056 
+            text = "מיט זײַן פֿרױ" 
+        intervals [355]:
+            xmin = 594.056 
+            xmax = 595.277 
+            text = "" 
+        intervals [356]:
+            xmin = 595.277 
+            xmax = 596.823 
+            text = "און דרײַ קינדער." 
+        intervals [357]:
+            xmin = 596.823 
+            xmax = 599.125 
+            text = "" 
+        intervals [358]:
+            xmin = 599.125 
+            xmax = 601.819 
+            text = "אונדז האָט דער דײַטש געװיזן צו גײן" 
+        intervals [359]:
+            xmin = 601.819 
+            xmax = 602.55 
+            text = "" 
+        intervals [360]:
+            xmin = 602.55 
+            xmax = 604.13 
+            text = "אױף די גוטע זײַט" 
+        intervals [361]:
+            xmin = 604.13 
+            xmax = 604.896 
+            text = "" 
+        intervals [362]:
+            xmin = 604.896 
+            xmax = 606.695 
+            text = "און מיר זײַנען געבליבן לעבן." 
+        intervals [363]:
+            xmin = 606.695 
+            xmax = 608.355 
+            text = "" 
+        intervals [364]:
+            xmin = 608.355 
+            xmax = 610.762 
+            text = "מײַן אָנקל מיט די גאַנצע פֿאַמיליע" 
+        intervals [365]:
+            xmin = 610.762 
+            xmax = 610.87 
+            text = "" 
+        intervals [366]:
+            xmin = 610.87 
+            xmax = 613.176 
+            text = "האָט ער אַװעקגעשיקט אױף די שלעכטע זײַט," 
+        intervals [367]:
+            xmin = 613.176 
+            xmax = 614.667 
+            text = "" 
+        intervals [368]:
+            xmin = 614.667 
+            xmax = 616.956 
+            text = "און דאָס הײסט, געװען צום טױט." 
+        intervals [369]:
+            xmin = 616.956 
+            xmax = 618.193 
+            text = "" 
+        intervals [370]:
+            xmin = 618.193 
+            xmax = 620.667 
+            text = "עס איז געװען אַ שרעקלעכע זאַך." 
+        intervals [371]:
+            xmin = 620.667 
+            xmax = 621.838 
+            text = "" 
+        intervals [372]:
+            xmin = 621.838 
+            xmax = 625.291 
+            text = "די מענטשן װאָס זײַנען געקו- אַרײַן צוריק אין געטאָ" 
+        intervals [373]:
+            xmin = 625.291 
+            xmax = 625.332 
+            text = "" 
+        intervals [374]:
+            xmin = 625.332 
+            xmax = 626.676 
+            text = "אין די שטיבער," 
+        intervals [375]:
+            xmin = 626.676 
+            xmax = 628.403 
+            text = "" 
+        intervals [376]:
+            xmin = 628.403 
+            xmax = 630.439 
+            text = "אין די פּוסטע הײַזער," 
+        intervals [377]:
+            xmin = 630.439 
+            xmax = 630.664 
+            text = "" 
+        intervals [378]:
+            xmin = 630.664 
+            xmax = 632.227 
+            text = "פּוסטע דירות," 
+        intervals [379]:
+            xmin = 632.227 
+            xmax = 633.583 
+            text = "" 
+        intervals [380]:
+            xmin = 633.583 
+            xmax = 635.225 
+            text = "צעטײלטע" 
+        intervals [381]:
+            xmin = 635.225 
+            xmax = 636.8 
+            text = "ברידער," 
+        intervals [382]:
+            xmin = 636.8 
+            xmax = 636.891 
+            text = "" 
+        intervals [383]:
+            xmin = 636.891 
+            xmax = 638.167 
+            text = "שװעסטער," 
+        intervals [384]:
+            xmin = 638.167 
+            xmax = 638.393 
+            text = "" 
+        intervals [385]:
+            xmin = 638.393 
+            xmax = 640.479 
+            text = "אײנע זײַנען געבליבן אױף די זײַט," 
+        intervals [386]:
+            xmin = 640.479 
+            xmax = 641.295 
+            text = "" 
+        intervals [387]:
+            xmin = 641.295 
+            xmax = 643.415 
+            text = "צװײטע אױף די שלעכטע זײַט." 
+        intervals [388]:
+            xmin = 643.415 
+            xmax = 644.67 
+            text = "" 
+        intervals [389]:
+            xmin = 644.67 
+            xmax = 649.153 
+            text = "עס איז געװען אַ שרעקלעכע זאַך צו קוקן. מענטשן האָבן זיך געריסן די האָר פֿון קאָפּ." 
+        intervals [390]:
+            xmin = 649.153 
+            xmax = 652.669 
+            text = "" 
+        intervals [391]:
+            xmin = 652.669 
+            xmax = 654.941 
+            text = "און אַזױ איז דורכגעגאַנגען" 
+        intervals [392]:
+            xmin = 654.941 
+            xmax = 654.981 
+            text = "" 
+        intervals [393]:
+            xmin = 654.981 
+            xmax = 656.59 
+            text = "די נאַכט." 
+        intervals [394]:
+            xmin = 656.59 
+            xmax = 657.343 
+            text = "" 
+        intervals [395]:
+            xmin = 657.343 
+            xmax = 658.94 
+            text = "אױף אין דער פֿרי" 
+        intervals [396]:
+            xmin = 658.94 
+            xmax = 660.87 
+            text = "" 
+        intervals [397]:
+            xmin = 660.87 
+            xmax = 663.82 
+            text = "האָבן מיר געזען, <אַז איך בין> אַרױסגעגאַנגען אין גאַס," 
+        intervals [398]:
+            xmin = 663.82 
+            xmax = 665.027 
+            text = "און פֿון געטאָ" 
+        intervals [399]:
+            xmin = 665.027 
+            xmax = 667.175 
+            text = "האָט זיך געזען דער װעג" 
+        intervals [400]:
+            xmin = 667.175 
+            xmax = 667.468 
+            text = "" 
+        intervals [401]:
+            xmin = 667.468 
+            xmax = 669.47 
+            text = "װאָס פֿירט צום נײַנטן פֿאָרט." 
+        intervals [402]:
+            xmin = 669.47 
+            xmax = 671.839 
+            text = "" 
+        intervals [403]:
+            xmin = 671.839 
+            xmax = 673.236 
+            text = "האָבן מיר געזען" 
+        intervals [404]:
+            xmin = 673.236 
+            xmax = 675.582 
+            text = "װי מע טרײַבט פֿון די קלײנע געטאָ" 
+        intervals [405]:
+            xmin = 675.582 
+            xmax = 676.679 
+            text = "קאָלאָנעס" 
+        intervals [406]:
+            xmin = 676.679 
+            xmax = 677.857 
+            text = "אױף דעם װעג," 
+        intervals [407]:
+            xmin = 677.857 
+            xmax = 678.572 
+            text = "" 
+        intervals [408]:
+            xmin = 678.572 
+            xmax = 680.506 
+            text = "אױפֿן װעג פֿון נײַנטן פֿאָרט." 
+        intervals [409]:
+            xmin = 680.506 
+            xmax = 682.082 
+            text = "" 
+        intervals [410]:
+            xmin = 682.082 
+            xmax = 684.286 
+            text = "האָבן מיר שױן אָנגעהױבן פֿאַרשטײן" 
+        intervals [411]:
+            xmin = 684.286 
+            xmax = 686.233 
+            text = "" 
+        intervals [412]:
+            xmin = 686.233 
+            xmax = 687.948 
+            text = "װאָס עס דערװאַרט זײ." 
+        intervals [413]:
+            xmin = 687.948 
+            xmax = 689.001 
+            text = "" 
+        intervals [414]:
+            xmin = 689.001 
+            xmax = 691.982 
+            text = "און שפּעטער האָט דער, דער נײַנטער פֿאָרט" 
+        intervals [415]:
+            xmin = 691.982 
+            xmax = 692.089 
+            text = "" 
+        intervals [416]:
+            xmin = 692.089 
+            xmax = 694.53 
+            text = "איז װײַטלעך פֿון געטאָ" 
+        intervals [417]:
+            xmin = 694.53 
+            xmax = 695.245 
+            text = "" 
+        intervals [418]:
+            xmin = 695.245 
+            xmax = 697.5 
+            text = "אָבער עס <האָט> זיך געהערט" 
+        intervals [419]:
+            xmin = 697.5 
+            xmax = 697.894 
+            text = "" 
+        intervals [420]:
+            xmin = 697.894 
+            xmax = 699.052 
+            text = "שיסנדיק" 
+        intervals [421]:
+            xmin = 699.052 
+            xmax = 699.615 
+            text = "" 
+        intervals [422]:
+            xmin = 699.615 
+            xmax = 701.786 
+            text = "זײער שװאַך, אָבער <ס'האָט> זיך געהערט." 
+        intervals [423]:
+            xmin = 701.786 
+            xmax = 702.602 
+            text = "" 
+        intervals [424]:
+            xmin = 702.602 
+            xmax = 704.941 
+            text = "און מיר האָבן פֿאַרשטאַנען אַז" 
+        intervals [425]:
+            xmin = 704.941 
+            xmax = 706.399 
+            text = "" 
+        intervals [426]:
+            xmin = 706.399 
+            xmax = 708.738 
+            text = "זײער גורל איז שױן אַזאַ." 
+        intervals [427]:
+            xmin = 708.738 
+            xmax = 712.137 
+            text = "" 
+        intervals [428]:
+            xmin = 712.137 
+            xmax = 714.673 
+            text = "דאָס האָט מען אָנגערופֿן" 
+        intervals [429]:
+            xmin = 714.673 
+            xmax = 716.788 
+            text = "אין געטאָ די גרױסע אַקציע," 
+        intervals [430]:
+            xmin = 716.788 
+            xmax = 718.785 
+            text = "" 
+        intervals [431]:
+            xmin = 718.785 
+            xmax = 720.331 
+            text = "װײַל דאָס איז געװען" 
+        intervals [432]:
+            xmin = 720.331 
+            xmax = 720.625 
+            text = "" 
+        intervals [433]:
+            xmin = 720.625 
+            xmax = 722.745 
+            text = "נאָך די קלײנע אַקציעס," 
+        intervals [434]:
+            xmin = 722.745 
+            xmax = 723.072 
+            text = "" 
+        intervals [435]:
+            xmin = 723.072 
+            xmax = 725.479 
+            text = "איז דאָס איז געװען די גרױסע אַקציע." 
+        intervals [436]:
+            xmin = 725.479 
+            xmax = 729.99 
+            text = "" 
+        intervals [437]:
+            xmin = 729.99 
+            xmax = 732.144 
+            text = "דאַן איז שױן אין געטאָ" 
+        intervals [438]:
+            xmin = 732.144 
+            xmax = 733.332 
+            text = "" 
+        intervals [439]:
+            xmin = 733.332 
+            xmax = 735.908 
+            text = "געבליבן אַ סך װינציקער מענטשן" 
+        intervals [440]:
+            xmin = 735.908 
+            xmax = 737.365 
+            text = "" 
+        intervals [441]:
+            xmin = 737.365 
+            xmax = 738.321 
+            text = "און" 
+        intervals [442]:
+            xmin = 738.321 
+            xmax = 740.301 
+            text = "" 
+        intervals [443]:
+            xmin = 740.301 
+            xmax = 742.843 
+            text = "מע האָט אָנגעהױבן פֿאַרקלענערן די געטאָ," 
+        intervals [444]:
+            xmin = 742.843 
+            xmax = 745.178 
+            text = "" 
+        intervals [445]:
+            xmin = 745.178 
+            xmax = 747.129 
+            text = "װײַלע ס'איז <שױן> געבליבן אַ סך" 
+        intervals [446]:
+            xmin = 747.129 
+            xmax = 747.81 
+            text = "" 
+        intervals [447]:
+            xmin = 747.81 
+            xmax = 751.348 
+            text = "לײדיקע דירות, לײדיקע צימערן." 
+        intervals [448]:
+            xmin = 751.348 
+            xmax = 753.919 
+            text = "" 
+        intervals [449]:
+            xmin = 753.919 
+            xmax = 756.748 
+            text = "האָט מען גענומען די געטאָ פֿאַרקלענערן. מ'האָט" 
+        intervals [450]:
+            xmin = 756.748 
+            xmax = 757.362 
+            text = "" 
+        intervals [451]:
+            xmin = 757.362 
+            xmax = 758.993 
+            text = "גענומען ראַיאָנעס," 
+        intervals [452]:
+            xmin = 758.993 
+            xmax = 759.437 
+            text = "" 
+        intervals [453]:
+            xmin = 759.437 
+            xmax = 762.181 
+            text = "ראַיאָנען װאָס eh מ'האָט צוגענומען" 
+        intervals [454]:
+            xmin = 762.181 
+            xmax = 764.061 
+            text = "" 
+        intervals [455]:
+            xmin = 764.061 
+            xmax = 765.607 
+            text = "שױן פֿון געטאָ," 
+        intervals [456]:
+            xmin = 765.607 
+            xmax = 765.63 
+            text = "" 
+        intervals [457]:
+            xmin = 765.63 
+            xmax = 768.712 
+            text = "ס'האָבן זיך באַזעצט דאָרטן אַנדערע, ליטװינער און דאָס," 
+        intervals [458]:
+            xmin = 768.712 
+            xmax = 768.921 
+            text = "" 
+        intervals [459]:
+            xmin = 768.921 
+            xmax = 771.632 
+            text = "און די געטאָ האָט מען פֿאַרקלענערט." 
+        intervals [460]:
+            xmin = 771.632 
+            xmax = 775.013 
+            text = "" 
+        intervals [461]:
+            xmin = 775.013 
+            xmax = 777.352 
+            text = "אין דרײַ און פֿערציקסטן יאָר" 
+        intervals [462]:
+            xmin = 777.352 
+            xmax = 782.218 
+            text = "" 
+        intervals [463]:
+            xmin = 782.218 
+            xmax = 785.608 
+            text = "האָט, האָט מ- האָב איך געאַרבעט דאַמאָלסט," 
+        intervals [464]:
+            xmin = 785.608 
+            xmax = 787.498 
+            text = "איך האָב שױן געדאַרפֿט אַרבעטן," 
+        intervals [465]:
+            xmin = 787.498 
+            xmax = 788.192 
+            text = "" 
+        intervals [466]:
+            xmin = 788.192 
+            xmax = 789.93 
+            text = "און איך האָב געאַרבעט" 
+        intervals [467]:
+            xmin = 789.93 
+            xmax = 791.342 
+            text = "אין אַ בריגאַדע" 
+        intervals [468]:
+            xmin = 791.342 
+            xmax = 792.04 
+            text = "" 
+        intervals [469]:
+            xmin = 792.04 
+            xmax = 793.941 
+            text = "װאָס האָט געהײסן FLAK." 
+        intervals [470]:
+            xmin = 793.941 
+            xmax = 795.432 
+            text = "" 
+        intervals [471]:
+            xmin = 795.432 
+            xmax = 796.82 
+            text = "די בריגאַדע" 
+        intervals [472]:
+            xmin = 796.82 
+            xmax = 797.973 
+            text = "האָט געאַרבעט" 
+        intervals [473]:
+            xmin = 797.973 
+            xmax = 799.093 
+            text = "" 
+        intervals [474]:
+            xmin = 799.093 
+            xmax = 801.348 
+            text = "אין אױך אַ פֿאָרשטאָט פֿון" 
+        intervals [475]:
+            xmin = 801.348 
+            xmax = 801.456 
+            text = "" 
+        intervals [476]:
+            xmin = 801.456 
+            xmax = 802.563 
+            text = "קאָװנע" 
+        intervals [477]:
+            xmin = 802.563 
+            xmax = 802.789 
+            text = "" 
+        intervals [478]:
+            xmin = 802.789 
+            xmax = 804.723 
+            text = "אין ALEKSOTAS." 
+        intervals [479]:
+            xmin = 804.723 
+            xmax = 807.531 
+            text = "" 
+        intervals [480]:
+            xmin = 807.531 
+            xmax = 811.288 
+            text = "איך האָב זיך אױסגעלערנט שלאָסערײַ. איך בין געװאָרן אַ שלאָסער," 
+        intervals [481]:
+            xmin = 811.288 
+            xmax = 813.353 
+            text = "" 
+        intervals [482]:
+            xmin = 813.353 
+            xmax = 816.64 
+            text = "און איך האָב דאָרטן אין דעם" 
+        intervals [483]:
+            xmin = 816.64 
+            xmax = 817.565 
+            text = "אָרט" 
+        intervals [484]:
+            xmin = 817.565 
+            xmax = 818.55 
+            text = "" 
+        intervals [485]:
+            xmin = 818.55 
+            xmax = 820.805 
+            text = "געאַרבעט אַלס שלאָסער." 
+        intervals [486]:
+            xmin = 820.805 
+            xmax = 825.351 
+            text = "" 
+        intervals [487]:
+            xmin = 825.351 
+            xmax = 826.492 
+            text = "שפּעטער" 
+        intervals [488]:
+            xmin = 826.492 
+            xmax = 828.557 
+            text = "" 
+        intervals [489]:
+            xmin = 828.557 
+            xmax = 829.867 
+            text = "האָט מען די" 
+        intervals [490]:
+            xmin = 829.867 
+            xmax = 832.658 
+            text = "" 
+        intervals [491]:
+            xmin = 832.658 
+            xmax = 834.694 
+            text = "אַרבעט װוּ איך האָב געאַרבעט," 
+        intervals [492]:
+            xmin = 834.694 
+            xmax = 834.97 
+            text = "" 
+        intervals [493]:
+            xmin = 834.97 
+            xmax = 836.347 
+            text = "די בריגאַדע," 
+        intervals [494]:
+            xmin = 836.347 
+            xmax = 837.552 
+            text = "" 
+        intervals [495]:
+            xmin = 837.552 
+            xmax = 839.554 
+            text = "ס'איז געװען אַ גרױסע בריגאַדע," 
+        intervals [496]:
+            xmin = 839.554 
+            xmax = 841.872 
+            text = "" 
+        intervals [497]:
+            xmin = 841.872 
+            xmax = 843.31 
+            text = "האָט מען די אַרבעט," 
+        intervals [498]:
+            xmin = 843.31 
+            xmax = 845.459 
+            text = "די ah בריגאַדע באַשלאָסן" 
+        intervals [499]:
+            xmin = 845.459 
+            xmax = 845.517 
+            text = "" 
+        intervals [500]:
+            xmin = 845.517 
+            xmax = 847.688 
+            text = "אַרױסצופֿירן פֿון געטאָ" 
+        intervals [501]:
+            xmin = 847.688 
+            xmax = 849.145 
+            text = "" 
+        intervals [502]:
+            xmin = 849.145 
+            xmax = 852.818 
+            text = "און אַריבערפֿירן נעענטער צו דעם אַרבעטס־אָרט." 
+        intervals [503]:
+            xmin = 852.818 
+            xmax = 854.022 
+            text = "" 
+        intervals [504]:
+            xmin = 854.022 
+            xmax = 855.062 
+            text = "דאָרטן" 
+        intervals [505]:
+            xmin = 855.062 
+            xmax = 855.338 
+            text = "" 
+        intervals [506]:
+            xmin = 855.338 
+            xmax = 857.795 
+            text = "אינעם, דעם אָרט װוּ מיר האָבן געאַרבעט" 
+        intervals [507]:
+            xmin = 857.795 
+            xmax = 859.725 
+            text = "" 
+        intervals [508]:
+            xmin = 859.725 
+            xmax = 861.052 
+            text = "איז געװען" 
+        intervals [509]:
+            xmin = 861.052 
+            xmax = 862.493 
+            text = "" 
+        intervals [510]:
+            xmin = 862.493 
+            xmax = 864.579 
+            text = "סאָלדאַטן־קאַזאַרמעס" 
+        intervals [511]:
+            xmin = 864.579 
+            xmax = 864.973 
+            text = "" 
+        intervals [512]:
+            xmin = 864.973 
+            xmax = 867.161 
+            text = "װוּ עס האָבן, פֿלעגט זײַן מיליטער." 
+        intervals [513]:
+            xmin = 867.161 
+            xmax = 868.298 
+            text = "" 
+        intervals [514]:
+            xmin = 868.298 
+            xmax = 869.861 
+            text = "אין די קאַזאַרמע" 
+        intervals [515]:
+            xmin = 869.861 
+            xmax = 871.217 
+            text = "" 
+        intervals [516]:
+            xmin = 871.217 
+            xmax = 872.848 
+            text = "האָט מען פֿאַר אונדז" 
+        intervals [517]:
+            xmin = 872.848 
+            xmax = 873.276 
+            text = "" 
+        intervals [518]:
+            xmin = 873.276 
+            xmax = 875.936 
+            text = "געהאַלטן קריגס־געפֿאַנגענע," 
+        intervals [519]:
+            xmin = 875.936 
+            xmax = 877.005 
+            text = "" 
+        intervals [520]:
+            xmin = 877.005 
+            xmax = 878.501 
+            text = "די רױטאַרמײער," 
+        intervals [521]:
+            xmin = 878.501 
+            xmax = 879.435 
+            text = "" 
+        intervals [522]:
+            xmin = 879.435 
+            xmax = 880.863 
+            text = "װאָס זײ פֿלעגט מען אױך" 
+        intervals [523]:
+            xmin = 880.863 
+            xmax = 881.747 
+            text = "" 
+        intervals [524]:
+            xmin = 881.747 
+            xmax = 885.318 
+            text = "טרײַבן אױף דער אַרבעט, אױפֿן עראָדראָם," 
+        intervals [525]:
+            xmin = 885.318 
+            xmax = 885.696 
+            text = "" 
+        intervals [526]:
+            xmin = 885.696 
+            xmax = 887.225 
+            text = "בײַ ערד־אַרבעט," 
+        intervals [527]:
+            xmin = 887.225 
+            xmax = 889.83 
+            text = "" 
+        intervals [528]:
+            xmin = 889.83 
+            xmax = 890.904 
+            text = "נאָר eh" 
+        intervals [529]:
+            xmin = 890.904 
+            xmax = 892.243 
+            text = "" 
+        intervals [530]:
+            xmin = 892.243 
+            xmax = 893.772 
+            text = "אין דער צײַט" 
+        intervals [531]:
+            xmin = 893.772 
+            xmax = 894.268 
+            text = "" 
+        intervals [532]:
+            xmin = 894.268 
+            xmax = 896 
+            text = "איז בײַ זײ" 
+        intervals [533]:
+            xmin = 896 
+            xmax = 896.209 
+            text = "" 
+        intervals [534]:
+            xmin = 896.209 
+            xmax = 897.823 
+            text = "האָט אָנגעהױבן" 
+        intervals [535]:
+            xmin = 897.823 
+            xmax = 899.01 
+            text = "" 
+        intervals [536]:
+            xmin = 899.01 
+            xmax = 900.995 
+            text = "אַ קראַנקײט, טיפֿוס." 
+        intervals [537]:
+            xmin = 900.995 
+            xmax = 901.828 
+            text = "" 
+        intervals [538]:
+            xmin = 901.828 
+            xmax = 903.746 
+            text = "אַ שרעקלעכע קראַנקײט," 
+        intervals [539]:
+            xmin = 903.746 
+            xmax = 904.461 
+            text = "" 
+        intervals [540]:
+            xmin = 904.461 
+            xmax = 908.032 
+            text = "און די דײַטשן האָבן זײ אַלעמען אױסגעשאָסן." 
+        intervals [541]:
+            xmin = 908.032 
+            xmax = 908.41 
+            text = "" 
+        intervals [542]:
+            xmin = 908.41 
+            xmax = 911.07 
+            text = "זײ האָבן אױסגעשאָסן, איז פֿון די געפֿאַנגענע" 
+        intervals [543]:
+            xmin = 911.07 
+            xmax = 911.127 
+            text = "" 
+        intervals [544]:
+            xmin = 911.127 
+            xmax = 913.449 
+            text = "אומגעפֿער איבער דרײַ טױזנט" 
+        intervals [545]:
+            xmin = 913.449 
+            xmax = 914.468 
+            text = "" 
+        intervals [546]:
+            xmin = 914.468 
+            xmax = 915.727 
+            text = "געפֿאַנגענע." 
+        intervals [547]:
+            xmin = 915.727 
+            xmax = 916.122 
+            text = "" 
+        intervals [548]:
+            xmin = 916.122 
+            xmax = 918.056 
+            text = "און אין די קאַזאַרמעס" 
+        intervals [549]:
+            xmin = 918.056 
+            xmax = 919.378 
+            text = "" 
+        intervals [550]:
+            xmin = 919.378 
+            xmax = 923.017 
+            text = "האָבן זײ אַריבערגעפֿירט אונדז פֿון געטאָ אָט אָ די" 
+        intervals [551]:
+            xmin = 923.017 
+            xmax = 923.597 
+            text = "" 
+        intervals [552]:
+            xmin = 923.597 
+            xmax = 925.278 
+            text = "װאָס האָבן געאַרבעט" 
+        intervals [553]:
+            xmin = 925.278 
+            xmax = 925.352 
+            text = "" 
+        intervals [554]:
+            xmin = 925.352 
+            xmax = 926.223 
+            text = "אין" 
+        intervals [555]:
+            xmin = 926.223 
+            xmax = 926.787 
+            text = "" 
+        intervals [556]:
+            xmin = 926.787 
+            xmax = 928.283 
+            text = "דעם פֿאַבריק" 
+        intervals [557]:
+            xmin = 928.283 
+            xmax = 929.79 
+            text = "" 
+        intervals [558]:
+            xmin = 929.79 
+            xmax = 932.301 
+            text = "און די װאָס האָבן געאַרבעט אױפֿן עראָדראָם," 
+        intervals [559]:
+            xmin = 932.301 
+            xmax = 933.381 
+            text = "װײַלע דער," 
+        intervals [560]:
+            xmin = 933.381 
+            xmax = 936.331 
+            text = "די קאַזאַרמע איז געװען נעענטער צום אַעראָדראָם." 
+        intervals [561]:
+            xmin = 936.331 
+            xmax = 938.076 
+            text = "" 
+        intervals [562]:
+            xmin = 938.076 
+            xmax = 942.373 
+            text = "אין די אָ קאַזאַרמע האָט מען אױכעט האָט מען אונדז אַריבערגעפֿירט אומגעפֿער" 
+        intervals [563]:
+            xmin = 942.373 
+            xmax = 943.56 
+            text = "" 
+        intervals [564]:
+            xmin = 943.56 
+            xmax = 944.924 
+            text = "בײַ" 
+        intervals [565]:
+            xmin = 944.924 
+            xmax = 946.746 
+            text = "צװײ טױזנט מענטשן" 
+        intervals [566]:
+            xmin = 946.746 
+            xmax = 947.958 
+            text = "פֿון געטאָ." 
+        intervals [567]:
+            xmin = 947.958 
+            xmax = 949.703 
+            text = "" 
+        intervals [568]:
+            xmin = 949.703 
+            xmax = 950.906 
+            text = "דאַמאָלסט" 
+        intervals [569]:
+            xmin = 950.906 
+            xmax = 952.011 
+            text = "האָבן מיר שױן" 
+        intervals [570]:
+            xmin = 952.011 
+            xmax = 953.291 
+            text = "מיטן געטאָ" 
+        intervals [571]:
+            xmin = 953.291 
+            xmax = 954.293 
+            text = "" 
+        intervals [572]:
+            xmin = 954.293 
+            xmax = 955.856 
+            text = "פֿאַרלאָרן דעם" 
+        intervals [573]:
+            xmin = 955.856 
+            xmax = 958.258 
+            text = "" 
+        intervals [574]:
+            xmin = 958.258 
+            xmax = 961.087 
+            text = "דעם SVYAZ', נו, דעם eh" 
+        intervals [575]:
+            xmin = 961.087 
+            xmax = 961.718 
+            text = "" 
+        intervals [576]:
+            xmin = 961.718 
+            xmax = 963.214 
+            text = "דעם צוזאַמענהאַנג." 
+        intervals [577]:
+            xmin = 963.214 
+            xmax = 964.452 
+            text = "" 
+        intervals [578]:
+            xmin = 964.452 
+            xmax = 968.378 
+            text = "אױך איז פֿון געטאָ אַרױסגעפֿאָרן, אַרױסגעפֿירט אַ טײל מענטשן" 
+        intervals [579]:
+            xmin = 968.378 
+            xmax = 968.822 
+            text = "" 
+        intervals [580]:
+            xmin = 968.822 
+            xmax = 969.778 
+            text = "אין" 
+        intervals [581]:
+            xmin = 969.778 
+            xmax = 970.054 
+            text = "" 
+        intervals [582]:
+            xmin = 970.054 
+            xmax = 971.308 
+            text = "ŠANČIAI," 
+        intervals [583]:
+            xmin = 971.308 
+            xmax = 972.41 
+            text = "אין שאַנץ." 
+        intervals [584]:
+            xmin = 972.41 
+            xmax = 972.653 
+            text = "" 
+        intervals [585]:
+            xmin = 972.653 
+            xmax = 977.569 
+            text = "אױכעט מ'האָט גע- מ'האָט, הײסט דאָס אַז מיט די געטאָ האָט מען אָנגעהױבן פֿאַרטײלן" 
+        intervals [586]:
+            xmin = 977.569 
+            xmax = 978.722 
+            text = "אױף לאַגערן." 
+        intervals [587]:
+            xmin = 978.722 
+            xmax = 979.622 
+            text = "" 
+        intervals [588]:
+            xmin = 979.622 
+            xmax = 981.219 
+            text = "פֿון די אײן געטאָ" 
+        intervals [589]:
+            xmin = 981.219 
+            xmax = 981.934 
+            text = "" 
+        intervals [590]:
+            xmin = 981.934 
+            xmax = 984.459 
+            text = "זײַנען געװאָרן אין קאָװנע דרײַ לאַגערן." 
+        intervals [591]:
+            xmin = 984.459 
+            xmax = 985.292 
+            text = "" 
+        intervals [592]:
+            xmin = 985.292 
+            xmax = 987.935 
+            text = "װײַלע ד-, לעד-, דער געטאָ איז געװען," 
+        intervals [593]:
+            xmin = 987.935 
+            xmax = 988.077 
+            text = "" 
+        intervals [594]:
+            xmin = 988.077 
+            xmax = 992.705 
+            text = "דער שאַנצער לאַגער און דער אַלעקסאָטער לאַגער װוּ איך בין געװען," 
+        intervals [595]:
+            xmin = 992.705 
+            xmax = 994.804 
+            text = "מיט אונדזער גאַנצע פֿאַמיליע." 
+        intervals [596]:
+            xmin = 994.804 
+            xmax = 999.147 
+            text = "" 
+        intervals [597]:
+            xmin = 999.147 
+            xmax = 1001.031 
+            text = "נו, VOT. דאָס <איז>," 
+        intervals [598]:
+            xmin = 1001.031 
+            xmax = 1001.543 
+            text = "" 
+        intervals [599]:
+            xmin = 1001.543 
+            xmax = 1003.764 
+            text = "דאָרטן זײַנען מיר געװען" 
+        intervals [600]:
+            xmin = 1003.764 
+            xmax = 1005.103 
+            text = "" 
+        intervals [601]:
+            xmin = 1005.103 
+            xmax = 1008.961 
+            text = "און אין העלפֿט, אין העלפֿט פֿון דרײַ און פֿערציקסטן יאָר" 
+        intervals [602]:
+            xmin = 1008.961 
+            xmax = 1011.162 
+            text = "" 
+        intervals [603]:
+            xmin = 1011.162 
+            xmax = 1012.489 
+            text = "ביז" 
+        intervals [604]:
+            xmin = 1012.489 
+            xmax = 1012.832 
+            text = "" 
+        intervals [605]:
+            xmin = 1012.832 
+            xmax = 1014.108 
+            text = "אין יולי" 
+        intervals [606]:
+            xmin = 1014.108 
+            xmax = 1014.655 
+            text = "" 
+        intervals [607]:
+            xmin = 1014.655 
+            xmax = 1016.589 
+            text = "פֿיר און פֿערציקסטן יאָר." 
+        intervals [608]:
+            xmin = 1016.589 
+            xmax = 1022.738 
+            text = "" 
+        intervals [609]:
+            xmin = 1022.738 
+            xmax = 1027.11 
+            text = "דאָרטן, נײן, דאָרטן האָט מען אַריבערגעפֿירט אױכעט פֿאַמיליעסװײַז" 
+        intervals [610]:
+            xmin = 1027.11 
+            xmax = 1028.577 
+            text = "" 
+        intervals [611]:
+            xmin = 1028.577 
+            xmax = 1029.566 
+            text = "און" 
+        intervals [612]:
+            xmin = 1029.566 
+            xmax = 1029.623 
+            text = "" 
+        intervals [613]:
+            xmin = 1029.623 
+            xmax = 1031.417 
+            text = "מיר זײַנען אַלע" 
+        intervals [614]:
+            xmin = 1031.417 
+            xmax = 1033.633 
+            text = "די גאַנצע פֿאַמיליע, זאַלבע פֿירט," 
+        intervals [615]:
+            xmin = 1033.633 
+            xmax = 1034.348 
+            text = "" 
+        intervals [616]:
+            xmin = 1034.348 
+            xmax = 1035.813 
+            text = "אַרײַנגעפֿאַלן" 
+        intervals [617]:
+            xmin = 1035.813 
+            xmax = 1036.766 
+            text = "אין דעם" 
+        intervals [618]:
+            xmin = 1036.766 
+            xmax = 1038.171 
+            text = "אַלעקסאָטער לאַגער." 
+        intervals [619]:
+            xmin = 1038.171 
+            xmax = 1039.174 
+            text = "" 
+        intervals [620]:
+            xmin = 1039.174 
+            xmax = 1040.619 
+            text = "מײַן טאַטע" 
+        intervals [621]:
+            xmin = 1040.619 
+            xmax = 1042.244 
+            text = "" 
+        intervals [622]:
+            xmin = 1042.244 
+            xmax = 1045.022 
+            text = "האָט דאָרטן װײַטער געאַרבעט שנײַדערײַ" 
+        intervals [623]:
+            xmin = 1045.022 
+            xmax = 1045.047 
+            text = "" 
+        intervals [624]:
+            xmin = 1045.047 
+            xmax = 1046.408 
+            text = "פֿאַר די דײַטשן." 
+        intervals [625]:
+            xmin = 1046.408 
+            xmax = 1047.695 
+            text = "" 
+        intervals [626]:
+            xmin = 1047.695 
+            xmax = 1050.002 
+            text = "איך האָב געאַרבעט אַלס שלאָסער" 
+        intervals [627]:
+            xmin = 1050.002 
+            xmax = 1050.312 
+            text = "" 
+        intervals [628]:
+            xmin = 1050.312 
+            xmax = 1051.74 
+            text = "אין דעם פֿאַבריק." 
+        intervals [629]:
+            xmin = 1051.74 
+            xmax = 1054.581 
+            text = "" 
+        intervals [630]:
+            xmin = 1054.581 
+            xmax = 1058.928 
+            text = "דער פֿאַבריק האָט געאַרבעט eh eh דערײַן פֿון איבערמאַכן" 
+        intervals [631]:
+            xmin = 1058.928 
+            xmax = 1059.542 
+            text = "" 
+        intervals [632]:
+            xmin = 1059.542 
+            xmax = 1060.801 
+            text = "פֿון" 
+        intervals [633]:
+            xmin = 1060.801 
+            xmax = 1061.584 
+            text = "" 
+        intervals [634]:
+            xmin = 1061.584 
+            xmax = 1066.1 
+            text = "פֿון די רוסישע האַרמאַטן איבערמאַכן אױף דײַטשישע האַרמאַטן." 
+        intervals [635]:
+            xmin = 1066.1 
+            xmax = 1066.41 
+            text = "" 
+        intervals [636]:
+            xmin = 1066.41 
+            xmax = 1069.222 
+            text = "הײסט דאָס אַז פֿ- צום שיסן מיט דײַטשישע" 
+        intervals [637]:
+            xmin = 1069.222 
+            xmax = 1069.684 
+            text = "" 
+        intervals [638]:
+            xmin = 1069.684 
+            xmax = 1071.529 
+            text = "eh SNARYADn," 
+        intervals [639]:
+            xmin = 1071.529 
+            xmax = 1073.003 
+            text = "מיט ד- דײַטשישע קױלן." 
+        intervals [640]:
+            xmin = 1073.003 
+            xmax = 1076.113 
+            text = "" 
+        intervals [641]:
+            xmin = 1076.113 
+            xmax = 1079.144 
+            text = "האָב איך געאַרבעט אין דער פֿאַבריק, װי איך האָב שױן געזאָגט, דער טאַטע" 
+        intervals [642]:
+            xmin = 1079.144 
+            xmax = 1079.269 
+            text = "" 
+        intervals [643]:
+            xmin = 1079.269 
+            xmax = 1081.406 
+            text = "מיט שנײַדערײַ בײַ די דײַטשן," 
+        intervals [644]:
+            xmin = 1081.406 
+            xmax = 1081.969 
+            text = "" 
+        intervals [645]:
+            xmin = 1081.969 
+            xmax = 1084.55 
+            text = "און די מאַמע מיט די שװעסטער האָבן געאַרבעט" 
+        intervals [646]:
+            xmin = 1084.55 
+            xmax = 1084.602 
+            text = "" 
+        intervals [647]:
+            xmin = 1084.602 
+            xmax = 1085.929 
+            text = "אױפֿן עראָדראָם." 
+        intervals [648]:
+            xmin = 1085.929 
+            xmax = 1089.58 
+            text = "" 
+        intervals [649]:
+            xmin = 1089.58 
+            xmax = 1092.392 
+            text = "מײַן טאַטע האָט גענײט אַלציקעדינג" 
+        intervals [650]:
+            xmin = 1092.392 
+            xmax = 1094.136 
+            text = "" 
+        intervals [651]:
+            xmin = 1094.136 
+            xmax = 1095.564 
+            text = "װאָס מען האָט געדאַרפֿט." 
+        intervals [652]:
+            xmin = 1095.564 
+            xmax = 1095.756 
+            text = "" 
+        intervals [653]:
+            xmin = 1095.756 
+            xmax = 1097.454 
+            text = "ער איז געװען אַ גרױסער" 
+        intervals [654]:
+            xmin = 1097.454 
+            xmax = 1098.557 
+            text = "" 
+        intervals [655]:
+            xmin = 1098.557 
+            xmax = 1101.268 
+            text = "ספּעציאַליסט, אַ, אַ גוטער שנײַדער." 
+        intervals [656]:
+            xmin = 1101.268 
+            xmax = 1102.303 
+            text = "" 
+        intervals [657]:
+            xmin = 1102.303 
+            xmax = 1106.64 
+            text = "נו, ער האָט גענײט אַלציקעדינג װאָס מע האָט נאָר געדאַרפֿט." 
+        intervals [658]:
+            xmin = 1106.64 
+            xmax = 1109.222 
+            text = "" 
+        intervals [659]:
+            xmin = 1109.222 
+            xmax = 1110.965 
+            text = "נו, אין דעם לאַגער" 
+        intervals [660]:
+            xmin = 1110.965 
+            xmax = 1113.097 
+            text = "װוּ איך בין געװען, אױף בײַ נאַכט," 
+        intervals [661]:
+            xmin = 1113.097 
+            xmax = 1114.15 
+            text = "" 
+        intervals [662]:
+            xmin = 1114.15 
+            xmax = 1116.034 
+            text = "דאָס איז געװען אַ גרױסער" 
+        intervals [663]:
+            xmin = 1116.034 
+            xmax = 1116.192 
+            text = "" 
+        intervals [664]:
+            xmin = 1116.192 
+            xmax = 1117.209 
+            text = "הױז," 
+        intervals [665]:
+            xmin = 1117.209 
+            xmax = 1119.02 
+            text = "אַ קאַזאַרמע װי מיר זאָגן," 
+        intervals [666]:
+            xmin = 1119.02 
+            xmax = 1121.187 
+            text = "" 
+        intervals [667]:
+            xmin = 1121.187 
+            xmax = 1124.623 
+            text = "אַלץ איז געװען פֿאַרמאַכט אין די קאַזאַרמע, מיר אַלע," 
+        intervals [668]:
+            xmin = 1124.623 
+            xmax = 1124.646 
+            text = "" 
+        intervals [669]:
+            xmin = 1124.646 
+            xmax = 1127.224 
+            text = "אַז בײַ נאַכט פֿלעגט מען פֿאַרשליסן" 
+        intervals [670]:
+            xmin = 1127.224 
+            xmax = 1128.487 
+            text = "די טירן." 
+        intervals [671]:
+            xmin = 1128.487 
+            xmax = 1132.324 
+            text = "" 
+        intervals [672]:
+            xmin = 1132.324 
+            xmax = 1134.376 
+            text = "אַרום די קאַזאַרמע" 
+        intervals [673]:
+            xmin = 1134.376 
+            xmax = 1134.788 
+            text = "" 
+        intervals [674]:
+            xmin = 1134.788 
+            xmax = 1136.334 
+            text = "איז געװען אַ צאַם" 
+        intervals [675]:
+            xmin = 1136.334 
+            xmax = 1138.534 
+            text = "" 
+        intervals [676]:
+            xmin = 1138.534 
+            xmax = 1139.574 
+            text = "און" 
+        intervals [677]:
+            xmin = 1139.574 
+            xmax = 1140.373 
+            text = "" 
+        intervals [678]:
+            xmin = 1140.373 
+            xmax = 1141.936 
+            text = "אױף יעדער װינקל" 
+        intervals [679]:
+            xmin = 1141.936 
+            xmax = 1144.609 
+            text = "" 
+        intervals [680]:
+            xmin = 1144.609 
+            xmax = 1145.565 
+            text = "פֿון" 
+        intervals [681]:
+            xmin = 1145.565 
+            xmax = 1145.571 
+            text = "" 
+        intervals [682]:
+            xmin = 1145.571 
+            xmax = 1146.763 
+            text = "דעם צאַם" 
+        intervals [683]:
+            xmin = 1146.763 
+            xmax = 1146.769 
+            text = "" 
+        intervals [684]:
+            xmin = 1146.769 
+            xmax = 1148.079 
+            text = "זײַנען געשטאַנען" 
+        intervals [685]:
+            xmin = 1148.079 
+            xmax = 1148.558 
+            text = "" 
+        intervals [686]:
+            xmin = 1148.558 
+            xmax = 1149.682 
+            text = "טורעמס" 
+        intervals [687]:
+            xmin = 1149.682 
+            xmax = 1150.144 
+            text = "" 
+        intervals [688]:
+            xmin = 1150.144 
+            xmax = 1151.133 
+            text = "מיט" 
+        intervals [689]:
+            xmin = 1151.133 
+            xmax = 1151.511 
+            text = "" 
+        intervals [690]:
+            xmin = 1151.511 
+            xmax = 1152.72 
+            text = "פּאָסטנס." 
+        intervals [691]:
+            xmin = 1152.72 
+            xmax = 1155.544 
+            text = "" 
+        intervals [692]:
+            xmin = 1155.544 
+            xmax = 1159.046 
+            text = "פֿ- אױף די פּאָסטנ- <דאָ> אױף די טורעמס זײַנען געװען" 
+        intervals [693]:
+            xmin = 1159.046 
+            xmax = 1161.486 
+            text = "קו- דאָס, eh, די" 
+        intervals [694]:
+            xmin = 1161.486 
+            xmax = 1162.8 
+            text = "" 
+        intervals [695]:
+            xmin = 1162.8 
+            xmax = 1165.494 
+            text = "סאָלדאַטן דײַטשישע געשטאַנען" 
+        intervals [696]:
+            xmin = 1165.494 
+            xmax = 1165.602 
+            text = "" 
+        intervals [697]:
+            xmin = 1165.602 
+            xmax = 1167.351 
+            text = "מיט קױלן־װאַרפֿערס," 
+        intervals [698]:
+            xmin = 1167.351 
+            xmax = 1167.88 
+            text = "" 
+        intervals [699]:
+            xmin = 1167.88 
+            xmax = 1170.827 
+            text = "און אַ <גאַנצענע> נאַכט זײַנען מיר געװען פֿאַרשלאָסן." 
+        intervals [700]:
+            xmin = 1170.827 
+            xmax = 1172.672 
+            text = "" 
+        intervals [701]:
+            xmin = 1172.672 
+            xmax = 1176.851 
+            text = "אַלץ, אַלע באַדערפֿענישן האָט מען געדאַרפֿט אַלץ מאַכן אין" 
+        intervals [702]:
+            xmin = 1176.851 
+            xmax = 1177.33 
+            text = "" 
+        intervals [703]:
+            xmin = 1177.33 
+            xmax = 1178.792 
+            text = "קאַזאַרמע גופֿא." 
+        intervals [704]:
+            xmin = 1178.792 
+            xmax = 1178.832 
+            text = "" 
+        intervals [705]:
+            xmin = 1178.832 
+            xmax = 1181.695 
+            text = "און אין דער פֿרי פֿלעגט מען אַלץ אַרױסטראָגן," 
+        intervals [706]:
+            xmin = 1181.695 
+            xmax = 1182.342 
+            text = "" 
+        intervals [707]:
+            xmin = 1182.342 
+            xmax = 1183.568 
+            text = "דאָס װאָס" 
+        intervals [708]:
+            xmin = 1183.568 
+            xmax = 1183.658 
+            text = "" 
+        intervals [709]:
+            xmin = 1183.658 
+            xmax = 1185.07 
+            text = "מ'האָט ניט געדאַרפֿט." 
+        intervals [710]:
+            xmin = 1185.07 
+            xmax = 1196.128 
+            text = "" 
+        intervals [711]:
+            xmin = 1196.128 
+            xmax = 1198.4 
+            text = "דאָרטן אין לאַ- אין eh" 
+        intervals [712]:
+            xmin = 1198.4 
+            xmax = 1198.407 
+            text = "" 
+        intervals [713]:
+            xmin = 1198.407 
+            xmax = 1200.696 
+            text = "דעם קאַזאַרמע אין לאַגער" 
+        intervals [714]:
+            xmin = 1200.696 
+            xmax = 1201.427 
+            text = "" 
+        intervals [715]:
+            xmin = 1201.427 
+            xmax = 1204.233 
+            text = "האָט מען שױן געקאָרמעט אַלעמען פֿון אײן" 
+        intervals [716]:
+            xmin = 1204.233 
+            xmax = 1205.066 
+            text = "קעסל," 
+        intervals [717]:
+            xmin = 1205.066 
+            xmax = 1206.203 
+            text = "" 
+        intervals [718]:
+            xmin = 1206.203 
+            xmax = 1208.12 
+            text = "פֿון אײן טאָפּ, װי מע זאָגט דאָס." 
+        intervals [719]:
+            xmin = 1208.12 
+            xmax = 1208.886 
+            text = "" 
+        intervals [720]:
+            xmin = 1208.886 
+            xmax = 1213.335 
+            text = "װײַלע די מענטשן האָבן שױן ניט געהאַט אױף װאָס" 
+        intervals [721]:
+            xmin = 1213.335 
+            xmax = 1213.695 
+            text = "" 
+        intervals [722]:
+            xmin = 1213.695 
+            xmax = 1216.743 
+            text = "זיך, װאָס צו מאַכן קײן עסן, װאָס צום קאָכן." 
+        intervals [723]:
+            xmin = 1216.743 
+            xmax = 1218.015 
+            text = "" 
+        intervals [724]:
+            xmin = 1218.015 
+            xmax = 1222.329 
+            text = "האָט מען געמאַכט פֿון אַ, פֿון אַ קיך פֿאַר אַלעמען," 
+        intervals [725]:
+            xmin = 1222.329 
+            xmax = 1223.213 
+            text = "" 
+        intervals [726]:
+            xmin = 1223.213 
+            xmax = 1224.366 
+            text = "נאָר װער" 
+        intervals [727]:
+            xmin = 1224.366 
+            xmax = 1225.839 
+            text = "עס פֿלעגט קענען" 
+        intervals [728]:
+            xmin = 1225.839 
+            xmax = 1226.588 
+            text = "" 
+        intervals [729]:
+            xmin = 1226.588 
+            xmax = 1229.636 
+            text = "נאָך אױף דער, אױפֿן אַרבעטס־אָרט צוקומען" 
+        intervals [730]:
+            xmin = 1229.636 
+            xmax = 1230.148 
+            text = "" 
+        intervals [731]:
+            xmin = 1230.148 
+            xmax = 1231.677 
+            text = "צו ליטװינער," 
+        intervals [732]:
+            xmin = 1231.677 
+            xmax = 1232.967 
+            text = "" 
+        intervals [733]:
+            xmin = 1232.967 
+            xmax = 1235.857 
+            text = "דער פֿלעגט נאָך פֿון זײ קריגן אַנדערע מאָל" 
+        intervals [734]:
+            xmin = 1235.857 
+            xmax = 1238.157 
+            text = "װאָס ניט איז. קײן זאַכן" 
+        intervals [735]:
+            xmin = 1238.157 
+            xmax = 1238.265 
+            text = "" 
+        intervals [736]:
+            xmin = 1238.265 
+            xmax = 1239.423 
+            text = "האָבן מיר שױן" 
+        intervals [737]:
+            xmin = 1239.423 
+            xmax = 1240.138 
+            text = "" 
+        intervals [738]:
+            xmin = 1240.138 
+            xmax = 1241.786 
+            text = "אומגעפֿער ניט געהאַט," 
+        intervals [739]:
+            xmin = 1241.786 
+            xmax = 1242.079 
+            text = "" 
+        intervals [740]:
+            xmin = 1242.079 
+            xmax = 1246.612 
+            text = "װײַלע אַלציקעדינג איז געבליבן אין געטאָ בשעת מ'האָט אונדז אַרױסגעפֿירט." 
+        intervals [741]:
+            xmin = 1246.612 
+            xmax = 1248.255 
+            text = "" 
+        intervals [742]:
+            xmin = 1248.255 
+            xmax = 1251.657 
+            text = "אַזױ אַרום אַז מיר האָבן געדאַרפֿט שױן" 
+        intervals [743]:
+            xmin = 1251.657 
+            xmax = 1252.12 
+            text = "" 
+        intervals [744]:
+            xmin = 1252.12 
+            xmax = 1253.903 
+            text = "לעבן פֿון דאָס" 
+        intervals [745]:
+            xmin = 1253.903 
+            xmax = 1254.735 
+            text = "" 
+        intervals [746]:
+            xmin = 1254.735 
+            xmax = 1256.467 
+            text = "װאָס מען האָט אונדז געגעבן." 
+        intervals [747]:
+            xmin = 1256.467 
+            xmax = 1257.537 
+            text = "" 
+        intervals [748]:
+            xmin = 1257.537 
+            xmax = 1259.775 
+            text = "עס איז געװען זײער שװער," 
+        intervals [749]:
+            xmin = 1259.775 
+            xmax = 1260.068 
+            text = "" 
+        intervals [750]:
+            xmin = 1260.068 
+            xmax = 1262.12 
+            text = "אָבער דאָך פֿון הונגער" 
+        intervals [751]:
+            xmin = 1262.12 
+            xmax = 1262.903 
+            text = "" 
+        intervals [752]:
+            xmin = 1262.903 
+            xmax = 1263.909 
+            text = "איז מען" 
+        intervals [753]:
+            xmin = 1263.909 
+            xmax = 1264.303 
+            text = "" 
+        intervals [754]:
+            xmin = 1264.303 
+            xmax = 1265.934 
+            text = "כּמעט ניט געשטאָרבן." 
+        intervals [755]:
+            xmin = 1265.934 
+            xmax = 1272.488 
+            text = "" 
+        intervals [756]:
+            xmin = 1272.488 
+            xmax = 1274.051 
+            text = "אױפֿן עראָדראָם" 
+        intervals [757]:
+            xmin = 1274.051 
+            xmax = 1274.26 
+            text = "" 
+        intervals [758]:
+            xmin = 1274.26 
+            xmax = 1275.756 
+            text = "האָט זי געאַרבעט," 
+        intervals [759]:
+            xmin = 1275.756 
+            xmax = 1277.263 
+            text = "" 
+        intervals [760]:
+            xmin = 1277.263 
+            xmax = 1279.062 
+            text = "האָבן זײ געאַרבעט," 
+        intervals [761]:
+            xmin = 1279.062 
+            xmax = 1281.162 
+            text = "" 
+        intervals [762]:
+            xmin = 1281.162 
+            xmax = 1284.497 
+            text = "בײַן פֿירן זשװיר, בײַן גראָבן ערד," 
+        intervals [763]:
+            xmin = 1284.497 
+            xmax = 1285.566 
+            text = "" 
+        intervals [764]:
+            xmin = 1285.566 
+            xmax = 1287.686 
+            text = "בײַן פֿירן טאַטשקעס," 
+        intervals [765]:
+            xmin = 1287.686 
+            xmax = 1288.35 
+            text = "" 
+        intervals [766]:
+            xmin = 1288.35 
+            xmax = 1289.829 
+            text = "שװערע אַרבעט." 
+        intervals [767]:
+            xmin = 1289.829 
+            xmax = 1291.202 
+            text = "" 
+        intervals [768]:
+            xmin = 1291.202 
+            xmax = 1294 
+            text = "אָבער די דײַטשן האָבן ניט געקוקט," 
+        intervals [769]:
+            xmin = 1294 
+            xmax = 1294.273 
+            text = "" 
+        intervals [770]:
+            xmin = 1294.273 
+            xmax = 1295.87 
+            text = "מענער צו פֿרױען." 
+        intervals [771]:
+            xmin = 1295.87 
+            xmax = 1296.957 
+            text = "" 
+        intervals [772]:
+            xmin = 1296.957 
+            xmax = 1298.841 
+            text = "מ'האָט געגעבן אַרבעטן" 
+        intervals [773]:
+            xmin = 1298.841 
+            xmax = 1299.589 
+            text = "" 
+        intervals [774]:
+            xmin = 1299.589 
+            xmax = 1301.895 
+            text = "ניט רעכענענ<זיק דיך> מיט דערײַן." 
+        intervals [775]:
+            xmin = 1301.895 
+            xmax = 1302.576 
+            text = "" 
+        intervals [776]:
+            xmin = 1302.576 
+            xmax = 1304.527 
+            text = "עס איז געװען זײער שװער," 
+        intervals [777]:
+            xmin = 1304.527 
+            xmax = 1305.597 
+            text = "" 
+        intervals [778]:
+            xmin = 1305.597 
+            xmax = 1307.481 
+            text = "אָבער מען האָט געאַרבעט." 
+        intervals [779]:
+            xmin = 1307.481 
+            xmax = 1311.604 
+            text = "" 
+        intervals [780]:
+            xmin = 1311.604 
+            xmax = 1312.847 
+            text = "אײן מאָל" 
+        intervals [781]:
+            xmin = 1312.847 
+            xmax = 1314.507 
+            text = "" 
+        intervals [782]:
+            xmin = 1314.507 
+            xmax = 1317.032 
+            text = "בין אַװעק פֿ- אין דער פֿרי צו דער אַרבעט." 
+        intervals [783]:
+            xmin = 1317.032 
+            xmax = 1318.86 
+            text = "" 
+        intervals [784]:
+            xmin = 1318.86 
+            xmax = 1319.748 
+            text = "אין" 
+        intervals [785]:
+            xmin = 1319.748 
+            xmax = 1319.822 
+            text = "" 
+        intervals [786]:
+            xmin = 1319.822 
+            xmax = 1320.913 
+            text = "לאַגער" 
+        intervals [787]:
+            xmin = 1320.913 
+            xmax = 1320.97 
+            text = "" 
+        intervals [788]:
+            xmin = 1320.97 
+            xmax = 1322.28 
+            text = "זײַנען געבליבן" 
+        intervals [789]:
+            xmin = 1322.28 
+            xmax = 1322.877 
+            text = "" 
+        intervals [790]:
+            xmin = 1322.877 
+            xmax = 1324.862 
+            text = "נאָר עלטערע מענטשן" 
+        intervals [791]:
+            xmin = 1324.862 
+            xmax = 1326.032 
+            text = "" 
+        intervals [792]:
+            xmin = 1326.032 
+            xmax = 1327.291 
+            text = "און קינדער." 
+        intervals [793]:
+            xmin = 1327.291 
+            xmax = 1330.099 
+            text = "" 
+        intervals [794]:
+            xmin = 1330.099 
+            xmax = 1332.877 
+            text = "און מיר האָבן נאָך פֿון קײן זאַך ניט געװוּסט." 
+        intervals [795]:
+            xmin = 1332.877 
+            xmax = 1334.284 
+            text = "" 
+        intervals [796]:
+            xmin = 1334.284 
+            xmax = 1336.792 
+            text = "אַז מ'איז געקומען פֿון דער אַרבעט," 
+        intervals [797]:
+            xmin = 1336.792 
+            xmax = 1339.397 
+            text = "" 
+        intervals [798]:
+            xmin = 1339.397 
+            xmax = 1340.741 
+            text = "מע גיט אַ קוק" 
+        intervals [799]:
+            xmin = 1340.741 
+            xmax = 1344.747 
+            text = "" 
+        intervals [800]:
+            xmin = 1344.747 
+            xmax = 1346.44 
+            text = "אַז בײַן אַרײַנגײן" 
+        intervals [801]:
+            xmin = 1346.44 
+            xmax = 1347.728 
+            text = "דורכן טױער" 
+        intervals [802]:
+            xmin = 1347.728 
+            xmax = 1348.543 
+            text = "" 
+        intervals [803]:
+            xmin = 1348.543 
+            xmax = 1349.718 
+            text = "אין לאַגער" 
+        intervals [804]:
+            xmin = 1349.718 
+            xmax = 1350.99 
+            text = "" 
+        intervals [805]:
+            xmin = 1350.99 
+            xmax = 1352.351 
+            text = "שטײען" 
+        intervals [806]:
+            xmin = 1352.351 
+            xmax = 1354.213 
+            text = "" 
+        intervals [807]:
+            xmin = 1354.213 
+            xmax = 1355.607 
+            text = "סאָלדאַטן." 
+        intervals [808]:
+            xmin = 1355.607 
+            xmax = 1357.302 
+            text = "" 
+        intervals [809]:
+            xmin = 1357.302 
+            xmax = 1360.89 
+            text = "װי מיר האָבן פֿאַרשטאַנען זײַנען זײ געװען ניט קײן ליטװינער," 
+        intervals [810]:
+            xmin = 1360.89 
+            xmax = 1361.638 
+            text = "" 
+        intervals [811]:
+            xmin = 1361.638 
+            xmax = 1363.769 
+            text = "זײַנען געװען אוקרײַנער," 
+        intervals [812]:
+            xmin = 1363.769 
+            xmax = 1364.524 
+            text = "" 
+        intervals [813]:
+            xmin = 1364.524 
+            xmax = 1365.733 
+            text = "אָנגעטאָן" 
+        intervals [814]:
+            xmin = 1365.733 
+            xmax = 1366.127 
+            text = "" 
+        intervals [815]:
+            xmin = 1366.127 
+            xmax = 1368.264 
+            text = "אין די S.S.־פֿאָרמע" 
+        intervals [816]:
+            xmin = 1368.264 
+            xmax = 1369.57 
+            text = "" 
+        intervals [817]:
+            xmin = 1369.57 
+            xmax = 1372.669 
+            text = "װאָס פֿריִער זײַנען זײ בײַ אונדז אין לאַגער ניט געװען." 
+        intervals [818]:
+            xmin = 1372.669 
+            xmax = 1375.611 
+            text = "" 
+        intervals [819]:
+            xmin = 1375.611 
+            xmax = 1378.575 
+            text = "אָבער מיר האָבן נאָך ניט פֿאַרשטאַנען װאָס דאָ איז פֿאָרגעקומען." 
+        intervals [820]:
+            xmin = 1378.575 
+            xmax = 1380.218 
+            text = "" 
+        intervals [821]:
+            xmin = 1380.218 
+            xmax = 1382.861 
+            text = "אַז מ'האָט אונדז אַרײַנגעלאָזן אין קאַזאַרמע" 
+        intervals [822]:
+            xmin = 1382.861 
+            xmax = 1383.458 
+            text = "" 
+        intervals [823]:
+            xmin = 1383.458 
+            xmax = 1385.156 
+            text = "האָט מען געגעבן אַ קוק" 
+        intervals [824]:
+            xmin = 1385.156 
+            xmax = 1386.208 
+            text = "" 
+        intervals [825]:
+            xmin = 1386.208 
+            xmax = 1389.172 
+            text = "אַז די קינדער און די עלטערע מענטשן" 
+        intervals [826]:
+            xmin = 1389.172 
+            xmax = 1389.685 
+            text = "" 
+        intervals [827]:
+            xmin = 1389.685 
+            xmax = 1391.231 
+            text = "װאָס זײַנען געבליבן" 
+        intervals [828]:
+            xmin = 1391.231 
+            xmax = 1391.608 
+            text = "" 
+        intervals [829]:
+            xmin = 1391.608 
+            xmax = 1393.509 
+            text = "זײַנען פֿאַרשװוּנדן געװאָרן." 
+        intervals [830]:
+            xmin = 1393.509 
+            xmax = 1394.443 
+            text = "" 
+        intervals [831]:
+            xmin = 1394.443 
+            xmax = 1396.006 
+            text = "זײ זײַנען ניט געװאָרן." 
+        intervals [832]:
+            xmin = 1396.006 
+            xmax = 1396.84 
+            text = "" 
+        intervals [833]:
+            xmin = 1396.84 
+            xmax = 1399.939 
+            text = "דאָס הײסט, אין דער צײַט װען מיר זײַנען געװען" 
+        intervals [834]:
+            xmin = 1399.939 
+            xmax = 1400.265 
+            text = "" 
+        intervals [835]:
+            xmin = 1400.265 
+            xmax = 1401.575 
+            text = "בײַ דער אַרבעט" 
+        intervals [836]:
+            xmin = 1401.575 
+            xmax = 1402.932 
+            text = "" 
+        intervals [837]:
+            xmin = 1402.932 
+            xmax = 1404.596 
+            text = "זײַנען געקומען אָט אָ די" 
+        intervals [838]:
+            xmin = 1404.596 
+            xmax = 1405.783 
+            text = "" 
+        intervals [839]:
+            xmin = 1405.783 
+            xmax = 1407.903 
+            text = "eh סאָלדאַטן, די S.S.," 
+        intervals [840]:
+            xmin = 1407.903 
+            xmax = 1408.382 
+            text = "" 
+        intervals [841]:
+            xmin = 1408.382 
+            xmax = 1411.16 
+            text = "װאָס זײ האָבן צוזאַמענגענומען אַלע קינדער" 
+        intervals [842]:
+            xmin = 1411.16 
+            xmax = 1411.993 
+            text = "" 
+        intervals [843]:
+            xmin = 1411.993 
+            xmax = 1413.691 
+            text = "מיט די עלטערע מענטשן" 
+        intervals [844]:
+            xmin = 1413.691 
+            xmax = 1414.373 
+            text = "" 
+        intervals [845]:
+            xmin = 1414.373 
+            xmax = 1416.24 
+            text = "און מ'האָט אַלעמען אַרױסגעפֿירט." 
+        intervals [846]:
+            xmin = 1416.24 
+            xmax = 1419.03 
+            text = "" 
+        intervals [847]:
+            xmin = 1419.03 
+            xmax = 1421.44 
+            text = "פֿאַרשטײט זיך אַז מ'האָט זײ אַרױסגעפֿירט צום טױט." 
+        intervals [848]:
+            xmin = 1421.44 
+            xmax = 1424.474 
+            text = "ביז הײַנט צום טאָג װײסט מען נאָך ניט גענױ" 
+        intervals [849]:
+            xmin = 1424.474 
+            xmax = 1425.072 
+            text = "" 
+        intervals [850]:
+            xmin = 1425.072 
+            xmax = 1428.64 
+            text = "אַװוּ זײ האָבן זײ אַװעקגעפֿירט און װוּ מ'האָט זײ אומגעבראַכט." 
+        intervals [851]:
+            xmin = 1428.64 
+            xmax = 1431.282 
+            text = "" 
+        intervals [852]:
+            xmin = 1431.282 
+            xmax = 1436.895 
+            text = "דאָס איז געװען װײַטער אַ שרעקלעכע זאַך. מאַמעס און טאַטעס זײַנען אַרומגעלאָפֿן" 
+        intervals [853]:
+            xmin = 1436.895 
+            xmax = 1437.525 
+            text = "" 
+        intervals [854]:
+            xmin = 1437.525 
+            xmax = 1439.881 
+            text = "בײַן קאַזאַרמע מיט געשרײען," 
+        intervals [855]:
+            xmin = 1439.881 
+            xmax = 1440.073 
+            text = "" 
+        intervals [856]:
+            xmin = 1440.073 
+            xmax = 1441.467 
+            text = "מיט געװײנען." 
+        intervals [857]:
+            xmin = 1441.467 
+            xmax = 1444.68 
+            text = "" 
+        intervals [858]:
+            xmin = 1444.68 
+            xmax = 1447.217 
+            text = "ס'איז אַרײַנגעגאַנגען דער לאַגער־פֿירער" 
+        intervals [859]:
+            xmin = 1447.217 
+            xmax = 1448.719 
+            text = "איז אַרײַנגעגאַנגען" 
+        intervals [860]:
+            xmin = 1448.719 
+            xmax = 1449.939 
+            text = "אין קאַזאַרמע." 
+        intervals [861]:
+            xmin = 1449.939 
+            xmax = 1452.409 
+            text = "" 
+        intervals [862]:
+            xmin = 1452.409 
+            xmax = 1453.654 
+            text = "איז אײנ-" 
+        intervals [863]:
+            xmin = 1453.654 
+            xmax = 1455.811 
+            text = "אַ ייִד געלאָפֿן צו אים" 
+        intervals [864]:
+            xmin = 1455.811 
+            xmax = 1456.881 
+            text = "" 
+        intervals [865]:
+            xmin = 1456.881 
+            xmax = 1458.08 
+            text = "מיט אַ האַק" 
+        intervals [866]:
+            xmin = 1458.08 
+            xmax = 1458.197 
+            text = "" 
+        intervals [867]:
+            xmin = 1458.197 
+            xmax = 1459.58 
+            text = "און ער האָט אים געװעלט" 
+        intervals [868]:
+            xmin = 1459.58 
+            xmax = 1459.581 
+            text = "" 
+        intervals [869]:
+            xmin = 1459.581 
+            xmax = 1461.11 
+            text = "געבן איבערן קאָפּ." 
+        intervals [870]:
+            xmin = 1461.11 
+            xmax = 1461.673 
+            text = "" 
+        intervals [871]:
+            xmin = 1461.673 
+            xmax = 1464.4 
+            text = "פֿאַרשטײט זיך, װען ער װאָלט דאָס געטאָן" 
+        intervals [872]:
+            xmin = 1464.4 
+            xmax = 1464.593 
+            text = "" 
+        intervals [873]:
+            xmin = 1464.593 
+            xmax = 1466.73 
+            text = "װאָלט מען אונדז אַלעמען אױסגעשאָסן," 
+        intervals [874]:
+            xmin = 1466.73 
+            xmax = 1466.989 
+            text = "" 
+        intervals [875]:
+            xmin = 1466.989 
+            xmax = 1468.164 
+            text = "אױסגעהרגעט." 
+        intervals [876]:
+            xmin = 1468.164 
+            xmax = 1468.491 
+            text = "" 
+        intervals [877]:
+            xmin = 1468.491 
+            xmax = 1470.611 
+            text = "נאָר מענטשן האָבן אים אָפּגעהאַלטן." 
+        intervals [878]:
+            xmin = 1470.611 
+            xmax = 1472.288 
+            text = "" 
+        intervals [879]:
+            xmin = 1472.288 
+            xmax = 1473.635 
+            text = "נאָך אײנער" 
+        intervals [880]:
+            xmin = 1473.635 
+            xmax = 1475.775 
+            text = "האָט געװעלט אונטערצינדן" 
+        intervals [881]:
+            xmin = 1475.775 
+            xmax = 1476.27 
+            text = "" 
+        intervals [882]:
+            xmin = 1476.27 
+            xmax = 1477.512 
+            text = "דעם גאַנצן" 
+        intervals [883]:
+            xmin = 1477.512 
+            xmax = 1477.62 
+            text = "" 
+        intervals [884]:
+            xmin = 1477.62 
+            xmax = 1478.66 
+            text = "לאַגער." 
+        intervals [885]:
+            xmin = 1478.66 
+            xmax = 1478.937 
+            text = "" 
+        intervals [886]:
+            xmin = 1478.937 
+            xmax = 1480.534 
+            text = "ער האָט <אונטערגעצינדן>" 
+        intervals [887]:
+            xmin = 1480.534 
+            xmax = 1480.945 
+            text = "" 
+        intervals [888]:
+            xmin = 1480.945 
+            xmax = 1483.386 
+            text = "די שטרױ אױף װעלכע מיר זײַנען געשלאָפֿן," 
+        intervals [889]:
+            xmin = 1483.386 
+            xmax = 1483.83 
+            text = "" 
+        intervals [890]:
+            xmin = 1483.83 
+            xmax = 1485.528 
+            text = "און מ'האָט קױם־קױם דאָס" 
+        intervals [891]:
+            xmin = 1485.528 
+            xmax = 1486.412 
+            text = "" 
+        intervals [892]:
+            xmin = 1486.412 
+            xmax = 1487.536 
+            text = "פֿאַרהאַלטן" 
+        intervals [893]:
+            xmin = 1487.536 
+            xmax = 1487.577 
+            text = "" 
+        intervals [894]:
+            xmin = 1487.577 
+            xmax = 1488.803 
+            text = "די שׂרפֿה." 
+        intervals [895]:
+            xmin = 1488.803 
+            xmax = 1492.487 
+            text = "" 
+        intervals [896]:
+            xmin = 1492.487 
+            xmax = 1493.311 
+            text = "נאָר" 
+        intervals [897]:
+            xmin = 1493.311 
+            xmax = 1494.54 
+            text = "<עס> זײַנען געװען" 
+        intervals [898]:
+            xmin = 1494.54 
+            xmax = 1494.833 
+            text = "" 
+        intervals [899]:
+            xmin = 1494.833 
+            xmax = 1496.278 
+            text = "צװײ קינדער" 
+        intervals [900]:
+            xmin = 1496.278 
+            xmax = 1497.178 
+            text = "" 
+        intervals [901]:
+            xmin = 1497.178 
+            xmax = 1499.416 
+            text = "װאָס עס האָט זײ אײַנגעגעבן זיך" 
+        intervals [902]:
+            xmin = 1499.416 
+            xmax = 1499.743 
+            text = "" 
+        intervals [903]:
+            xmin = 1499.743 
+            xmax = 1501.137 
+            text = "צו באַהאַלטן" 
+        intervals [904]:
+            xmin = 1501.137 
+            xmax = 1501.836 
+            text = "" 
+        intervals [905]:
+            xmin = 1501.836 
+            xmax = 1502.803 
+            text = "פֿון די" 
+        intervals [906]:
+            xmin = 1502.803 
+            xmax = 1503.225 
+            text = "" 
+        intervals [907]:
+            xmin = 1503.225 
+            xmax = 1509.154 
+            text = "קינדער־אַקציע. געװען קלײנע קינדער, spn אַ עלף־יאָריקער, אַ צװעלף־יאָריקער." 
+        intervals [908]:
+            xmin = 1509.154 
+            xmax = 1509.48 
+            text = "" 
+        intervals [909]:
+            xmin = 1509.48 
+            xmax = 1512.309 
+            text = "זײ האָבן זיך באַהאַלטן אױפֿן בױדעם פֿון די" 
+        intervals [910]:
+            xmin = 1512.309 
+            xmax = 1513.075 
+            text = "" 
+        intervals [911]:
+            xmin = 1513.075 
+            xmax = 1514.469 
+            text = "פֿון די הױז" 
+        intervals [912]:
+            xmin = 1514.469 
+            xmax = 1514.796 
+            text = "" 
+        intervals [913]:
+            xmin = 1514.796 
+            xmax = 1516.72 
+            text = "און מ'האָט זײ ניט געפֿונען דאָרטן." 
+        intervals [914]:
+            xmin = 1516.72 
+            xmax = 1516.89 
+            text = "" 
+        intervals [915]:
+            xmin = 1516.89 
+            xmax = 1523.447 
+            text = "האָט ער, די דײַטשן זײַנען געװען אַרױפֿגעגאַנגען דאָרטן קוקן. דאָרטן איז געלעגן אַ סך זאַכן אָנגעװאָרפֿענע. זײ האָבן זיך באַהאַלטן" 
+        intervals [916]:
+            xmin = 1523.447 
+            xmax = 1523.554 
+            text = "" 
+        intervals [917]:
+            xmin = 1523.554 
+            xmax = 1526.146 
+            text = "אין די זאַכן, און זײ זײַנען געבליבן לעבן." 
+        intervals [918]:
+            xmin = 1526.146 
+            xmax = 1527.115 
+            text = "" 
+        intervals [919]:
+            xmin = 1527.115 
+            xmax = 1528.672 
+            text = "װאָס מיט זײ װײַטער" 
+        intervals [920]:
+            xmin = 1528.672 
+            xmax = 1530.416 
+            text = "האָט פּאַסירט װײס איך ניט." 
+        intervals [921]:
+            xmin = 1530.416 
+            xmax = 1531.924 
+            text = "" 
+        intervals [922]:
+            xmin = 1531.924 
+            xmax = 1533.74 
+            text = "און דאָס איז געװען" 
+        intervals [923]:
+            xmin = 1533.74 
+            xmax = 1534.742 
+            text = "" 
+        intervals [924]:
+            xmin = 1534.742 
+            xmax = 1537.065 
+            text = "<זיך,> האָבן מיר אָנגערופֿן די קינדער־אַקציע." 
+        intervals [925]:
+            xmin = 1537.065 
+            xmax = 1538.539 
+            text = "" 
+        intervals [926]:
+            xmin = 1538.539 
+            xmax = 1540.49 
+            text = "מיר האָבן נאָך ניט געװוּסט," 
+        intervals [927]:
+            xmin = 1540.49 
+            xmax = 1540.902 
+            text = "" 
+        intervals [928]:
+            xmin = 1540.902 
+            xmax = 1542.786 
+            text = "נאָר די זעלביקע זאַך" 
+        intervals [929]:
+            xmin = 1542.786 
+            xmax = 1543.095 
+            text = "" 
+        intervals [930]:
+            xmin = 1543.095 
+            xmax = 1544.658 
+            text = "איז דאָס אױך געװען" 
+        intervals [931]:
+            xmin = 1544.658 
+            xmax = 1544.749 
+            text = "" 
+        intervals [932]:
+            xmin = 1544.749 
+            xmax = 1546.582 
+            text = "אין דעם שאַנצער לאַגער" 
+        intervals [933]:
+            xmin = 1546.582 
+            xmax = 1547.584 
+            text = "" 
+        intervals [934]:
+            xmin = 1547.584 
+            xmax = 1550.644 
+            text = "און עס איז דאָס געװען אין קאָװנער געטאָ" 
+        intervals [935]:
+            xmin = 1550.644 
+            xmax = 1553.034 
+            text = "בײַ די װאָ- eh ייִדן, מיט די ייִדן" 
+        intervals [936]:
+            xmin = 1553.034 
+            xmax = 1555.234 
+            text = "װאָס זײַנען נאָך געװען געבליבן אין געטאָ." 
+        intervals [937]:
+            xmin = 1555.234 
+            xmax = 1557.81 
+            text = "" 
+        intervals [938]:
+            xmin = 1557.81 
+            xmax = 1559.542 
+            text = "דאָס איז געװען" 
+        intervals [939]:
+            xmin = 1559.542 
+            xmax = 1560.544 
+            text = "" 
+        intervals [940]:
+            xmin = 1560.544 
+            xmax = 1562.58 
+            text = "אין פֿיר און פֿערציקסטן יאָר." 
+        intervals [941]:
+            xmin = 1562.58 
+            xmax = 1563.717 
+            text = "" 
+        intervals [942]:
+            xmin = 1563.717 
+            xmax = 1565.365 
+            text = "אומגעפֿער אין פֿרילינג." 
+        intervals [943]:
+            xmin = 1565.365 
+            xmax = 1570.078 
+            text = "" 
+        intervals [944]:
+            xmin = 1570.078 
+            xmax = 1571.169 
+            text = "נו," 
+        intervals [945]:
+            xmin = 1571.169 
+            xmax = 1572.542 
+            text = "" 
+        intervals [946]:
+            xmin = 1572.542 
+            xmax = 1575.809 
+            text = "דער װאָס איז געלעבט איז װײַטער, האָט װײַטער געלעבט." 
+        intervals [947]:
+            xmin = 1575.809 
+            xmax = 1576.913 
+            text = "" 
+        intervals [948]:
+            xmin = 1576.913 
+            xmax = 1579.117 
+            text = "מ'איז װײַטער געגאַנגען צו דער אַרבעט." 
+        intervals [949]:
+            xmin = 1579.117 
+            xmax = 1580.777 
+            text = "" 
+        intervals [950]:
+            xmin = 1580.777 
+            xmax = 1584.298 
+            text = "מ'האָט װײַטער געװאַרט װאָס װעט זײַן." 
+        intervals [951]:
+            xmin = 1584.298 
+            xmax = 1585.705 
+            text = "" 
+        intervals [952]:
+            xmin = 1585.705 
+            xmax = 1587.251 
+            text = "אין די צײַט" 
+        intervals [953]:
+            xmin = 1587.251 
+            xmax = 1588.371 
+            text = "" 
+        intervals [954]:
+            xmin = 1588.371 
+            xmax = 1592.178 
+            text = "איז שױן געװען, פֿאַרשטײט זיך אין פֿיר און פֿערציקסטן יאָר" 
+        intervals [955]:
+            xmin = 1592.178 
+            xmax = 1595.627 
+            text = "" 
+        intervals [956]:
+            xmin = 1595.627 
+            xmax = 1597.072 
+            text = "איז שױן געװען" 
+        intervals [957]:
+            xmin = 1597.072 
+            xmax = 1597.686 
+            text = "" 
+        intervals [958]:
+            xmin = 1597.686 
+            xmax = 1598.777 
+            text = "דער קריג" 
+        intervals [959]:
+            xmin = 1598.777 
+            xmax = 1599.53 
+            text = "" 
+        intervals [960]:
+            xmin = 1599.53 
+            xmax = 1601.105 
+            text = "האָט זיך געביטן." 
+        intervals [961]:
+            xmin = 1601.105 
+            xmax = 1604.385 
+            text = "" 
+        intervals [962]:
+            xmin = 1604.385 
+            xmax = 1605.661 
+            text = "די גאַנצע" 
+        intervals [963]:
+            xmin = 1605.661 
+            xmax = 1606.41 
+            text = "" 
+        intervals [964]:
+            xmin = 1606.41 
+            xmax = 1609.104 
+            text = "זאַך פֿון קריג האָט שױן אױסגעזען אַנדערש." 
+        intervals [965]:
+            xmin = 1609.104 
+            xmax = 1610.19 
+            text = "" 
+        intervals [966]:
+            xmin = 1610.19 
+            xmax = 1612.001 
+            text = "ס'איז שױן געװען די מפּלה" 
+        intervals [967]:
+            xmin = 1612.001 
+            xmax = 1613.205 
+            text = "פֿון די דײַטשן" 
+        intervals [968]:
+            xmin = 1613.205 
+            xmax = 1613.903 
+            text = "" 
+        intervals [969]:
+            xmin = 1613.903 
+            xmax = 1615.517 
+            text = "בײַ STALINGRAD." 
+        intervals [970]:
+            xmin = 1615.517 
+            xmax = 1618.189 
+            text = "" 
+        intervals [971]:
+            xmin = 1618.189 
+            xmax = 1621.035 
+            text = "עס איז שױן געװען די מפּלה בײַ די דײַטשן" 
+        intervals [972]:
+            xmin = 1621.035 
+            xmax = 1622.458 
+            text = "" 
+        intervals [973]:
+            xmin = 1622.458 
+            xmax = 1623.751 
+            text = "בײַ ORYOL." 
+        intervals [974]:
+            xmin = 1623.751 
+            xmax = 1626.036 
+            text = "" 
+        intervals [975]:
+            xmin = 1626.036 
+            xmax = 1627.363 
+            text = "דער פֿראָנט" 
+        intervals [976]:
+            xmin = 1627.363 
+            xmax = 1628.466 
+            text = "" 
+        intervals [977]:
+            xmin = 1628.466 
+            xmax = 1630.35 
+            text = "האָט זיך שױן אָנגעהױבן" 
+        intervals [978]:
+            xmin = 1630.35 
+            xmax = 1630.525 
+            text = "" 
+        intervals [979]:
+            xmin = 1630.525 
+            xmax = 1631.97 
+            text = "דערנעענטערן" 
+        intervals [980]:
+            xmin = 1631.97 
+            xmax = 1632.212 
+            text = "" 
+        intervals [981]:
+            xmin = 1632.212 
+            xmax = 1633.387 
+            text = "צו ליטע." 
+        intervals [982]:
+            xmin = 1633.387 
+            xmax = 1637.376 
+            text = "" 
+        intervals [983]:
+            xmin = 1637.376 
+            xmax = 1641.15 
+            text = "אַז דער פֿראָנט האָט זיך אָנגעהױבן צום דערנעענטערן צום ליטע" 
+        intervals [984]:
+            xmin = 1641.15 
+            xmax = 1641.679 
+            text = "" 
+        intervals [985]:
+            xmin = 1641.679 
+            xmax = 1643.563 
+            text = "האָט זיך שױן געשפּירט" 
+        intervals [986]:
+            xmin = 1643.563 
+            xmax = 1644.919 
+            text = "" 
+        intervals [987]:
+            xmin = 1644.919 
+            xmax = 1646.465 
+            text = "אין קאָװנע אױך," 
+        intervals [988]:
+            xmin = 1646.465 
+            xmax = 1647.771 
+            text = "" 
+        intervals [989]:
+            xmin = 1647.771 
+            xmax = 1650.566 
+            text = "מע האָט עפֿטער אָנגעהױבן באָמבאַרדירן דאָ" 
+        intervals [990]:
+            xmin = 1650.566 
+            xmax = 1651.011 
+            text = "" 
+        intervals [991]:
+            xmin = 1651.011 
+            xmax = 1652.22 
+            text = "די דײַטשן," 
+        intervals [992]:
+            xmin = 1652.22 
+            xmax = 1653.998 
+            text = "" 
+        intervals [993]:
+            xmin = 1653.998 
+            xmax = 1654.954 
+            text = "און" 
+        intervals [994]:
+            xmin = 1654.954 
+            xmax = 1655.938 
+            text = "" 
+        intervals [995]:
+            xmin = 1655.938 
+            xmax = 1657.72 
+            text = "די דײַטשן האָבן געזען" 
+        intervals [996]:
+            xmin = 1657.72 
+            xmax = 1658.284 
+            text = "" 
+        intervals [997]:
+            xmin = 1658.284 
+            xmax = 1659.459 
+            text = "פֿאַרשטײט זיך" 
+        intervals [998]:
+            xmin = 1659.459 
+            xmax = 1659.82 
+            text = "" 
+        intervals [999]:
+            xmin = 1659.82 
+            xmax = 1663.661 
+            text = "אַז זיך אײַנהאַלטן דאָ אין ליטע װעלן זײ שױן ניט קענען," 
+        intervals [1000]:
+            xmin = 1663.661 
+            xmax = 1665.895 
+            text = "" 
+        intervals [1001]:
+            xmin = 1665.895 
+            xmax = 1667.998 
+            text = "און מען האָט אונדז" 
+        intervals [1002]:
+            xmin = 1667.998 
+            xmax = 1668.122 
+            text = "" 
+        intervals [1003]:
+            xmin = 1668.122 
+            xmax = 1670.191 
+            text = "אָנגעהױבן אַרױספֿירן" 
+        intervals [1004]:
+            xmin = 1670.191 
+            xmax = 1671.801 
+            text = "" 
+        intervals [1005]:
+            xmin = 1671.801 
+            xmax = 1675.997 
+            text = "פֿון ליטע, פֿון קאָװנע אױכעט," 
+        intervals [1006]:
+            xmin = 1675.997 
+            xmax = 1677.538 
+            text = "" 
+        intervals [1007]:
+            xmin = 1677.538 
+            xmax = 1679.04 
+            text = "אין דײַטשלאַנד." 
+        intervals [1008]:
+            xmin = 1679.04 
+            xmax = 1680.728 
+            text = "" 
+        intervals [1009]:
+            xmin = 1680.728 
+            xmax = 1682.274 
+            text = "דעם פֿופֿצעטן" 
+        intervals [1010]:
+            xmin = 1682.274 
+            xmax = 1682.803 
+            text = "" 
+        intervals [1011]:
+            xmin = 1682.803 
+            xmax = 1683.961 
+            text = "יולי," 
+        intervals [1012]:
+            xmin = 1683.961 
+            xmax = 1684.828 
+            text = "" 
+        intervals [1013]:
+            xmin = 1684.828 
+            xmax = 1688.214 
+            text = "אין טױזנט נײַן הונדערט פֿיר און פֿערציקסטן יאָר," 
+        intervals [1014]:
+            xmin = 1688.214 
+            xmax = 1690.448 
+            text = "" 
+        intervals [1015]:
+            xmin = 1690.448 
+            xmax = 1692.045 
+            text = "האָט מען אונדז אַלעמען ט-" 
+        intervals [1016]:
+            xmin = 1692.045 
+            xmax = 1692.287 
+            text = "" 
+        intervals [1017]:
+            xmin = 1692.287 
+            xmax = 1693.546 
+            text = "אױסגעשטעלט" 
+        intervals [1018]:
+            xmin = 1693.546 
+            xmax = 1694.211 
+            text = "" 
+        intervals [1019]:
+            xmin = 1694.211 
+            xmax = 1697.242 
+            text = "אױפֿן אַפּעל־פּלאַץ, װי די דײַטשן פֿלעגן זאָגן," 
+        intervals [1020]:
+            xmin = 1697.242 
+            xmax = 1698.227 
+            text = "" 
+        intervals [1021]:
+            xmin = 1698.227 
+            xmax = 1703.57 
+            text = "אױפֿן פּלאַץ װוּ מע פֿלעגט אונדז צײלן אַלע טאָג, צום, צו ס'איז קײנער ניט אַנטלאָפֿן, צו װי צו װען," 
+        intervals [1022]:
+            xmin = 1703.57 
+            xmax = 1704.808 
+            text = "" 
+        intervals [1023]:
+            xmin = 1704.808 
+            xmax = 1707.303 
+            text = "און זײ האָבן אונדז אַרומגערינגלט די דײַטשע" 
+        intervals [1024]:
+            xmin = 1707.303 
+            xmax = 1708.903 
+            text = "פּאָסטנס, די דײַטשן," 
+        intervals [1025]:
+            xmin = 1708.903 
+            xmax = 1709.23 
+            text = "" 
+        intervals [1026]:
+            xmin = 1709.23 
+            xmax = 1711.941 
+            text = "און מען האָט אונדז אַרױסגעטריבן פֿון לאַגער." 
+        intervals [1027]:
+            xmin = 1711.941 
+            xmax = 1713.853 
+            text = "" 
+        intervals [1028]:
+            xmin = 1713.853 
+            xmax = 1715.939 
+            text = "מ'האָט אונדז אַרױסגעטריבן פֿון לאַגער," 
+        intervals [1029]:
+            xmin = 1715.939 
+            xmax = 1717.819 
+            text = "" 
+        intervals [1030]:
+            xmin = 1717.819 
+            xmax = 1719.45 
+            text = "האָט מען אונדז געפֿירט" 
+        intervals [1031]:
+            xmin = 1719.45 
+            xmax = 1719.945 
+            text = "" 
+        intervals [1032]:
+            xmin = 1719.945 
+            xmax = 1721.424 
+            text = "פֿון אַלעקסאָט" 
+        intervals [1033]:
+            xmin = 1721.424 
+            xmax = 1722.882 
+            text = "" 
+        intervals [1034]:
+            xmin = 1722.882 
+            xmax = 1724.42 
+            text = "דורכן שטאָט" 
+        intervals [1035]:
+            xmin = 1724.42 
+            xmax = 1725.75 
+            text = "" 
+        intervals [1036]:
+            xmin = 1725.75 
+            xmax = 1726.942 
+            text = "צו" 
+        intervals [1037]:
+            xmin = 1726.942 
+            xmax = 1729.041 
+            text = "" 
+        intervals [1038]:
+            xmin = 1729.041 
+            xmax = 1731.18 
+            text = "צום eh באַן." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Simionas Dovidavicius" 
+        xmin = 0 
+        xmax = 1731.18 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.636 
+            text = "" 
+        intervals [2]:
+            xmin = 0.636 
+            xmax = 2.354 
+            text = "GERSHON שוסטער." 
+        intervals [3]:
+            xmin = 2.354 
+            xmax = 4.19 
+            text = "KAUNAS, LITVA." 
+        intervals [4]:
+            xmin = 4.19 
+            xmax = 1017.439 
+            text = "" 
+        intervals [5]:
+            xmin = 1017.439 
+            xmax = 1022.715 
+            text = "דאָרטן אין געװעזע- געװען מיט טאַטע־מאַמען און שװעסטער eh נאָר אַלײן eh..." 
+        intervals [6]:
+            xmin = 1022.715 
+            xmax = 1086.357 
+            text = "" 
+        intervals [7]:
+            xmin = 1086.357 
+            xmax = 1089.22 
+            text = "װאָס גענײט אײַער eh טאַטע?" 
+        intervals [8]:
+            xmin = 1089.22 
+            xmax = 1187.067 
+            text = "" 
+        intervals [9]:
+            xmin = 1187.067 
+            xmax = 1189.358 
+            text = "װי געװעזן דאָרטן מיט eh" 
+        intervals [10]:
+            xmin = 1189.358 
+            xmax = 1190.452 
+            text = "עסן" 
+        intervals [11]:
+            xmin = 1190.452 
+            xmax = 1190.56 
+            text = "" 
+        intervals [12]:
+            xmin = 1190.56 
+            xmax = 1191.325 
+            text = "eh," 
+        intervals [13]:
+            xmin = 1191.325 
+            xmax = 1194.806 
+            text = "בעסער װי, װי אין געטאָ אין דעם לאַגער UNK..." 
+        intervals [14]:
+            xmin = 1194.806 
+            xmax = 1266.312 
+            text = "" 
+        intervals [15]:
+            xmin = 1266.312 
+            xmax = 1269.861 
+            text = "װאָס געאַרבעט אײַער מאַמע און שװעסטער" 
+        intervals [16]:
+            xmin = 1269.861 
+            xmax = 1271.655 
+            text = "אין אַעראָדראָם?" 
+        intervals [17]:
+            xmin = 1271.655 
+            xmax = 1731.18 
+            text = "" 
