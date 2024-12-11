@@ -1,0 +1,4324 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1753.027 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Khaya Vaynberg" 
+        xmin = 0 
+        xmax = 1753.027 
+        intervals: size = 835 
+        intervals [1]:
+            xmin = 0 
+            xmax = 72.979 
+            text = "" 
+        intervals [2]:
+            xmin = 72.979 
+            xmax = 75.318 
+            text = "mayn nomen iz Khayke." 
+        intervals [3]:
+            xmin = 75.318 
+            xmax = 76.017 
+            text = "" 
+        intervals [4]:
+            xmin = 76.017 
+            xmax = 77.73 
+            text = "<may-> Vaynberg." 
+        intervals [5]:
+            xmin = 77.73 
+            xmax = 79.672 
+            text = "un <MY> nomen" 
+        intervals [6]:
+            xmin = 79.672 
+            xmax = 79.729 
+            text = "" 
+        intervals [7]:
+            xmin = 79.729 
+            xmax = 81.902 
+            text = "iz geven Daskal." 
+        intervals [8]:
+            xmin = 81.902 
+            xmax = 84.161 
+            text = "itster iz Khayke Vaynberg." 
+        intervals [9]:
+            xmin = 84.161 
+            xmax = 85.78 
+            text = "" 
+        intervals [10]:
+            xmin = 85.78 
+            xmax = 87.05 
+            text = "Kh- Kh-..." 
+        intervals [11]:
+            xmin = 87.05 
+            xmax = 87.974 
+            text = "yo." 
+        intervals [12]:
+            xmin = 87.974 
+            xmax = 88.723 
+            text = "" 
+        intervals [13]:
+            xmin = 88.723 
+            xmax = 91.889 
+            text = "K.H.A.Y.A." 
+        intervals [14]:
+            xmin = 91.889 
+            xmax = 92.571 
+            text = "" 
+        intervals [15]:
+            xmin = 92.571 
+            xmax = 96.297 
+            text = "V.A.Y.N.B." 
+        intervals [16]:
+            xmin = 96.297 
+            xmax = 98.454 
+            text = "E.R.G." 
+        intervals [17]:
+            xmin = 98.454 
+            xmax = 101.127 
+            text = "" 
+        intervals [18]:
+            xmin = 101.127 
+            xmax = 106.29 
+            text = "neyn. eh, kh'hob gehat a nomen fri<rert>, Daskal. D.A.S." 
+        intervals [19]:
+            xmin = 106.29 
+            xmax = 107.971 
+            text = "K.A.L." 
+        intervals [20]:
+            xmin = 107.971 
+            xmax = 110.543 
+            text = "" 
+        intervals [21]:
+            xmin = 110.543 
+            xmax = 112.697 
+            text = "<dem> tsentn may," 
+        intervals [22]:
+            xmin = 112.697 
+            xmax = 113.614 
+            text = "" 
+        intervals [23]:
+            xmin = 113.614 
+            xmax = 115.92 
+            text = "TEN MAY, MAY TEN," 
+        intervals [24]:
+            xmin = 115.92 
+            xmax = 116.247 
+            text = "" 
+        intervals [25]:
+            xmin = 116.247 
+            xmax = 118.73 
+            text = "NINETEEN TWENTY-EIGHT." 
+        intervals [26]:
+            xmin = 118.73 
+            xmax = 120.33 
+            text = "" 
+        intervals [27]:
+            xmin = 120.33 
+            xmax = 123.96 
+            text = "haynt bin ikh zeks, uh, nayn un zekhtsik yor alt." 
+        intervals [28]:
+            xmin = 123.96 
+            xmax = 127.047 
+            text = "" 
+        intervals [29]:
+            xmin = 127.047 
+            xmax = 131.462 
+            text = "ikh bin geboyrn gevorn in, uh, UNK, eh, in Uriv," 
+        intervals [30]:
+            xmin = 131.462 
+            xmax = 131.94 
+            text = "" 
+        intervals [31]:
+            xmin = 131.94 
+            xmax = 133.655 
+            text = "a shtetele Uriv." 
+        intervals [32]:
+            xmin = 133.655 
+            xmax = 134.05 
+            text = "" 
+        intervals [33]:
+            xmin = 134.05 
+            xmax = 138.246 
+            text = "<un in> rusish kon men zogn az s'iz ORGEEV." 
+        intervals [34]:
+            xmin = 138.246 
+            xmax = 138.589 
+            text = "" 
+        intervals [35]:
+            xmin = 138.589 
+            xmax = 140.855 
+            text = "O.R.... R." 
+        intervals [36]:
+            xmin = 140.855 
+            xmax = 143.51 
+            text = "G.E.E.V." 
+        intervals [37]:
+            xmin = 143.51 
+            xmax = 146.352 
+            text = "" 
+        intervals [38]:
+            xmin = 146.352 
+            xmax = 149.366 
+            text = "ikh bin geven, uh, demlt iz geven Rumenye." 
+        intervals [39]:
+            xmin = 149.366 
+            xmax = 157.506 
+            text = "" 
+        intervals [40]:
+            xmin = 157.506 
+            xmax = 158.36 
+            text = "nu..." 
+        intervals [41]:
+            xmin = 158.36 
+            xmax = 159.447 
+            text = "" 
+        intervals [42]:
+            xmin = 159.447 
+            xmax = 164.267 
+            text = "frirert, in der milkhome bin ikh geven a kleyn kin- uh, kl- meydele." 
+        intervals [43]:
+            xmin = 164.267 
+            xmax = 164.29 
+            text = "" 
+        intervals [44]:
+            xmin = 164.29 
+            xmax = 166.798 
+            text = "kh'bin geven alt tsvelef yor." 
+        intervals [45]:
+            xmin = 166.798 
+            xmax = 166.855 
+            text = "" 
+        intervals [46]:
+            xmin = 166.855 
+            xmax = 169.059 
+            text = "kh'hob gelebt mit mayne eltern," 
+        intervals [47]:
+            xmin = 169.059 
+            xmax = 169.116 
+            text = "" 
+        intervals [48]:
+            xmin = 169.116 
+            xmax = 171.304 
+            text = "mayn, uh, foter <un> muter," 
+        intervals [49]:
+            xmin = 171.304 
+            xmax = 171.715 
+            text = "" 
+        intervals [50]:
+            xmin = 171.715 
+            xmax = 178.357 
+            text = "un... mayn, zayn nemen iz Yidl. Yidl Daskal iz mayn, uh, foter's nemen." 
+        intervals [51]:
+            xmin = 178.357 
+            xmax = 178.397 
+            text = "" 
+        intervals [52]:
+            xmin = 178.397 
+            xmax = 181.175 
+            text = "mayn m- muter's iz Dvoyre Daskal." 
+        intervals [53]:
+            xmin = 181.175 
+            xmax = 181.705 
+            text = "" 
+        intervals [54]:
+            xmin = 181.705 
+            xmax = 183.167 
+            text = "un, uh," 
+        intervals [55]:
+            xmin = 183.167 
+            xmax = 183.375 
+            text = "" 
+        intervals [56]:
+            xmin = 183.375 
+            xmax = 186.541 
+            text = "kh'bin geven nokh a kleyn meydele. kh'bin gegan in shkole," 
+        intervals [57]:
+            xmin = 186.541 
+            xmax = 186.582 
+            text = "" 
+        intervals [58]:
+            xmin = 186.582 
+            xmax = 188.736 
+            text = "un ikh bin geven a bisl gliklekh." 
+        intervals [59]:
+            xmin = 188.736 
+            xmax = 191.307 
+            text = "" 
+        intervals [60]:
+            xmin = 191.307 
+            xmax = 193.478 
+            text = "ya. ikh hob gehat" 
+        intervals [61]:
+            xmin = 193.478 
+            xmax = 193.568 
+            text = "" 
+        intervals [62]:
+            xmin = 193.568 
+            xmax = 196.346 
+            text = "tsvey shvesters un dray briders." 
+        intervals [63]:
+            xmin = 196.346 
+            xmax = 199.069 
+            text = "" 
+        intervals [64]:
+            xmin = 199.069 
+            xmax = 203.298 
+            text = "eh, mayn eltere shvester, uh, iz R- uh, Rokhl," 
+        intervals [65]:
+            xmin = 203.298 
+            xmax = 203.575 
+            text = "" 
+        intervals [66]:
+            xmin = 203.575 
+            xmax = 205.56 
+            text = "un di yingere iz Milke." 
+        intervals [67]:
+            xmin = 205.56 
+            xmax = 206.005 
+            text = "" 
+        intervals [68]:
+            xmin = 206.005 
+            xmax = 210.566 
+            text = "un mayn bruder, eyner, <eh, hot, eh, hot, eh,> hey- hot geheysn" 
+        intervals [69]:
+            xmin = 210.566 
+            xmax = 211.685 
+            text = "VIKTOR," 
+        intervals [70]:
+            xmin = 211.685 
+            xmax = 211.928 
+            text = "" 
+        intervals [71]:
+            xmin = 211.928 
+            xmax = 213.626 
+            text = "un MORDEKHAY," 
+        intervals [72]:
+            xmin = 213.626 
+            xmax = 213.717 
+            text = "" 
+        intervals [73]:
+            xmin = 213.717 
+            xmax = 215.01 
+            text = "un Avreml" 
+        intervals [74]:
+            xmin = 215.01 
+            xmax = 219.775 
+            text = "" 
+        intervals [75]:
+            xmin = 219.775 
+            xmax = 222.958 
+            text = "ikh hob, kh'hob, mir hobn gehat a gute sh- uh, HOUSE." 
+        intervals [76]:
+            xmin = 222.958 
+            xmax = 223.352 
+            text = "" 
+        intervals [77]:
+            xmin = 223.352 
+            xmax = 225.55 
+            text = "uh, mir hobn gelebt nit shlekht." 
+        intervals [78]:
+            xmin = 225.55 
+            xmax = 225.985 
+            text = "" 
+        intervals [79]:
+            xmin = 225.985 
+            xmax = 228.392 
+            text = "mayn foter hot gearbet," 
+        intervals [80]:
+            xmin = 228.392 
+            xmax = 228.718 
+            text = "" 
+        intervals [81]:
+            xmin = 228.718 
+            xmax = 230.94 
+            text = "un mir kinder hobn gelernt." 
+        intervals [82]:
+            xmin = 230.94 
+            xmax = 233.967 
+            text = "" 
+        intervals [83]:
+            xmin = 233.967 
+            xmax = 237.454 
+            text = "UNK gelernt in shko- in der, in, eh, in der shule." 
+        intervals [84]:
+            xmin = 237.454 
+            xmax = 237.612 
+            text = "" 
+        intervals [85]:
+            xmin = 237.612 
+            xmax = 242.483 
+            text = "d<i>, s'ershte hob ikh gelernt in a HEBREW shule fir yor," 
+        intervals [86]:
+            xmin = 242.483 
+            xmax = 242.64 
+            text = "" 
+        intervals [87]:
+            xmin = 242.64 
+            xmax = 246.279 
+            text = "un kh'hob gekont shtark gut redn HEBREW, nor kh'hob fargesn." 
+        intervals [88]:
+            xmin = 246.279 
+            xmax = 246.606 
+            text = "" 
+        intervals [89]:
+            xmin = 246.606 
+            xmax = 249.536 
+            text = "un dernokh dem hob ikh gere- gelernt in a" 
+        intervals [90]:
+            xmin = 249.536 
+            xmax = 249.728 
+            text = "" 
+        intervals [91]:
+            xmin = 249.728 
+            xmax = 251.747 
+            text = "rumenishe gimnazye" 
+        intervals [92]:
+            xmin = 251.747 
+            xmax = 252.023 
+            text = "" 
+        intervals [93]:
+            xmin = 252.023 
+            xmax = 253.215 
+            text = "tsvey yor," 
+        intervals [94]:
+            xmin = 253.215 
+            xmax = 253.305 
+            text = "" 
+        intervals [95]:
+            xmin = 253.305 
+            xmax = 255.914 
+            text = "un nokh dem, ven s'iz gekumen tsun undz Rusland," 
+        intervals [96]:
+            xmin = 255.914 
+            xmax = 256.072 
+            text = "" 
+        intervals [97]:
+            xmin = 256.072 
+            xmax = 259.053 
+            text = "hob ikh gelernt in a rusisher, uh, shule" 
+        intervals [98]:
+            xmin = 259.053 
+            xmax = 259.632 
+            text = "" 
+        intervals [99]:
+            xmin = 259.632 
+            xmax = 261.887 
+            text = "eyn yor, biz der milkhome." 
+        intervals [100]:
+            xmin = 261.887 
+            xmax = 267.278 
+            text = "" 
+        intervals [101]:
+            xmin = 267.278 
+            xmax = 271.862 
+            text = "nu, mir hobn gehat dray tsimern, groyse dray tsimern." 
+        intervals [102]:
+            xmin = 271.862 
+            xmax = 272.037 
+            text = "" 
+        intervals [103]:
+            xmin = 272.037 
+            xmax = 274.36 
+            text = "mir hobn gehat a sheyne kikh," 
+        intervals [104]:
+            xmin = 274.36 
+            xmax = 275.709 
+            text = "azoy ikh gedenk," 
+        intervals [105]:
+            xmin = 275.709 
+            xmax = 276.019 
+            text = "" 
+        intervals [106]:
+            xmin = 276.019 
+            xmax = 279.94 
+            text = "un s'iz geven a, hm, a hoyf, a groyser hoyf," 
+        intervals [107]:
+            xmin = 279.94 
+            xmax = 280.542 
+            text = "" 
+        intervals [108]:
+            xmin = 280.542 
+            xmax = 283.151 
+            text = "un mir hobn gehat a balkon." 
+        intervals [109]:
+            xmin = 283.151 
+            xmax = 284.271 
+            text = "" 
+        intervals [110]:
+            xmin = 284.271 
+            xmax = 287.201 
+            text = "un, ikh veys, hm, nisht keyn shlekhte shtub." 
+        intervals [111]:
+            xmin = 287.201 
+            xmax = 291.477 
+            text = "" 
+        intervals [112]:
+            xmin = 291.477 
+            xmax = 294.241 
+            text = "nu, mir, kh'hob gevoynt in a kleyn shtetele;" 
+        intervals [113]:
+            xmin = 294.241 
+            xmax = 295.992 
+            text = "s'iz nisht geven azoy lang," 
+        intervals [114]:
+            xmin = 295.992 
+            xmax = 296.151 
+            text = "" 
+        intervals [115]:
+            xmin = 296.151 
+            xmax = 298.586 
+            text = "vayl di sh- gantse shtot iz nisht lang," 
+        intervals [116]:
+            xmin = 298.586 
+            xmax = 299.874 
+            text = "nisht geven lang." 
+        intervals [117]:
+            xmin = 299.874 
+            xmax = 302.631 
+            text = "" 
+        intervals [118]:
+            xmin = 302.631 
+            xmax = 306.81 
+            text = "nu, ORGEEV iz a kleyn shtetele. s'hobn gelebt dort a sakh yidn," 
+        intervals [119]:
+            xmin = 306.81 
+            xmax = 306.934 
+            text = "" 
+        intervals [120]:
+            xmin = 306.934 
+            xmax = 308.649 
+            text = "shtark a sakh yidn." 
+        intervals [121]:
+            xmin = 308.649 
+            xmax = 308.824 
+            text = "" 
+        intervals [122]:
+            xmin = 308.824 
+            xmax = 313.003 
+            text = "un dos lebn iz geven nit shlekht, bizkele Rusland iz gekumen." 
+        intervals [123]:
+            xmin = 313.003 
+            xmax = 313.195 
+            text = "" 
+        intervals [124]:
+            xmin = 313.195 
+            xmax = 320.772 
+            text = "s'iz geven, hm, ikh bin geven a kind, un ikh hob nit gevust gornisht. ikh hob gevust az ikh darf esn un trinken un geyn in shko- in shul arayn." 
+        intervals [125]:
+            xmin = 320.772 
+            xmax = 321.43 
+            text = "" 
+        intervals [126]:
+            xmin = 321.43 
+            xmax = 325.777 
+            text = "un ven ikh bin geven a kind, bin ikh geven a, a tsienistke." 
+        intervals [127]:
+            xmin = 325.777 
+            xmax = 326.037 
+            text = "" 
+        intervals [128]:
+            xmin = 326.037 
+            xmax = 328.258 
+            text = "ikh bin gegangen in Gordonye," 
+        intervals [129]:
+            xmin = 328.258 
+            xmax = 328.618 
+            text = "" 
+        intervals [130]:
+            xmin = 328.618 
+            xmax = 331.362 
+            text = "un ikh hob gevolt forn keyn ISRAEL." 
+        intervals [131]:
+            xmin = 331.362 
+            xmax = 336.6 
+            text = "" 
+        intervals [132]:
+            xmin = 336.6 
+            xmax = 340.559 
+            text = "ikh hob shtark ge- lib gehat tsu leyenen bikhlekh." 
+        intervals [133]:
+            xmin = 340.559 
+            xmax = 341.038 
+            text = "" 
+        intervals [134]:
+            xmin = 341.038 
+            xmax = 342.871 
+            text = "dos iz geven mayn best." 
+        intervals [135]:
+            xmin = 342.871 
+            xmax = 342.945 
+            text = "" 
+        intervals [136]:
+            xmin = 342.945 
+            xmax = 348.257 
+            text = "mayn muter fleg mir sh- eh, shikn in droys- uh, aroys in droysn shpiln, un ikh hob nisht gevolt, vayl" 
+        intervals [137]:
+            xmin = 348.257 
+            xmax = 349.706 
+            text = "ikh hob gevolt leyenen." 
+        intervals [138]:
+            xmin = 349.706 
+            xmax = 349.797 
+            text = "" 
+        intervals [139]:
+            xmin = 349.797 
+            xmax = 351.546 
+            text = "kh'hob shtark lib gehat tsu leyenen." 
+        intervals [140]:
+            xmin = 351.546 
+            xmax = 353.863 
+            text = "" 
+        intervals [141]:
+            xmin = 353.863 
+            xmax = 356.737 
+            text = "zey zenen geven elter fun mir," 
+        intervals [142]:
+            xmin = 356.737 
+            xmax = 362.699 
+            text = "un ikh hob nisht gekont mit zey a sakh shpiln. kh'hob gehat nor a eltern bruder, vos er iz geshtorbn in der milkhome." 
+        intervals [143]:
+            xmin = 362.699 
+            xmax = 362.757 
+            text = "" 
+        intervals [144]:
+            xmin = 362.757 
+            xmax = 367.948 
+            text = "er iz geven a bisl, hm, yin- eh, yi- eh, azoy vi ikh, a bisl elter," 
+        intervals [145]:
+            xmin = 367.948 
+            xmax = 368.292 
+            text = "" 
+        intervals [146]:
+            xmin = 368.292 
+            xmax = 370.007 
+            text = "nor mir flegn zikh shlogn." 
+        intervals [147]:
+            xmin = 370.007 
+            xmax = 371.346 
+            text = "" 
+        intervals [148]:
+            xmin = 371.346 
+            xmax = 372.285 
+            text = "yo." 
+        intervals [149]:
+            xmin = 372.285 
+            xmax = 372.375 
+            text = "" 
+        intervals [150]:
+            xmin = 372.375 
+            xmax = 375.389 
+            text = "zey hobn mikh lib gehat, derfar ikh bin geven di klenste." 
+        intervals [151]:
+            xmin = 375.389 
+            xmax = 381.083 
+            text = "" 
+        intervals [152]:
+            xmin = 381.083 
+            xmax = 384.266 
+            text = "uh, yo, mayne eltern hobn gegleybt in got," 
+        intervals [153]:
+            xmin = 384.266 
+            xmax = 384.272 
+            text = "" 
+        intervals [154]:
+            xmin = 384.272 
+            xmax = 388.987 
+            text = "un zey hobn undz, uhm, ertsit az mir zoln gleybn in got oykhet." 
+        intervals [155]:
+            xmin = 388.987 
+            xmax = 389.098 
+            text = "" 
+        intervals [156]:
+            xmin = 389.098 
+            xmax = 392.316 
+            text = "un mir hobn, uh, ge-" 
+        intervals [157]:
+            xmin = 392.316 
+            xmax = 392.322 
+            text = "" 
+        intervals [158]:
+            xmin = 392.322 
+            xmax = 394.611 
+            text = "yontevet ile yontoyvim." 
+        intervals [159]:
+            xmin = 394.611 
+            xmax = 395.055 
+            text = "" 
+        intervals [160]:
+            xmin = 395.055 
+            xmax = 400.685 
+            text = "ikh gedenk shtark gut, ven s'iz geven peysekh un ikh ho- fleg fregn di fir kashes," 
+        intervals [161]:
+            xmin = 400.685 
+            xmax = 400.708 
+            text = "" 
+        intervals [162]:
+            xmin = 400.708 
+            xmax = 403.295 
+            text = "un ikh fleg zitsn in mitn, uh," 
+        intervals [163]:
+            xmin = 403.295 
+            xmax = 406.05 
+            text = "oyfn seyder, ehm, oyf kishn." 
+        intervals [164]:
+            xmin = 406.05 
+            xmax = 406.362 
+            text = "" 
+        intervals [165]:
+            xmin = 406.362 
+            xmax = 409.177 
+            text = "ikh hob shtark lib gehat di yontoyvims un ikh," 
+        intervals [166]:
+            xmin = 409.177 
+            xmax = 411.041 
+            text = "kh'hob shtark lib gehat yon-kiper." 
+        intervals [167]:
+            xmin = 411.041 
+            xmax = 412.717 
+            text = "ikh fleg fastn," 
+        intervals [168]:
+            xmin = 412.717 
+            xmax = 412.774 
+            text = "" 
+        intervals [169]:
+            xmin = 412.774 
+            xmax = 414.573 
+            text = "un fleg vayzn di tsung." 
+        intervals [170]:
+            xmin = 414.573 
+            xmax = 420.672 
+            text = "" 
+        intervals [171]:
+            xmin = 420.672 
+            xmax = 421.678 
+            text = "yo." 
+        intervals [172]:
+            xmin = 421.678 
+            xmax = 421.887 
+            text = "" 
+        intervals [173]:
+            xmin = 421.887 
+            xmax = 425.762 
+            text = "uh, peysekh hobn mir gehat, uh, peysekhike latkes" 
+        intervals [174]:
+            xmin = 425.762 
+            xmax = 425.97 
+            text = "" 
+        intervals [175]:
+            xmin = 425.97 
+            xmax = 429.531 
+            text = "un, uh, tsimesn un kezlekh." 
+        intervals [176]:
+            xmin = 429.531 
+            xmax = 431.853 
+            text = "ikh hob shtark lib gehat fish." 
+        intervals [177]:
+            xmin = 431.853 
+            xmax = 432.383 
+            text = "" 
+        intervals [178]:
+            xmin = 432.383 
+            xmax = 436.033 
+            text = "un bay undz oyf peysekh iz geven shtark a sakh mentshn." 
+        intervals [179]:
+            xmin = 436.033 
+            xmax = 439.227 
+            text = "der p- uh, der foter mayner fleg, ehm, rufn;" 
+        intervals [180]:
+            xmin = 439.227 
+            xmax = 441.101 
+            text = "zey flegn esn bay undz," 
+        intervals [181]:
+            xmin = 441.101 
+            xmax = 441.411 
+            text = "" 
+        intervals [182]:
+            xmin = 441.411 
+            xmax = 443.137 
+            text = "un s'iz geven freylekh." 
+        intervals [183]:
+            xmin = 443.137 
+            xmax = 446.001 
+            text = "" 
+        intervals [184]:
+            xmin = 446.001 
+            xmax = 447.964 
+            text = "ma- uh, o- uh," 
+        intervals [185]:
+            xmin = 447.964 
+            xmax = 450.231 
+            text = "mentshn vos zey hobn nisht gehat vos tsu esn" 
+        intervals [186]:
+            xmin = 450.231 
+            xmax = 450.388 
+            text = "" 
+        intervals [187]:
+            xmin = 450.388 
+            xmax = 453.841 
+            text = "flegn kumen tsun undz un mayn, mayn foter fleg zey gibn." 
+        intervals [188]:
+            xmin = 453.841 
+            xmax = 454.05 
+            text = "" 
+        intervals [189]:
+            xmin = 454.05 
+            xmax = 458.364 
+            text = "un ikh hob lib gehat shtark oyftsuefenen di tir, Elyohu hanovi zol kumen." 
+        intervals [190]:
+            xmin = 458.364 
+            xmax = 463.618 
+            text = "" 
+        intervals [191]:
+            xmin = 463.618 
+            xmax = 467.56 
+            text = "neyn. ikh bin geven di klenste un mi- un ikh hob gornisht getun." 
+        intervals [192]:
+            xmin = 467.56 
+            xmax = 467.837 
+            text = "" 
+        intervals [193]:
+            xmin = 467.837 
+            xmax = 469.214 
+            text = "mikh hot men" 
+        intervals [194]:
+            xmin = 469.214 
+            xmax = 469.542 
+            text = "" 
+        intervals [195]:
+            xmin = 469.542 
+            xmax = 470.751 
+            text = "bafrayt." 
+        intervals [196]:
+            xmin = 470.751 
+            xmax = 470.773 
+            text = "" 
+        intervals [197]:
+            xmin = 470.773 
+            xmax = 476.504 
+            text = "mayn eltere shvester, zey, zi hot gefirt di shtub. zi fleg helfn der mame. di mame hot gearbet un der" 
+        intervals [198]:
+            xmin = 476.504 
+            xmax = 476.528 
+            text = "" 
+        intervals [199]:
+            xmin = 476.528 
+            xmax = 479.087 
+            text = "foter hot gearbet, un zi fleg undz helfn." 
+        intervals [200]:
+            xmin = 479.087 
+            xmax = 479.093 
+            text = "" 
+        intervals [201]:
+            xmin = 479.093 
+            xmax = 480.876 
+            text = "un zi fleg mikh" 
+        intervals [202]:
+            xmin = 480.876 
+            xmax = 481.354 
+            text = "" 
+        intervals [203]:
+            xmin = 481.354 
+            xmax = 483.71 
+            text = "ontun un gibn esn." 
+        intervals [204]:
+            xmin = 483.71 
+            xmax = 486.417 
+            text = "" 
+        intervals [205]:
+            xmin = 486.417 
+            xmax = 488.368 
+            text = "mayn tate hot gehat kleytn." 
+        intervals [206]:
+            xmin = 488.368 
+            xmax = 488.627 
+            text = "" 
+        intervals [207]:
+            xmin = 488.627 
+            xmax = 491.371 
+            text = "er hot gehat a sakh melokhes un veynik brokhes." 
+        intervals [208]:
+            xmin = 491.371 
+            xmax = 492.323 
+            text = "" 
+        intervals [209]:
+            xmin = 492.323 
+            xmax = 495.54 
+            text = "er hot gehat kleytn un er hot gehat, mir hobn gehat a," 
+        intervals [210]:
+            xmin = 495.54 
+            xmax = 495.867 
+            text = "" 
+        intervals [211]:
+            xmin = 495.867 
+            xmax = 498.595 
+            text = "a F- a F- a FACTORY fun," 
+        intervals [212]:
+            xmin = 498.595 
+            xmax = 498.82 
+            text = "" 
+        intervals [213]:
+            xmin = 498.82 
+            xmax = 501.902 
+            text = "uh, vaser. gemakht, uh, sode-vaser." 
+        intervals [214]:
+            xmin = 501.902 
+            xmax = 502.65 
+            text = "" 
+        intervals [215]:
+            xmin = 502.65 
+            xmax = 504.804 
+            text = "eh, marozhene, ICE CREAM." 
+        intervals [216]:
+            xmin = 504.804 
+            xmax = 507.055 
+            text = "" 
+        intervals [217]:
+            xmin = 507.055 
+            xmax = 510.474 
+            text = "un ikh veys az kh'bin geven, hm, nit shlekht, uh, in der heym." 
+        intervals [218]:
+            xmin = 510.474 
+            xmax = 512.455 
+            text = "" 
+        intervals [219]:
+            xmin = 512.455 
+            xmax = 515.894 
+            text = "mayn tate's. mayn tate's, m- in eynem mit di brider," 
+        intervals [220]:
+            xmin = 515.894 
+            xmax = 518.197 
+            text = "hobn zey gearbet. zey hobn gearbet shver," 
+        intervals [221]:
+            xmin = 518.197 
+            xmax = 519.958 
+            text = "nor ikh hob gornisht gefilt." 
+        intervals [222]:
+            xmin = 519.958 
+            xmax = 520.167 
+            text = "" 
+        intervals [223]:
+            xmin = 520.167 
+            xmax = 521.443 
+            text = "ikh bin geven..." 
+        intervals [224]:
+            xmin = 521.443 
+            xmax = 523.98 
+            text = "" 
+        intervals [225]:
+            xmin = 523.98 
+            xmax = 525.864 
+            text = "in eynem mit mayn foter." 
+        intervals [226]:
+            xmin = 525.864 
+            xmax = 526.275 
+            text = "" 
+        intervals [227]:
+            xmin = 526.275 
+            xmax = 528.178 
+            text = "zi iz geshtanen in kleyt," 
+        intervals [228]:
+            xmin = 528.178 
+            xmax = 531.942 
+            text = "un ile kinder hobn geholfn, di eltere. ikh hob nokh nisht." 
+        intervals [229]:
+            xmin = 531.942 
+            xmax = 533.07 
+            text = "ikh bin geven nokh" 
+        intervals [230]:
+            xmin = 533.07 
+            xmax = 533.211 
+            text = "" 
+        intervals [231]:
+            xmin = 533.211 
+            xmax = 534.203 
+            text = "tsu yung," 
+        intervals [232]:
+            xmin = 534.203 
+            xmax = 535.247 
+            text = "tsu kleyn." 
+        intervals [233]:
+            xmin = 535.247 
+            xmax = 539.404 
+            text = "" 
+        intervals [234]:
+            xmin = 539.404 
+            xmax = 542.587 
+            text = "neyn, mir <ho'mir>, mir hobn gelebt a- al- aleyn." 
+        intervals [235]:
+            xmin = 542.587 
+            xmax = 543.201 
+            text = "" 
+        intervals [236]:
+            xmin = 543.201 
+            xmax = 544.916 
+            text = "mir hobn gelebt bazunder." 
+        intervals [237]:
+            xmin = 544.916 
+            xmax = 559.671 
+            text = "" 
+        intervals [238]:
+            xmin = 559.671 
+            xmax = 563.681 
+            text = "tsk, ikh hob gezogt az ikh bin gegan, geven a tsienistke; ikh bin gegan in Gordonye." 
+        intervals [239]:
+            xmin = 563.681 
+            xmax = 564.16 
+            text = "" 
+        intervals [240]:
+            xmin = 564.16 
+            xmax = 569.048 
+            text = "un, uh, in zumer flegn mir f- avekforn in, uhm, a dorf" 
+        intervals [241]:
+            xmin = 569.048 
+            xmax = 569.408 
+            text = "" 
+        intervals [242]:
+            xmin = 569.408 
+            xmax = 570.499 
+            text = "tomed." 
+        intervals [243]:
+            xmin = 570.499 
+            xmax = 570.758 
+            text = "" 
+        intervals [244]:
+            xmin = 570.758 
+            xmax = 573.502 
+            text = "kh'bin geven, uh, bay undz hot men gezogt oyf a datshe." 
+        intervals [245]:
+            xmin = 573.502 
+            xmax = 574.318 
+            text = "" 
+        intervals [246]:
+            xmin = 574.318 
+            xmax = 575.341 
+            text = "mhm." 
+        intervals [247]:
+            xmin = 575.341 
+            xmax = 576.478 
+            text = "" 
+        intervals [248]:
+            xmin = 576.478 
+            xmax = 577.467 
+            text = "ya." 
+        intervals [249]:
+            xmin = 577.467 
+            xmax = 586.975 
+            text = "" 
+        intervals [250]:
+            xmin = 586.975 
+            xmax = 587.849 
+            text = "tsk, yo!" 
+        intervals [251]:
+            xmin = 587.849 
+            xmax = 589.601 
+            text = "avade s'iz geven mentshn" 
+        intervals [252]:
+            xmin = 589.601 
+            xmax = 589.641 
+            text = "" 
+        intervals [253]:
+            xmin = 589.641 
+            xmax = 592.132 
+            text = "vos zenen geven, uh, rumenishe," 
+        intervals [254]:
+            xmin = 592.132 
+            xmax = 592.527 
+            text = "" 
+        intervals [255]:
+            xmin = 592.527 
+            xmax = 595.794 
+            text = "un s'iz geven a sakh rusishe mentshn." 
+        intervals [256]:
+            xmin = 595.794 
+            xmax = 596.155 
+            text = "" 
+        intervals [257]:
+            xmin = 596.155 
+            xmax = 597.938 
+            text = "s'iz geven <i>lerley mentshn." 
+        intervals [258]:
+            xmin = 597.938 
+            xmax = 602.179 
+            text = "" 
+        intervals [259]:
+            xmin = 602.179 
+            xmax = 606.116 
+            text = "POCHTI, uh, zey, zey <un> mir, mir flegn zikh nit azoy a sakh bagegenen," 
+        intervals [260]:
+            xmin = 606.116 
+            xmax = 608.417 
+            text = "nor ikh hob gehat a sakh FRIENDS," 
+        intervals [261]:
+            xmin = 608.417 
+            xmax = 608.592 
+            text = "" 
+        intervals [262]:
+            xmin = 608.592 
+            xmax = 611.927 
+            text = "eh, rumenishe FRIENDS. mir hobn gelernt in shkole." 
+        intervals [263]:
+            xmin = 611.927 
+            xmax = 611.983 
+            text = "" 
+        intervals [264]:
+            xmin = 611.983 
+            xmax = 615.031 
+            text = "mir flegn zikh bagegenen. nor kh'hob gevust az ikh bin a yid." 
+        intervals [265]:
+            xmin = 615.031 
+            xmax = 615.882 
+            text = "" 
+        intervals [266]:
+            xmin = 615.882 
+            xmax = 618.103 
+            text = "kh'hob demlt gevust shoyn az ikh bin a yid." 
+        intervals [267]:
+            xmin = 618.103 
+            xmax = 624.1 
+            text = "" 
+        intervals [268]:
+            xmin = 624.1 
+            xmax = 628.999 
+            text = "tsk, neyn. uh, far der milkhome iz shoyn geven erger, derfar vos, uh," 
+        intervals [269]:
+            xmin = 628.999 
+            xmax = 631.467 
+            text = "s'iz geven a PARTY KUZISTY." 
+        intervals [270]:
+            xmin = 631.467 
+            xmax = 631.744 
+            text = "" 
+        intervals [271]:
+            xmin = 631.744 
+            xmax = 634.366 
+            text = "zey zenen gekumen tsu der VLAST', der makht," 
+        intervals [272]:
+            xmin = 634.366 
+            xmax = 634.663 
+            text = "" 
+        intervals [273]:
+            xmin = 634.663 
+            xmax = 638.15 
+            text = "un demlt hobn zey shoyn geshrign ""ZHIDY..." 
+        intervals [274]:
+            xmin = 638.15 
+            xmax = 638.663 
+            text = "" 
+        intervals [275]:
+            xmin = 638.663 
+            xmax = 641.087 
+            text = "ZHIDY in Palestine!""" 
+        intervals [276]:
+            xmin = 641.087 
+            xmax = 641.599 
+            text = "" 
+        intervals [277]:
+            xmin = 641.599 
+            xmax = 643.82 
+            text = "demlt hobn mir gevust az mir zenen yidn." 
+        intervals [278]:
+            xmin = 643.82 
+            xmax = 645.615 
+            text = "" 
+        intervals [279]:
+            xmin = 645.615 
+            xmax = 649.996 
+            text = "s'iz geven in di fertsikste yorn, ey- eyder s'iz gekumen tsu, Rusland tsun undz." 
+        intervals [280]:
+            xmin = 649.996 
+            xmax = 657.293 
+            text = "" 
+        intervals [281]:
+            xmin = 657.293 
+            xmax = 658.637 
+            text = "farsht<UNK> <nit> vos..." 
+        intervals [282]:
+            xmin = 658.637 
+            xmax = 663.385 
+            text = "" 
+        intervals [283]:
+            xmin = 663.385 
+            xmax = 667.128 
+            text = "yo, kh'hob gehert, m<e-> a sakh gehert. ikh bin geven," 
+        intervals [284]:
+            xmin = 667.128 
+            xmax = 669.752 
+            text = "ikh hob gezogt az ikh hob shtark lib gehat tsu lernen," 
+        intervals [285]:
+            xmin = 669.752 
+            xmax = 673.588 
+            text = "un kh'hob lib gehat tsu leyenen. ikh hob geleyenen -leyent di NEWSPAPERS," 
+        intervals [286]:
+            xmin = 673.588 
+            xmax = 673.611 
+            text = "" 
+        intervals [287]:
+            xmin = 673.611 
+            xmax = 675.388 
+            text = "un ikh hob gehert vegn GITLERn," 
+        intervals [288]:
+            xmin = 675.388 
+            xmax = 677.722 
+            text = "un kh'hob, mir hobn shtark moyre gehat far GITLERn." 
+        intervals [289]:
+            xmin = 677.722 
+            xmax = 677.982 
+            text = "" 
+        intervals [290]:
+            xmin = 677.982 
+            xmax = 681.384 
+            text = "mir hobn nisht moyre gehat far der milkhome, nor mir hobn moyre gehat far GITLERn." 
+        intervals [291]:
+            xmin = 681.384 
+            xmax = 681.694 
+            text = "" 
+        intervals [292]:
+            xmin = 681.694 
+            xmax = 684.286 
+            text = "mir hobn gevust az GITLER harget yidn." 
+        intervals [293]:
+            xmin = 684.286 
+            xmax = 684.681 
+            text = "" 
+        intervals [294]:
+            xmin = 684.681 
+            xmax = 687.065 
+            text = "mir hobn gehert vos s'iz geven in PoylAND." 
+        intervals [295]:
+            xmin = 687.065 
+            xmax = 690.226 
+            text = "mir hobn gehert vos s'iz geven in, eh, in GERMANY." 
+        intervals [296]:
+            xmin = 690.226 
+            xmax = 690.604 
+            text = "" 
+        intervals [297]:
+            xmin = 690.604 
+            xmax = 693.444 
+            text = "un mir hobn gevust az s'vet zayn shtark shlekht far undz" 
+        intervals [298]:
+            xmin = 693.444 
+            xmax = 696.031 
+            text = "az GITLER vet kumen tsun undz." 
+        intervals [299]:
+            xmin = 696.031 
+            xmax = 696.409 
+            text = "" 
+        intervals [300]:
+            xmin = 696.409 
+            xmax = 698.574 
+            text = "mir hobn moyre gehat; mayn foter iz geven shtark a," 
+        intervals [301]:
+            xmin = 698.574 
+            xmax = 699.93 
+            text = "a kluger mentsh," 
+        intervals [302]:
+            xmin = 699.93 
+            xmax = 699.97 
+            text = "" 
+        intervals [303]:
+            xmin = 699.97 
+            xmax = 702.158 
+            text = "un er fleg undz zogn di gantse tsayt." 
+        intervals [304]:
+            xmin = 702.158 
+            xmax = 711.799 
+            text = "" 
+        intervals [305]:
+            xmin = 711.799 
+            xmax = 714.307 
+            text = "nu, mir hobn shtark gegleybt in Rusland," 
+        intervals [306]:
+            xmin = 714.307 
+            xmax = 714.617 
+            text = "" 
+        intervals [307]:
+            xmin = 714.617 
+            xmax = 718.495 
+            text = "un mir hobn, eh, gemeynt az Rusland... un s'iz take azoy geven..." 
+        intervals [308]:
+            xmin = 718.495 
+            xmax = 720.807 
+            text = "vet undz bafrayen fun GITLERn." 
+        intervals [309]:
+            xmin = 720.807 
+            xmax = 721.03 
+            text = "" 
+        intervals [310]:
+            xmin = 721.03 
+            xmax = 722.829 
+            text = "mir hobn gegleybt in Rusland." 
+        intervals [311]:
+            xmin = 722.829 
+            xmax = 722.953 
+            text = "" 
+        intervals [312]:
+            xmin = 722.953 
+            xmax = 724.82 
+            text = "mir hobn gegleybt in komunizm." 
+        intervals [313]:
+            xmin = 724.82 
+            xmax = 725.603 
+            text = "" 
+        intervals [314]:
+            xmin = 725.603 
+            xmax = 728.162 
+            text = "mir hobn nit gevust vos s'iz, nor mir hobn gegleybt." 
+        intervals [315]:
+            xmin = 728.162 
+            xmax = 740.166 
+            text = "" 
+        intervals [316]:
+            xmin = 740.166 
+            xmax = 746.302 
+            text = "mayn, mayn shvester iz geven in der heym, un mayn bruder, mayn bruder, ven zey hobn gekontshet tsu lernen," 
+        intervals [317]:
+            xmin = 746.302 
+            xmax = 746.359 
+            text = "" 
+        intervals [318]:
+            xmin = 746.359 
+            xmax = 748.648 
+            text = "hobn zey geholfn mayn foter." 
+        intervals [319]:
+            xmin = 748.648 
+            xmax = 749.548 
+            text = "" 
+        intervals [320]:
+            xmin = 749.548 
+            xmax = 752.14 
+            text = "may- <hm, un> mayn shvester" 
+        intervals [321]:
+            xmin = 752.14 
+            xmax = 752.316 
+            text = "" 
+        intervals [322]:
+            xmin = 752.316 
+            xmax = 755.735 
+            text = "hot, uh, <ho-> gelernt, un zi iz geven a tsienistke," 
+        intervals [323]:
+            xmin = 755.735 
+            xmax = 755.978 
+            text = "" 
+        intervals [324]:
+            xmin = 755.978 
+            xmax = 759.144 
+            text = "un, uh, zi iz gegangen in Gordonye," 
+        intervals [325]:
+            xmin = 759.144 
+            xmax = 759.201 
+            text = "" 
+        intervals [326]:
+            xmin = 759.201 
+            xmax = 761.473 
+            text = "un ven zi iz geven alt zekhtsn yor" 
+        intervals [327]:
+            xmin = 761.473 
+            xmax = 761.631 
+            text = "" 
+        intervals [328]:
+            xmin = 761.631 
+            xmax = 764.713 
+            text = "iz zi avekgeforn makhn di HAKHSHARA." 
+        intervals [329]:
+            xmin = 764.713 
+            xmax = 764.871 
+            text = "" 
+        intervals [330]:
+            xmin = 764.871 
+            xmax = 766.569 
+            text = "azoy zogt men oyf HAKHSHARA?" 
+        intervals [331]:
+            xmin = 766.569 
+            xmax = 766.812 
+            text = "" 
+        intervals [332]:
+            xmin = 766.812 
+            xmax = 770.378 
+            text = "ehm, un m'hot zi GOTOV<e-> me, m'hot zi" 
+        intervals [333]:
+            xmin = 770.378 
+            xmax = 772.712 
+            text = "tsugegreyt tsu forn keyn IZRAIL'." 
+        intervals [334]:
+            xmin = 772.712 
+            xmax = 772.92 
+            text = "" 
+        intervals [335]:
+            xmin = 772.92 
+            xmax = 777.774 
+            text = "un zi hot shtark gevolt forn in IZRAIL'. s'iz geven dos, <in> fertsikstn yor." 
+        intervals [336]:
+            xmin = 777.774 
+            xmax = 778.067 
+            text = "" 
+        intervals [337]:
+            xmin = 778.067 
+            xmax = 781.233 
+            text = "un s'hobn, eh, ku- s'zenen gekumen Rusland," 
+        intervals [338]:
+            xmin = 781.233 
+            xmax = 782.117 
+            text = "" 
+        intervals [339]:
+            xmin = 782.117 
+            xmax = 783.849 
+            text = "hot zi shoyn nisht gekont forn." 
+        intervals [340]:
+            xmin = 783.849 
+            xmax = 790.993 
+            text = "" 
+        intervals [341]:
+            xmin = 790.993 
+            xmax = 793.133 
+            text = "ikh hob shtark gevolt, eh, gevolt" 
+        intervals [342]:
+            xmin = 793.133 
+            xmax = 794.514 
+            text = "zayn a dokter." 
+        intervals [343]:
+            xmin = 794.514 
+            xmax = 800.224 
+            text = "" 
+        intervals [344]:
+            xmin = 800.224 
+            xmax = 804.571 
+            text = "yo. ikh hob gev- gezen az a dokter helft mentshn" 
+        intervals [345]:
+            xmin = 804.571 
+            xmax = 804.612 
+            text = "" 
+        intervals [346]:
+            xmin = 804.612 
+            xmax = 806.8 
+            text = "un ikh hob oykhet gevolt helfn mentshn." 
+        intervals [347]:
+            xmin = 806.8 
+            xmax = 812.678 
+            text = "" 
+        intervals [348]:
+            xmin = 812.678 
+            xmax = 816.671 
+            text = "nu, mayn mame un tate... bay undz iz geven azoy, az a meydl" 
+        intervals [349]:
+            xmin = 816.671 
+            xmax = 816.913 
+            text = "" 
+        intervals [350]:
+            xmin = 816.913 
+            xmax = 818.375 
+            text = "darf nisht lernen." 
+        intervals [351]:
+            xmin = 818.375 
+            xmax = 818.449 
+            text = "" 
+        intervals [352]:
+            xmin = 818.449 
+            xmax = 820.957 
+            text = "a meydl vert elter un hot khasene." 
+        intervals [353]:
+            xmin = 820.957 
+            xmax = 821.976 
+            text = "" 
+        intervals [354]:
+            xmin = 821.976 
+            xmax = 827.189 
+            text = "ot dos hot getrakht mayn ta- mayn tate, nor ven s'iz gekumen Rusland, hot er shoyn azoy nisht getrakht." 
+        intervals [355]:
+            xmin = 827.189 
+            xmax = 837.012 
+            text = "" 
+        intervals [356]:
+            xmin = 837.012 
+            xmax = 839.756 
+            text = "dem ershtn tog hob ikh shoyn gevust fun der milkhome." 
+        intervals [357]:
+            xmin = 839.756 
+            xmax = 839.998 
+            text = "" 
+        intervals [358]:
+            xmin = 839.998 
+            xmax = 844.582 
+            text = "s'iz geven in, uh, eyn un tsvontsikstn, tsvey un tsvontsikstn IUN'," 
+        intervals [359]:
+            xmin = 844.582 
+            xmax = 844.926 
+            text = "" 
+        intervals [360]:
+            xmin = 844.926 
+            xmax = 848.818 
+            text = "un m'hot ongehoybn tsu varfn bombes in Kiv," 
+        intervals [361]:
+            xmin = 848.818 
+            xmax = 849.111 
+            text = "" 
+        intervals [362]:
+            xmin = 849.111 
+            xmax = 852.246 
+            text = "un s'iz nisht vayt fun <undze-> fun undz geven Kiv." 
+        intervals [363]:
+            xmin = 852.246 
+            xmax = 854.336 
+            text = "un arum tsen a zeyger" 
+        intervals [364]:
+            xmin = 854.336 
+            xmax = 854.427 
+            text = "" 
+        intervals [365]:
+            xmin = 854.427 
+            xmax = 858.556 
+            text = "hot geredt, uh... mir hobn nokh nisht gehat keyn, eh, radyo;" 
+        intervals [366]:
+            xmin = 858.556 
+            xmax = 862.453 
+            text = "mir hobn gehat a, a UNK <a min> <totshke>, <kh'veys vi s'heyst>..." 
+        intervals [367]:
+            xmin = 862.453 
+            xmax = 862.493 
+            text = "" 
+        intervals [368]:
+            xmin = 862.493 
+            xmax = 866.655 
+            text = "un, uh, Molotov hot geredt az s'hot zikh ongehoybn di milkhome," 
+        intervals [369]:
+            xmin = 866.655 
+            xmax = 866.847 
+            text = "" 
+        intervals [370]:
+            xmin = 866.847 
+            xmax = 871.988 
+            text = "un mayn, m- mayn muter hot ongehoybn shtark veynen, derfar zi hot moyre gehat far di zinen." 
+        intervals [371]:
+            xmin = 871.988 
+            xmax = 872.854 
+            text = "" 
+        intervals [372]:
+            xmin = 872.854 
+            xmax = 876.493 
+            text = "un in fakt, dem andern tog hot men avekgenemen mayn bruder," 
+        intervals [373]:
+            xmin = 876.493 
+            xmax = 876.837 
+            text = "" 
+        intervals [374]:
+            xmin = 876.837 
+            xmax = 878.366 
+            text = "mayn eltster bruder." 
+        intervals [375]:
+            xmin = 878.366 
+            xmax = 880.11 
+            text = "" 
+        intervals [376]:
+            xmin = 880.11 
+            xmax = 884.132 
+            text = "hot im avekgenemen in der milkhome, un mir hobn shtark geveynt un" 
+        intervals [377]:
+            xmin = 884.132 
+            xmax = 887.816 
+            text = "mayn muter hot shtark geveynt, un UNK, un er hot ir gezogt," 
+        intervals [378]:
+            xmin = 887.816 
+            xmax = 889.189 
+            text = "" 
+        intervals [379]:
+            xmin = 889.189 
+            xmax = 890.769 
+            text = """mame, vos veynstu?" 
+        intervals [380]:
+            xmin = 890.769 
+            xmax = 891.484 
+            text = "" 
+        intervals [381]:
+            xmin = 891.484 
+            xmax = 892.71 
+            text = "ikh gey," 
+        intervals [382]:
+            xmin = 892.71 
+            xmax = 893.509 
+            text = "" 
+        intervals [383]:
+            xmin = 893.509 
+            xmax = 895.295 
+            text = "ikh gey far, eh," 
+        intervals [384]:
+            xmin = 895.295 
+            xmax = 895.973 
+            text = "" 
+        intervals [385]:
+            xmin = 895.973 
+            xmax = 897.148 
+            text = "far undz." 
+        intervals [386]:
+            xmin = 897.148 
+            xmax = 897.627 
+            text = "" 
+        intervals [387]:
+            xmin = 897.627 
+            xmax = 900.02 
+            text = "mir darfn derhargenen fashistn," 
+        intervals [388]:
+            xmin = 900.02 
+            xmax = 900.327 
+            text = "" 
+        intervals [389]:
+            xmin = 900.327 
+            xmax = 902.751 
+            text = "derfar vos s'iz gut far undz, far yidn." 
+        intervals [390]:
+            xmin = 902.751 
+            xmax = 902.757 
+            text = "" 
+        intervals [391]:
+            xmin = 902.757 
+            xmax = 904.067 
+            text = "darfst nisht veynen.""" 
+        intervals [392]:
+            xmin = 904.067 
+            xmax = 906.722 
+            text = "" 
+        intervals [393]:
+            xmin = 906.722 
+            xmax = 909.095 
+            text = "dem andern tog. s'hot zikh ongehoybn di milkhome" 
+        intervals [394]:
+            xmin = 909.095 
+            xmax = 909.152 
+            text = "" 
+        intervals [395]:
+            xmin = 909.152 
+            xmax = 914.124 
+            text = "dem tsvey un tsvontsikstn, un efsher dem dray un tsvontsikstn tsi dem fir un tsvontsikstn <hot men im> avekgenemen." 
+        intervals [396]:
+            xmin = 914.124 
+            xmax = 918.602 
+            text = "" 
+        intervals [397]:
+            xmin = 918.602 
+            xmax = 922.345 
+            text = "NO, m'hot im geshikt a, hm, a <NOTICE>" 
+        intervals [398]:
+            xmin = 922.345 
+            xmax = 924.418 
+            text = "un m'hot im gesh- avekgenemen." 
+        intervals [399]:
+            xmin = 924.418 
+            xmax = 924.778 
+            text = "" 
+        intervals [400]:
+            xmin = 924.778 
+            xmax = 928.366 
+            text = "un er iz avekgegangen, un mir hobn im <ge-> zenen gegangen im, eh," 
+        intervals [401]:
+            xmin = 928.366 
+            xmax = 928.373 
+            text = "" 
+        intervals [402]:
+            xmin = 928.373 
+            xmax = 933.744 
+            text = "bizkele, hm, etlekhe kilometer<n>, zenen mir gegangen im, mit im," 
+        intervals [403]:
+            xmin = 933.744 
+            xmax = 933.807 
+            text = "" 
+        intervals [404]:
+            xmin = 933.807 
+            xmax = 935.758 
+            text = "un er iz gegangen mit der armey." 
+        intervals [405]:
+            xmin = 935.758 
+            xmax = 937.097 
+            text = "" 
+        intervals [406]:
+            xmin = 937.097 
+            xmax = 940.77 
+            text = "un mir hobn shta-... mit der rusisher armey... mir hobn shtark geveynt un..." 
+        intervals [407]:
+            xmin = 940.77 
+            xmax = 943.037 
+            text = "" 
+        intervals [408]:
+            xmin = 943.037 
+            xmax = 947.622 
+            text = "ikh hob gevust, UNK, ikh hob gevust aldings; ikh bin shoyn geven tsvelef yor alt." 
+        intervals [409]:
+            xmin = 947.622 
+            xmax = 950.561 
+            text = "ikh hob gevust, un ikh hob moyre gehat shtark." 
+        intervals [410]:
+            xmin = 950.561 
+            xmax = 950.715 
+            text = "" 
+        intervals [411]:
+            xmin = 950.715 
+            xmax = 952.683 
+            text = "ikh hob shtark moyre gehat" 
+        intervals [412]:
+            xmin = 952.683 
+            xmax = 952.977 
+            text = "" 
+        intervals [413]:
+            xmin = 952.977 
+            xmax = 957.51 
+            text = "az s'vet vern, s'vet zayn shtark paskudne, mir'n nisht hobn vos tsu esn." 
+        intervals [414]:
+            xmin = 957.51 
+            xmax = 957.583 
+            text = "" 
+        intervals [415]:
+            xmin = 957.583 
+            xmax = 960.457 
+            text = "un ikh hob shtark, ih, faynt gehat tsu esn," 
+        intervals [416]:
+            xmin = 960.457 
+            xmax = 962.162 
+            text = "uh, smetene." 
+        intervals [417]:
+            xmin = 962.162 
+            xmax = 963.394 
+            text = "hob ikh gezogt mayn mame," 
+        intervals [418]:
+            xmin = 963.394 
+            xmax = 964.243 
+            text = """hm," 
+        intervals [419]:
+            xmin = 964.243 
+            xmax = 964.401 
+            text = "" 
+        intervals [420]:
+            xmin = 964.401 
+            xmax = 969.305 
+            text = "zay nisht, ehm, uh, darfst zikh nisht, uh, ba- baruik; ikh'l shoyn esn smetene.""" 
+        intervals [421]:
+            xmin = 969.305 
+            xmax = 970.729 
+            text = "" 
+        intervals [422]:
+            xmin = 970.729 
+            xmax = 972.714 
+            text = "yo, dos iz geven azoy oykh." 
+        intervals [423]:
+            xmin = 972.714 
+            xmax = 977.209 
+            text = "" 
+        intervals [424]:
+            xmin = 977.209 
+            xmax = 978.249 
+            text = "yo." 
+        intervals [425]:
+            xmin = 978.249 
+            xmax = 978.475 
+            text = "" 
+        intervals [426]:
+            xmin = 978.475 
+            xmax = 983.475 
+            text = "s'iz geven nisht vayt fun der grenets un di, azoy vi ir veyst, di daytshn" 
+        intervals [427]:
+            xmin = 983.475 
+            xmax = 987.044 
+            text = "hobn tsugenemen a sakh PLACES di ershte teg" 
+        intervals [428]:
+            xmin = 987.044 
+            xmax = 990.264 
+            text = "fun der milkhome, iz shoyn geven tsugenemen a sakh PLACES." 
+        intervals [429]:
+            xmin = 990.264 
+            xmax = 990.321 
+            text = "" 
+        intervals [430]:
+            xmin = 990.321 
+            xmax = 993.032 
+            text = "un mir <z- hobn> gevoynt nisht vayt fun der grenets," 
+        intervals [431]:
+            xmin = 993.032 
+            xmax = 993.207 
+            text = "" 
+        intervals [432]:
+            xmin = 993.207 
+            xmax = 995.344 
+            text = "tsk, un s'iz geven shtark a sakh soldatn." 
+        intervals [433]:
+            xmin = 995.344 
+            xmax = 995.772 
+            text = "" 
+        intervals [434]:
+            xmin = 995.772 
+            xmax = 999.647 
+            text = "un mir hobn gezen, azoy zey geyen avek, un s'iz geven a geferlekhe" 
+        intervals [435]:
+            xmin = 999.647 
+            xmax = 1000.007 
+            text = "" 
+        intervals [436]:
+            xmin = 1000.007 
+            xmax = 1001.317 
+            text = "pan- PANIC." 
+        intervals [437]:
+            xmin = 1001.317 
+            xmax = 1001.998 
+            text = "" 
+        intervals [438]:
+            xmin = 1001.998 
+            xmax = 1004.844 
+            text = "un s'iz geven, hm, hm, shreklekh iz geven." 
+        intervals [439]:
+            xmin = 1004.844 
+            xmax = 1005.188 
+            text = "" 
+        intervals [440]:
+            xmin = 1005.188 
+            xmax = 1006.571 
+            text = "geven shreklekh." 
+        intervals [441]:
+            xmin = 1006.571 
+            xmax = 1008.192 
+            text = "" 
+        intervals [442]:
+            xmin = 1008.192 
+            xmax = 1010.146 
+            text = "mayn familye, uhm," 
+        intervals [443]:
+            xmin = 1010.146 
+            xmax = 1014.243 
+            text = "shpeter mit etlekhe teg fun der milkhome, s'iz geven in IYUL'," 
+        intervals [444]:
+            xmin = 1014.243 
+            xmax = 1014.3 
+            text = "" 
+        intervals [445]:
+            xmin = 1014.3 
+            xmax = 1015.441 
+            text = "JULY," 
+        intervals [446]:
+            xmin = 1015.441 
+            xmax = 1016.342 
+            text = "" 
+        intervals [447]:
+            xmin = 1016.342 
+            xmax = 1021.095 
+            text = "iz mayn foter hot, eh, gehat a f- a ferd" 
+        intervals [448]:
+            xmin = 1021.095 
+            xmax = 1021.388 
+            text = "" 
+        intervals [449]:
+            xmin = 1021.388 
+            xmax = 1023.072 
+            text = "mit a vegele." 
+        intervals [450]:
+            xmin = 1023.072 
+            xmax = 1026.141 
+            text = "hobn mir zikh oyfgezetst ile oyfn f- oyfn vegele." 
+        intervals [451]:
+            xmin = 1026.141 
+            xmax = 1026.231 
+            text = "" 
+        intervals [452]:
+            xmin = 1026.231 
+            xmax = 1029.476 
+            text = "mayn b- eh, bruder, der mitlster bruder," 
+        intervals [453]:
+            xmin = 1029.476 
+            xmax = 1032.332 
+            text = "iz geven, er iz geven a UCHITEL'," 
+        intervals [454]:
+            xmin = 1032.332 
+            xmax = 1032.66 
+            text = "" 
+        intervals [455]:
+            xmin = 1032.66 
+            xmax = 1033.869 
+            text = "a TEACHER," 
+        intervals [456]:
+            xmin = 1033.869 
+            xmax = 1034.297 
+            text = "" 
+        intervals [457]:
+            xmin = 1034.297 
+            xmax = 1039.134 
+            text = "a lerer. er, iz er gegangen, eh, hot men im genemen arbetn zumer." 
+        intervals [458]:
+            xmin = 1039.134 
+            xmax = 1039.967 
+            text = "" 
+        intervals [459]:
+            xmin = 1039.967 
+            xmax = 1041.733 
+            text = "iz er nisht geven mit undz." 
+        intervals [460]:
+            xmin = 1041.733 
+            xmax = 1042.161 
+            text = "" 
+        intervals [461]:
+            xmin = 1042.161 
+            xmax = 1045.597 
+            text = "nor ikh mit mayn, eh, bruder, der klenster," 
+        intervals [462]:
+            xmin = 1045.597 
+            xmax = 1045.738 
+            text = "" 
+        intervals [463]:
+            xmin = 1045.738 
+            xmax = 1049.245 
+            text = "un mayne shvester, mayn foter un mayn muter" 
+        intervals [464]:
+            xmin = 1049.245 
+            xmax = 1052.043 
+            text = "hobn zikh oyfgezetst oyf a f- hm, a," 
+        intervals [465]:
+            xmin = 1052.043 
+            xmax = 1052.438 
+            text = "" 
+        intervals [466]:
+            xmin = 1052.438 
+            xmax = 1054.856 
+            text = "a vegl, mit a, mit a ferd," 
+        intervals [467]:
+            xmin = 1054.856 
+            xmax = 1057.241 
+            text = "un mir zenen geforn. vuhin hobn mir nit gevust." 
+        intervals [468]:
+            xmin = 1057.241 
+            xmax = 1057.5 
+            text = "" 
+        intervals [469]:
+            xmin = 1057.5 
+            xmax = 1060.869 
+            text = "mir zenen geforn, <iz> geven a s<h>akh mentshn. s'iz geven geferlekh." 
+        intervals [470]:
+            xmin = 1060.869 
+            xmax = 1061.145 
+            text = "" 
+        intervals [471]:
+            xmin = 1061.145 
+            xmax = 1063.091 
+            text = "geven a groyser panik." 
+        intervals [472]:
+            xmin = 1063.091 
+            xmax = 1063.373 
+            text = "" 
+        intervals [473]:
+            xmin = 1063.373 
+            xmax = 1066.826 
+            text = "un mir zenen avekgegangen, mir hobn nisht gevust, mir zenen gegangen tsu dem Nester." 
+        intervals [474]:
+            xmin = 1066.826 
+            xmax = 1067.22 
+            text = "" 
+        intervals [475]:
+            xmin = 1067.22 
+            xmax = 1070.136 
+            text = "hm, nisht vayt fun undz iz geven der Nester." 
+        intervals [476]:
+            xmin = 1070.136 
+            xmax = 1071.174 
+            text = "der Nester" 
+        intervals [477]:
+            xmin = 1071.174 
+            xmax = 1075.584 
+            text = "hot ge- iz geven nokh Rusland. mir zenen geven in Moldavye," 
+        intervals [478]:
+            xmin = 1075.584 
+            xmax = 1075.607 
+            text = "" 
+        intervals [479]:
+            xmin = 1075.607 
+            xmax = 1079.974 
+            text = "un der Nester iz geven, hot UNK iz, iz geven a taykh" 
+        intervals [480]:
+            xmin = 1079.974 
+            xmax = 1082.122 
+            text = "vos me geyt keyn Rusland." 
+        intervals [481]:
+            xmin = 1082.122 
+            xmax = 1084.46 
+            text = "hobn mir gedarft durkhgeyn dem taykh." 
+        intervals [482]:
+            xmin = 1084.46 
+            xmax = 1085.023 
+            text = "" 
+        intervals [483]:
+            xmin = 1085.023 
+            xmax = 1087.109 
+            text = "un s'iz geven a geferlekhe panik." 
+        intervals [484]:
+            xmin = 1087.109 
+            xmax = 1088.398 
+            text = "" 
+        intervals [485]:
+            xmin = 1088.398 
+            xmax = 1089.86 
+            text = "un oyfn veg," 
+        intervals [486]:
+            xmin = 1089.86 
+            xmax = 1089.917 
+            text = "" 
+        intervals [487]:
+            xmin = 1089.917 
+            xmax = 1094.298 
+            text = "ven mir zenen geforn, hot zikh ibergekert dos vegl, vegele," 
+        intervals [488]:
+            xmin = 1094.298 
+            xmax = 1094.355 
+            text = "" 
+        intervals [489]:
+            xmin = 1094.355 
+            xmax = 1095.851 
+            text = "un ikh bin gefaln," 
+        intervals [490]:
+            xmin = 1095.851 
+            xmax = 1096.161 
+            text = "" 
+        intervals [491]:
+            xmin = 1096.161 
+            xmax = 1101.977 
+            text = "un, uh, kh'hob gekhapt a, a, hm, a klap in oyg... ikh hob nokh a simen itster oykh..." 
+        intervals [492]:
+            xmin = 1101.977 
+            xmax = 1102.354 
+            text = "" 
+        intervals [493]:
+            xmin = 1102.354 
+            xmax = 1104.137 
+            text = "un s'hot ongehoybn geyn blut." 
+        intervals [494]:
+            xmin = 1104.137 
+            xmax = 1104.784 
+            text = "" 
+        intervals [495]:
+            xmin = 1104.784 
+            xmax = 1109.013 
+            text = "un derfar vos ikh aleyn bin geven oyf dem vegele... ile zenen gegan tsu fus," 
+        intervals [496]:
+            xmin = 1109.013 
+            xmax = 1109.29 
+            text = "" 
+        intervals [497]:
+            xmin = 1109.29 
+            xmax = 1112.136 
+            text = "nor ikh bin geven di klenste, hot men mikh avekgezetst..." 
+        intervals [498]:
+            xmin = 1112.136 
+            xmax = 1112.344 
+            text = "" 
+        intervals [499]:
+            xmin = 1112.344 
+            xmax = 1116.151 
+            text = "un, hob ikh mikh shtark dershrokn. un s'iz gegangen <in> blut," 
+        intervals [500]:
+            xmin = 1116.151 
+            xmax = 1116.31 
+            text = "" 
+        intervals [501]:
+            xmin = 1116.31 
+            xmax = 1119.707 
+            text = "un keyn vaser iz nisht geven, keyn doktoyrim iz nisht geven," 
+        intervals [502]:
+            xmin = 1119.707 
+            xmax = 1121.856 
+            text = "un mayn muter hot ongehoybn veynen." 
+        intervals [503]:
+            xmin = 1121.856 
+            xmax = 1122.165 
+            text = "" 
+        intervals [504]:
+            xmin = 1122.165 
+            xmax = 1126.411 
+            text = "iz, uh, hot zi ge- avekgeshikt mikh mit der elterer shvester," 
+        intervals [505]:
+            xmin = 1126.411 
+            xmax = 1126.452 
+            text = "" 
+        intervals [506]:
+            xmin = 1126.452 
+            xmax = 1129.298 
+            text = "eh, tsun a dokter, zukhn a dokter." 
+        intervals [507]:
+            xmin = 1129.298 
+            xmax = 1129.776 
+            text = "" 
+        intervals [508]:
+            xmin = 1129.776 
+            xmax = 1133.653 
+            text = "tsk, un zenen mir gegangen, un mir hobn gefunen a dokter, un er hot mi<kh> a bisl," 
+        intervals [509]:
+            xmin = 1133.653 
+            xmax = 1137.802 
+            text = "hm, opgevashn dos oyg un gegibn a bisl TREATMENT." 
+        intervals [510]:
+            xmin = 1137.802 
+            xmax = 1138.568 
+            text = "" 
+        intervals [511]:
+            xmin = 1138.568 
+            xmax = 1144.974 
+            text = "un dernokh dem <ho-> zenen mir gegangen, mir hobn gezukht, uh, d- dernokh dem mayne eltern, ven mir hobn zikh umgekert," 
+        intervals [512]:
+            xmin = 1144.974 
+            xmax = 1145.048 
+            text = "" 
+        intervals [513]:
+            xmin = 1145.048 
+            xmax = 1148.349 
+            text = "hot ongehoybn shtark tsu, hm, hm, varfn bombes," 
+        intervals [514]:
+            xmin = 1148.349 
+            xmax = 1148.49 
+            text = "" 
+        intervals [515]:
+            xmin = 1148.49 
+            xmax = 1151.808 
+            text = "un mentshn hobn zikh, uh, farbahaltn in, in groz," 
+        intervals [516]:
+            xmin = 1151.808 
+            xmax = 1152.017 
+            text = "" 
+        intervals [517]:
+            xmin = 1152.017 
+            xmax = 1155.74 
+            text = "un mir hobn nisht gevust vu tsu geyn. s'iz geven shtark a sakh mentshn." 
+        intervals [518]:
+            xmin = 1155.74 
+            xmax = 1155.983 
+            text = "" 
+        intervals [519]:
+            xmin = 1155.983 
+            xmax = 1161.377 
+            text = "un mir hobn nisht gevust vu tsu geyn, un mir hobn farloyrn di eltern. ikh mit mayn shvester hobn farloyrn di eltern." 
+        intervals [520]:
+            xmin = 1161.377 
+            xmax = 1163.07 
+            text = "" 
+        intervals [521]:
+            xmin = 1163.07 
+            xmax = 1168.093 
+            text = "un der klenster bruder iz geven mit di, mit di, mi- eh, eh, nor ikh mit mayn shvester," 
+        intervals [522]:
+            xmin = 1168.093 
+            xmax = 1168.183 
+            text = "" 
+        intervals [523]:
+            xmin = 1168.183 
+            xmax = 1174.994 
+            text = "mayn, der eltster shvester, un mayne eltern mit dem, uh, klenstn bruder un mit der shvester, vos iz itster in IZRAIL'," 
+        intervals [524]:
+            xmin = 1174.994 
+            xmax = 1175.153 
+            text = "" 
+        intervals [525]:
+            xmin = 1175.153 
+            xmax = 1177.918 
+            text = "iz geblibn, un mir zenen gegangen zukhn a dokter." 
+        intervals [526]:
+            xmin = 1177.918 
+            xmax = 1181.593 
+            text = "un mir zenen aheymgekumen... krikgegangen, nisht aheymgekumen, krikgegangen..." 
+        intervals [527]:
+            xmin = 1181.593 
+            xmax = 1181.683 
+            text = "" 
+        intervals [528]:
+            xmin = 1181.683 
+            xmax = 1184.883 
+            text = "hobn mir shoyn keynem nisht gefunen. mir hobn nisht gevust vu zey zenen." 
+        intervals [529]:
+            xmin = 1184.883 
+            xmax = 1184.907 
+            text = "" 
+        intervals [530]:
+            xmin = 1184.907 
+            xmax = 1187.736 
+            text = "mentshn zenen gelign oyf der erd, uh, toyt." 
+        intervals [531]:
+            xmin = 1187.736 
+            xmax = 1187.877 
+            text = "" 
+        intervals [532]:
+            xmin = 1187.877 
+            xmax = 1195.161 
+            text = "un s'iz, uhm, geven, s'hot zikh gevalgert, eh, o- ontuekhts mit, mi- vo- m- vos ir vilt iz geven oyf der erd." 
+        intervals [533]:
+            xmin = 1195.161 
+            xmax = 1195.538 
+            text = "" 
+        intervals [534]:
+            xmin = 1195.538 
+            xmax = 1199.188 
+            text = "un mir hobn nit gevust vu tsu geyn, zenen mir gegangen mit ile mentshn tsu dem," 
+        intervals [535]:
+            xmin = 1199.188 
+            xmax = 1200.999 
+            text = "uh, RIVER Dnester." 
+        intervals [536]:
+            xmin = 1200.999 
+            xmax = 1201.798 
+            text = "" 
+        intervals [537]:
+            xmin = 1201.798 
+            xmax = 1203.969 
+            text = "un bay dem RIVER Dnester" 
+        intervals [538]:
+            xmin = 1203.969 
+            xmax = 1203.975 
+            text = "" 
+        intervals [539]:
+            xmin = 1203.975 
+            xmax = 1206.03 
+            text = "hot zikh getrofn, uh," 
+        intervals [540]:
+            xmin = 1206.03 
+            xmax = 1208.137 
+            text = "shtark sh- geferlekhe zakhn." 
+        intervals [541]:
+            xmin = 1208.137 
+            xmax = 1208.329 
+            text = "" 
+        intervals [542]:
+            xmin = 1208.329 
+            xmax = 1211.816 
+            text = "uh, mentshn zenen der- hm, dertrunken gevorn" 
+        intervals [543]:
+            xmin = 1211.816 
+            xmax = 1211.89 
+            text = "" 
+        intervals [544]:
+            xmin = 1211.89 
+            xmax = 1213.268 
+            text = "oyf <briks>." 
+        intervals [545]:
+            xmin = 1213.268 
+            xmax = 1213.78 
+            text = "" 
+        intervals [546]:
+            xmin = 1213.78 
+            xmax = 1216.17 
+            text = "un do iz ge- gefaln bombes." 
+        intervals [547]:
+            xmin = 1216.17 
+            xmax = 1216.632 
+            text = "" 
+        intervals [548]:
+            xmin = 1216.632 
+            xmax = 1221.334 
+            text = "un mir zenen gegangen, gegangen. mir hobn gezukht di eltern, un di eltern hobn mir nisht gekent gefinen," 
+        intervals [549]:
+            xmin = 1221.334 
+            xmax = 1221.947 
+            text = "" 
+        intervals [550]:
+            xmin = 1221.947 
+            xmax = 1225.521 
+            text = "bizkele mir zenen ongekumen in a, in a shtetl," 
+        intervals [551]:
+            xmin = 1225.521 
+            xmax = 1227.324 
+            text = "iz do a shtetl <ATAKA>," 
+        intervals [552]:
+            xmin = 1227.324 
+            xmax = 1227.803 
+            text = "" 
+        intervals [553]:
+            xmin = 1227.803 
+            xmax = 1230.936 
+            text = "un s'iz nisht vay- nisht vayt fun MOGILЁV-Podolsk." 
+        intervals [554]:
+            xmin = 1230.936 
+            xmax = 1231.228 
+            text = "" 
+        intervals [555]:
+            xmin = 1231.228 
+            xmax = 1236.136 
+            text = "zenen mir, uh, nokh dem gegangen keyn MOGILЁV-Podolsk, un ikh hob gemuzt hobn a dokter," 
+        intervals [556]:
+            xmin = 1236.136 
+            xmax = 1238.698 
+            text = "derfar vos s'hot mir shtark vey geton dos oyg." 
+        intervals [557]:
+            xmin = 1238.698 
+            xmax = 1239.16 
+            text = "" 
+        intervals [558]:
+            xmin = 1239.16 
+            xmax = 1242.768 
+            text = "un dort hobn mir gefunen a sakh yidn; in MOGILЁV-Podolsk" 
+        intervals [559]:
+            xmin = 1242.768 
+            xmax = 1244.485 
+            text = "hobn gelebt a sakh yidn." 
+        intervals [560]:
+            xmin = 1244.485 
+            xmax = 1244.863 
+            text = "" 
+        intervals [561]:
+            xmin = 1244.863 
+            xmax = 1248.856 
+            text = "hobn mir, un es iz oykhet geven dort a panike. mentshn hobn moyre gehat." 
+        intervals [562]:
+            xmin = 1248.856 
+            xmax = 1248.964 
+            text = "" 
+        intervals [563]:
+            xmin = 1248.964 
+            xmax = 1251.033 
+            text = "iz, uhm, a, uhm," 
+        intervals [564]:
+            xmin = 1251.033 
+            xmax = 1251.63 
+            text = "" 
+        intervals [565]:
+            xmin = 1251.63 
+            xmax = 1255.609 
+            text = "a familye hot m- hot undz genemen un m'hot mikh gefirt tsun a dokter." 
+        intervals [566]:
+            xmin = 1255.609 
+            xmax = 1258.377 
+            text = "in Rusland iz geven, uh, doktoyrim on gelt." 
+        intervals [567]:
+            xmin = 1258.377 
+            xmax = 1260.045 
+            text = "s'iz nokh geven dort Rusland." 
+        intervals [568]:
+            xmin = 1260.045 
+            xmax = 1260.27 
+            text = "" 
+        intervals [569]:
+            xmin = 1260.27 
+            xmax = 1263.085 
+            text = "hot <men> mir nokh a mol gemakht a PRIVYAZKe, a," 
+        intervals [570]:
+            xmin = 1263.085 
+            xmax = 1264.179 
+            text = "a BANDAGE," 
+        intervals [571]:
+            xmin = 1264.179 
+            xmax = 1264.354 
+            text = "" 
+        intervals [572]:
+            xmin = 1264.354 
+            xmax = 1266.958 
+            text = "un, uh, un zey hobn undz gezogt," 
+        intervals [573]:
+            xmin = 1266.958 
+            xmax = 1268.347 
+            text = """vu vet ir geyn?" 
+        intervals [574]:
+            xmin = 1268.347 
+            xmax = 1268.826 
+            text = "" 
+        intervals [575]:
+            xmin = 1268.826 
+            xmax = 1273.443 
+            text = "vu vet zi geyn? zitst mit undz. vos vet zayn mit undz, vet zayn mit aykh, mit, mit ir oykh.""" 
+        intervals [576]:
+            xmin = 1273.443 
+            xmax = 1273.467 
+            text = "" 
+        intervals [577]:
+            xmin = 1273.467 
+            xmax = 1276.484 
+            text = """mir viln, uh, uh, uh, mir viln geyn tsu di eltern.""" 
+        intervals [578]:
+            xmin = 1276.484 
+            xmax = 1278.657 
+            text = """ken zayn az di eltern zenen shoyn nishto." 
+        intervals [579]:
+            xmin = 1278.657 
+            xmax = 1278.867 
+            text = "" 
+        intervals [580]:
+            xmin = 1278.867 
+            xmax = 1280.112 
+            text = "vu vet ir geyn?""" 
+        intervals [581]:
+            xmin = 1280.112 
+            xmax = 1282.185 
+            text = "shtark voyle mentshn geven." 
+        intervals [582]:
+            xmin = 1282.185 
+            xmax = 1283.187 
+            text = "" 
+        intervals [583]:
+            xmin = 1283.187 
+            xmax = 1285.982 
+            text = "s'iz geven, eh, dos in IYUL'," 
+        intervals [584]:
+            xmin = 1285.982 
+            xmax = 1285.988 
+            text = "" 
+        intervals [585]:
+            xmin = 1285.988 
+            xmax = 1287.096 
+            text = "JULY," 
+        intervals [586]:
+            xmin = 1287.096 
+            xmax = 1287.405 
+            text = "" 
+        intervals [587]:
+            xmin = 1287.405 
+            xmax = 1288.985 
+            text = "MAYBE IN JULY." 
+        intervals [588]:
+            xmin = 1288.985 
+            xmax = 1289.127 
+            text = "" 
+        intervals [589]:
+            xmin = 1289.127 
+            xmax = 1290.877 
+            text = "in eyn un fertsikstn yor." 
+        intervals [590]:
+            xmin = 1290.877 
+            xmax = 1292.428 
+            text = "in eyn un fertsikstn yor." 
+        intervals [591]:
+            xmin = 1292.428 
+            xmax = 1293.97 
+            text = "" 
+        intervals [592]:
+            xmin = 1293.97 
+            xmax = 1296.81 
+            text = "yo, ikh gedenk es, tomed vel ikh es gedenken." 
+        intervals [593]:
+            xmin = 1296.81 
+            xmax = 1298.486 
+            text = "di familye iz geven <KOPYT>." 
+        intervals [594]:
+            xmin = 1298.486 
+            xmax = 1300.18 
+            text = "" 
+        intervals [595]:
+            xmin = 1300.18 
+            xmax = 1304.376 
+            text = "un zey hobn undz genemen tsu zikh, un der foter hot gebakn broyt." 
+        intervals [596]:
+            xmin = 1304.376 
+            xmax = 1305.377 
+            text = "" 
+        intervals [597]:
+            xmin = 1305.377 
+            xmax = 1309.997 
+            text = "un mir hobn dort gearbet. vos mir hobn gekont, hobn mir hel- geholfn. ikh bin geven no<kh> a kind," 
+        intervals [598]:
+            xmin = 1309.997 
+            xmax = 1312.163 
+            text = "nor mayn shvester hot gekont merert." 
+        intervals [599]:
+            xmin = 1312.163 
+            xmax = 1312.633 
+            text = "" 
+        intervals [600]:
+            xmin = 1312.633 
+            xmax = 1316.609 
+            text = "nor mir hobn gemeynt az mir'n ibervartn dort di milkhome, nor..." 
+        intervals [601]:
+            xmin = 1316.609 
+            xmax = 1317.392 
+            text = "" 
+        intervals [602]:
+            xmin = 1317.392 
+            xmax = 1321.048 
+            text = "tsk, shpeter mit a khoydesh... ikh gedenk nisht vifl TOCHNO," 
+        intervals [603]:
+            xmin = 1321.048 
+            xmax = 1321.223 
+            text = "" 
+        intervals [604]:
+            xmin = 1321.223 
+            xmax = 1322.941 
+            text = "pinktlekh gedenk ikh nisht..." 
+        intervals [605]:
+            xmin = 1322.941 
+            xmax = 1325.622 
+            text = "zenen gekumen di gute NEMTSn," 
+        intervals [606]:
+            xmin = 1325.622 
+            xmax = 1327.016 
+            text = "di gute, uh," 
+        intervals [607]:
+            xmin = 1327.016 
+            xmax = 1328.197 
+            text = "GERMANS," 
+        intervals [608]:
+            xmin = 1328.197 
+            xmax = 1330.161 
+            text = "un hobn farkhapt ot dos shtetl." 
+        intervals [609]:
+            xmin = 1330.161 
+            xmax = 1330.69 
+            text = "" 
+        intervals [610]:
+            xmin = 1330.69 
+            xmax = 1336.539 
+            text = "un, nor s'iz geven, dos ershte zenen gekumen ahin tsu rumenishe SOLDIERn. mir hobn gekont shtark gut rumenish." 
+        intervals [611]:
+            xmin = 1336.539 
+            xmax = 1336.765 
+            text = "" 
+        intervals [612]:
+            xmin = 1336.765 
+            xmax = 1338.564 
+            text = "hobn mir ongehoybn redn mit zey." 
+        intervals [613]:
+            xmin = 1338.564 
+            xmax = 1339.127 
+            text = "" 
+        intervals [614]:
+            xmin = 1339.127 
+            xmax = 1340.96 
+            text = "un mir hobn, uh," 
+        intervals [615]:
+            xmin = 1340.96 
+            xmax = 1341.135 
+            text = "" 
+        intervals [616]:
+            xmin = 1341.135 
+            xmax = 1344.099 
+            text = "a bisl gevoynt, uh, bay zey in shtub." 
+        intervals [617]:
+            xmin = 1344.099 
+            xmax = 1344.156 
+            text = "" 
+        intervals [618]:
+            xmin = 1344.156 
+            xmax = 1346.647 
+            text = "un efsher iz geven dos in <de>tsember," 
+        intervals [619]:
+            xmin = 1346.647 
+            xmax = 1347.582 
+            text = "" 
+        intervals [620]:
+            xmin = 1347.582 
+            xmax = 1349.618 
+            text = "hot men undz avekgenemen in geto." 
+        intervals [621]:
+            xmin = 1349.618 
+            xmax = 1350.754 
+            text = "" 
+        intervals [622]:
+            xmin = 1350.754 
+            xmax = 1352.216 
+            text = "un dort iz shoyn geven," 
+        intervals [623]:
+            xmin = 1352.216 
+            xmax = 1352.61 
+            text = "" 
+        intervals [624]:
+            xmin = 1352.61 
+            xmax = 1354.072 
+            text = "hot zikh ongehoybn undzer..." 
+        intervals [625]:
+            xmin = 1354.072 
+            xmax = 1355.327 
+            text = "" 
+        intervals [626]:
+            xmin = 1355.327 
+            xmax = 1358.054 
+            text = "Podolsk, in geto, yo." 
+        intervals [627]:
+            xmin = 1358.054 
+            xmax = 1358.398 
+            text = "" 
+        intervals [628]:
+            xmin = 1358.398 
+            xmax = 1361.514 
+            text = "in g- s'ershte nisht in geto; s'iz geven rusish nokh." 
+        intervals [629]:
+            xmin = 1361.514 
+            xmax = 1361.537 
+            text = "" 
+        intervals [630]:
+            xmin = 1361.537 
+            xmax = 1363.381 
+            text = "ven <s'iz ave-> ven zey hobn," 
+        intervals [631]:
+            xmin = 1363.381 
+            xmax = 1365.077 
+            text = "uh, genemen di shtot," 
+        intervals [632]:
+            xmin = 1365.077 
+            xmax = 1367.775 
+            text = "demlt hobn zey undz, <uh>, fartribn in geto." 
+        intervals [633]:
+            xmin = 1367.775 
+            xmax = 1368.051 
+            text = "" 
+        intervals [634]:
+            xmin = 1368.051 
+            xmax = 1370.166 
+            text = "un m'hot gelebt a bisl in geto." 
+        intervals [635]:
+            xmin = 1370.166 
+            xmax = 1371.842 
+            text = "in geto iz nokh geven," 
+        intervals [636]:
+            xmin = 1371.842 
+            xmax = 1372.911 
+            text = "" 
+        intervals [637]:
+            xmin = 1372.911 
+            xmax = 1374.086 
+            text = "hot men nokh gekont" 
+        intervals [638]:
+            xmin = 1374.086 
+            xmax = 1374.177 
+            text = "" 
+        intervals [639]:
+            xmin = 1374.177 
+            xmax = 1375.555 
+            text = "ekzistirn." 
+        intervals [640]:
+            xmin = 1375.555 
+            xmax = 1377.42 
+            text = "" 
+        intervals [641]:
+            xmin = 1377.42 
+            xmax = 1381.562 
+            text = "fun vos? uh, m'hot, ver s'hot gehat, еh, vos tsu esn fun frirert," 
+        intervals [642]:
+            xmin = 1381.562 
+            xmax = 1381.652 
+            text = "" 
+        intervals [643]:
+            xmin = 1381.652 
+            xmax = 1383.352 
+            text = "hot men geesn. m'hot," 
+        intervals [644]:
+            xmin = 1383.352 
+            xmax = 1385.67 
+            text = "m'hot gesh- m'iz geshtorbn far hunger, nor" 
+        intervals [645]:
+            xmin = 1385.67 
+            xmax = 1388.728 
+            text = "s'iz nisht geven azoy shlekht vi in lager." 
+        intervals [646]:
+            xmin = 1388.728 
+            xmax = 1390.742 
+            text = "s'iz geven a bisl gringer." 
+        intervals [647]:
+            xmin = 1390.742 
+            xmax = 1391.22 
+            text = "" 
+        intervals [648]:
+            xmin = 1391.22 
+            xmax = 1394.589 
+            text = "uh, nu, s'iz geven shtark d- nisht gut, nor" 
+        intervals [649]:
+            xmin = 1394.589 
+            xmax = 1394.595 
+            text = "" 
+        intervals [650]:
+            xmin = 1394.595 
+            xmax = 1396.664 
+            text = "m'hot gekont, m'hot gekont, uh..." 
+        intervals [651]:
+            xmin = 1396.664 
+            xmax = 1397.312 
+            text = "" 
+        intervals [652]:
+            xmin = 1397.312 
+            xmax = 1398.912 
+            text = "Rumenye iz geven," 
+        intervals [653]:
+            xmin = 1398.912 
+            xmax = 1403.314 
+            text = "un der vos hot gehat gelt... UNK <di> rumenishe hobn shtark lib gehat gelt, khabar..." 
+        intervals [654]:
+            xmin = 1403.314 
+            xmax = 1403.708 
+            text = "" 
+        intervals [655]:
+            xmin = 1403.708 
+            xmax = 1405.254 
+            text = "fleg men zey tsoln," 
+        intervals [656]:
+            xmin = 1405.254 
+            xmax = 1405.328 
+            text = "" 
+        intervals [657]:
+            xmin = 1405.328 
+            xmax = 1408.174 
+            text = "un zey, zey hobn zikh nisht azoy shlekht gefirt" 
+        intervals [658]:
+            xmin = 1408.174 
+            xmax = 1408.332 
+            text = "" 
+        intervals [659]:
+            xmin = 1408.332 
+            xmax = 1410.148 
+            text = "vi di DEU- DEUTSCHn." 
+        intervals [660]:
+            xmin = 1410.148 
+            xmax = 1410.306 
+            text = "" 
+        intervals [661]:
+            xmin = 1410.306 
+            xmax = 1414.131 
+            text = "nor, uhm, oktomber zenen zey gekumen, di DEUTSCHn," 
+        intervals [662]:
+            xmin = 1414.131 
+            xmax = 1414.558 
+            text = "" 
+        intervals [663]:
+            xmin = 1414.558 
+            xmax = 1417.027 
+            text = "un s'hot zikh ongehoybn di gute mayse." 
+        intervals [664]:
+            xmin = 1417.027 
+            xmax = 1418.883 
+            text = "s'ershte, vos hobn zey getun?" 
+        intervals [665]:
+            xmin = 1418.883 
+            xmax = 1420.897 
+            text = "hobn zey genemen ile," 
+        intervals [666]:
+            xmin = 1420.897 
+            xmax = 1420.954 
+            text = "" 
+        intervals [667]:
+            xmin = 1420.954 
+            xmax = 1423.057 
+            text = "hm, rebes," 
+        intervals [668]:
+            xmin = 1423.057 
+            xmax = 1423.333 
+            text = "" 
+        intervals [669]:
+            xmin = 1423.333 
+            xmax = 1428.085 
+            text = "vos zey hobn gearbet in di shiln... s'iz geven <a>, shiln in MOGILЁV; s'iz geven a yidishe shtot..." 
+        intervals [670]:
+            xmin = 1428.085 
+            xmax = 1428.312 
+            text = "" 
+        intervals [671]:
+            xmin = 1428.312 
+            xmax = 1430.398 
+            text = "un m'hot zey ile avekgenemen." 
+        intervals [672]:
+            xmin = 1430.398 
+            xmax = 1430.775 
+            text = "" 
+        intervals [673]:
+            xmin = 1430.775 
+            xmax = 1433.067 
+            text = "un vos m'hot getun mit zey, veys ikh nisht." 
+        intervals [674]:
+            xmin = 1433.067 
+            xmax = 1434.853 
+            text = "me zogt az m'hot zey geshosn." 
+        intervals [675]:
+            xmin = 1434.853 
+            xmax = 1438.622 
+            text = "" 
+        intervals [676]:
+            xmin = 1438.622 
+            xmax = 1442.728 
+            text = "kh'hob go- ven ikh <bin geve-> funem lager hob ikh gornit gevust. kh'hob gevust az ikh bin in geto," 
+        intervals [677]:
+            xmin = 1442.728 
+            xmax = 1444.806 
+            text = "un vos vet zayn mit undz? mir hobn gevart" 
+        intervals [678]:
+            xmin = 1444.806 
+            xmax = 1445.841 
+            text = "ile tog," 
+        intervals [679]:
+            xmin = 1445.841 
+            xmax = 1447.678 
+            text = "me zol undz derhargenen." 
+        intervals [680]:
+            xmin = 1447.678 
+            xmax = 1447.853 
+            text = "" 
+        intervals [681]:
+            xmin = 1447.853 
+            xmax = 1449.315 
+            text = "mir hobn moyre gehat." 
+        intervals [682]:
+            xmin = 1449.315 
+            xmax = 1452.595 
+            text = "" 
+        intervals [683]:
+            xmin = 1452.595 
+            xmax = 1456.537 
+            text = "UNK, neyn, neyn! kh'hob gornisht gevust." 
+        intervals [684]:
+            xmin = 1456.537 
+            xmax = 1456.611 
+            text = "" 
+        intervals [685]:
+            xmin = 1456.611 
+            xmax = 1458.413 
+            text = "kh'hob nit gevust tsi zey lebn." 
+        intervals [686]:
+            xmin = 1458.413 
+            xmax = 1460.987 
+            text = "kh'hob nisht gevust tsi zey, z- ve- vu zey zenen." 
+        intervals [687]:
+            xmin = 1460.987 
+            xmax = 1463.282 
+            text = "kh'hob abs- kh'hob gornisht gevust fun zey." 
+        intervals [688]:
+            xmin = 1463.282 
+            xmax = 1466.055 
+            text = "ikh mit mayn shvester, un mer gornisht." 
+        intervals [689]:
+            xmin = 1466.055 
+            xmax = 1476.102 
+            text = "" 
+        intervals [690]:
+            xmin = 1476.102 
+            xmax = 1478.998 
+            text = "n- di ende funem nayntsn eyn un fertsik<s->" 
+        intervals [691]:
+            xmin = 1478.998 
+            xmax = 1479.038 
+            text = "" 
+        intervals [692]:
+            xmin = 1479.038 
+            xmax = 1482.705 
+            text = "hobn zey undz avekgeshikt in lager<n>. s'iz geven vinter." 
+        intervals [693]:
+            xmin = 1482.705 
+            xmax = 1486.324 
+            text = "ikh gedenk nisht pinktlekh, tsi s'iz geven november, tsi detsember," 
+        intervals [694]:
+            xmin = 1486.324 
+            xmax = 1488.077 
+            text = "nor s'iz geven shoyn kalt," 
+        intervals [695]:
+            xmin = 1488.077 
+            xmax = 1488.252 
+            text = "" 
+        intervals [696]:
+            xmin = 1488.252 
+            xmax = 1490.063 
+            text = "un mir zenen gegan tsu fus," 
+        intervals [697]:
+            xmin = 1490.063 
+            xmax = 1495.553 
+            text = "un der shney iz geven, <ehm, un di, uh,> ikh hob zikh gornisht gehat. ikh bin gegangen mit <aza, hm>, mit a..." 
+        intervals [698]:
+            xmin = 1495.553 
+            xmax = 1495.609 
+            text = "" 
+        intervals [699]:
+            xmin = 1495.609 
+            xmax = 1499.479 
+            text = "s'iz geven varem ven mir zenen avekgegangen. ikh hob gornisht gehat keyn ODЁZHA." 
+        intervals [700]:
+            xmin = 1499.479 
+            xmax = 1502.353 
+            text = "ikh bin shoyn geven halb, kh'hob shoyn VOOBSHCHE gornisht gehat." 
+        intervals [701]:
+            xmin = 1502.353 
+            xmax = 1503.068 
+            text = "" 
+        intervals [702]:
+            xmin = 1503.068 
+            xmax = 1504.901 
+            text = "a- ale shmates." 
+        intervals [703]:
+            xmin = 1504.901 
+            xmax = 1505.245 
+            text = "" 
+        intervals [704]:
+            xmin = 1505.245 
+            xmax = 1508.397 
+            text = "un, uhm, un m'hot undz gefirt in dem lager," 
+        intervals [705]:
+            xmin = 1508.397 
+            xmax = 1510.793 
+            text = "un ver s'hot nisht gekont geyn, hot men geshosn." 
+        intervals [706]:
+            xmin = 1510.793 
+            xmax = 1511.59 
+            text = "" 
+        intervals [707]:
+            xmin = 1511.59 
+            xmax = 1513.457 
+            text = "un mayn shvester hot mikh geshlept." 
+        intervals [708]:
+            xmin = 1513.457 
+            xmax = 1513.952 
+            text = "" 
+        intervals [709]:
+            xmin = 1513.952 
+            xmax = 1517.456 
+            text = "ikh zol nisht blaybn, fleg, hot zi mikh geshlept, me zol mikh nit shisn." 
+        intervals [710]:
+            xmin = 1517.456 
+            xmax = 1517.479 
+            text = "" 
+        intervals [711]:
+            xmin = 1517.479 
+            xmax = 1520.055 
+            text = "m'hot nisht getort zogn az du vilst epes." 
+        intervals [712]:
+            xmin = 1520.055 
+            xmax = 1520.263 
+            text = "" 
+        intervals [713]:
+            xmin = 1520.263 
+            xmax = 1523.058 
+            text = "m'hot, m'ho- <host gezogt> az du vilst a trunk, hot men dikh dershosn." 
+        intervals [714]:
+            xmin = 1523.058 
+            xmax = 1523.402 
+            text = "" 
+        intervals [715]:
+            xmin = 1523.402 
+            xmax = 1524.999 
+            text = "host gornisht getort zogn." 
+        intervals [716]:
+            xmin = 1524.999 
+            xmax = 1525.512 
+            text = "" 
+        intervals [717]:
+            xmin = 1525.512 
+            xmax = 1528.628 
+            text = "un, uh, azoy zenen mir gegangen etlekhe teg," 
+        intervals [718]:
+            xmin = 1528.628 
+            xmax = 1528.819 
+            text = "" 
+        intervals [719]:
+            xmin = 1528.819 
+            xmax = 1530.838 
+            text = "bizn mir zenen ongekumen in Petshore." 
+        intervals [720]:
+            xmin = 1530.838 
+            xmax = 1531.232 
+            text = "" 
+        intervals [721]:
+            xmin = 1531.232 
+            xmax = 1532.913 
+            text = "nor dort iz shoyn geven," 
+        intervals [722]:
+            xmin = 1532.913 
+            xmax = 1532.987 
+            text = "" 
+        intervals [723]:
+            xmin = 1532.987 
+            xmax = 1535.748 
+            text = "dort, <uh, zenen> geshtorbn yeder tog, uh," 
+        intervals [724]:
+            xmin = 1535.748 
+            xmax = 1536.21 
+            text = "" 
+        intervals [725]:
+            xmin = 1536.21 
+            xmax = 1537.741 
+            text = "<kh'>veys nit vifl mentshn." 
+        intervals [726]:
+            xmin = 1537.741 
+            xmax = 1539.579 
+            text = "un mir hobn gegrobn di griber." 
+        intervals [727]:
+            xmin = 1539.579 
+            xmax = 1540.243 
+            text = "" 
+        intervals [728]:
+            xmin = 1540.243 
+            xmax = 1542.819 
+            text = "un dos, di erd iz geven <t-> gefroyrn," 
+        intervals [729]:
+            xmin = 1542.819 
+            xmax = 1543.382 
+            text = "" 
+        intervals [730]:
+            xmin = 1543.382 
+            xmax = 1545.547 
+            text = "un m- un me fleg undz shlogn." 
+        intervals [731]:
+            xmin = 1545.547 
+            xmax = 1548.796 
+            text = "un ikh hob gevust, ikh hob aleyn gezen azoy vi zey," 
+        intervals [732]:
+            xmin = 1548.796 
+            xmax = 1552.404 
+            text = "kinder, OSOBENNO kinder... ikh bin geven, hm, kleyn," 
+        intervals [733]:
+            xmin = 1552.404 
+            xmax = 1552.478 
+            text = "" 
+        intervals [734]:
+            xmin = 1552.478 
+            xmax = 1553.554 
+            text = "dar," 
+        intervals [735]:
+            xmin = 1553.554 
+            xmax = 1554.851 
+            text = "ven ikh bin geven a kind." 
+        intervals [736]:
+            xmin = 1554.851 
+            xmax = 1555.178 
+            text = "" 
+        intervals [737]:
+            xmin = 1555.178 
+            xmax = 1559.505 
+            text = "m'hot mir gegibn nisht <keyn> tsvelef yor <oder,> m'hot mir gegibn akht yor." 
+        intervals [738]:
+            xmin = 1559.505 
+            xmax = 1559.717 
+            text = "" 
+        intervals [739]:
+            xmin = 1559.717 
+            xmax = 1564.419 
+            text = "iz, uh, flegn zey nemen azoyne kinder un zey gibn... m'iz geven tomed hungerik..." 
+        intervals [740]:
+            xmin = 1564.419 
+            xmax = 1564.459 
+            text = "" 
+        intervals [741]:
+            xmin = 1564.459 
+            xmax = 1566.776 
+            text = "flegn zey undz gibn epes esn," 
+        intervals [742]:
+            xmin = 1566.776 
+            xmax = 1569.363 
+            text = "un az mir flegn es nemen, flegn zey shisn." 
+        intervals [743]:
+            xmin = 1569.363 
+            xmax = 1569.927 
+            text = "" 
+        intervals [744]:
+            xmin = 1569.927 
+            xmax = 1572.941 
+            text = "iz mayn shvester fleg mir zogn, ""zolst gornisht nemen." 
+        intervals [745]:
+            xmin = 1572.941 
+            xmax = 1572.998 
+            text = "" 
+        intervals [746]:
+            xmin = 1572.998 
+            xmax = 1574.783 
+            text = "az m'vet dikh rufn, gey nisht." 
+        intervals [747]:
+            xmin = 1574.783 
+            xmax = 1575.81 
+            text = "antloyf!" 
+        intervals [748]:
+            xmin = 1575.81 
+            xmax = 1575.934 
+            text = "" 
+        intervals [749]:
+            xmin = 1575.934 
+            xmax = 1579.438 
+            text = "az m'vet dikh rufn, gey nisht. antloyf!"" nisht eyn mol hot men geshosn nokh mir." 
+        intervals [750]:
+            xmin = 1579.438 
+            xmax = 1579.832 
+            text = "" 
+        intervals [751]:
+            xmin = 1579.832 
+            xmax = 1581.986 
+            text = "nisht eyn mol hot men nokh mir geshosn." 
+        intervals [752]:
+            xmin = 1581.986 
+            xmax = 1582.38 
+            text = "" 
+        intervals [753]:
+            xmin = 1582.38 
+            xmax = 1584.601 
+            text = "ikh veys nit azoy mir zenen geblibn lebn." 
+        intervals [754]:
+            xmin = 1584.601 
+            xmax = 1586.43 
+            text = "" 
+        intervals [755]:
+            xmin = 1586.43 
+            xmax = 1587.689 
+            text = "veys ikh nisht." 
+        intervals [756]:
+            xmin = 1587.689 
+            xmax = 1592.404 
+            text = "" 
+        intervals [757]:
+            xmin = 1592.404 
+            xmax = 1594.288 
+            text = "Petshore bin ikh geven," 
+        intervals [758]:
+            xmin = 1594.288 
+            xmax = 1594.48 
+            text = "" 
+        intervals [759]:
+            xmin = 1594.48 
+            xmax = 1598.864 
+            text = "uh, funem, eh, eh, f- tsvey un fertsikstn, eyn un fertsikstn" 
+        intervals [760]:
+            xmin = 1598.864 
+            xmax = 1601.612 
+            text = "bizkele onheyb fir un fertsik." 
+        intervals [761]:
+            xmin = 1601.612 
+            xmax = 1605.583 
+            text = "" 
+        intervals [762]:
+            xmin = 1605.583 
+            xmax = 1609.492 
+            text = "gearbet, shver gearbet, un ger<ibn>..." 
+        intervals [763]:
+            xmin = 1609.492 
+            xmax = 1612.482 
+            text = "dos, di ershte tsayt iz nisht geven azoy shreklekh." 
+        intervals [764]:
+            xmin = 1612.482 
+            xmax = 1615.449 
+            text = "s'hot zikh ongehoybn shtark paskudne geven" 
+        intervals [765]:
+            xmin = 1615.449 
+            xmax = 1615.472 
+            text = "" 
+        intervals [766]:
+            xmin = 1615.472 
+            xmax = 1619.516 
+            text = "<in>, in le- <in> letst- uh, f- tsvey un fertsikstn yor." 
+        intervals [767]:
+            xmin = 1619.516 
+            xmax = 1619.927 
+            text = "" 
+        intervals [768]:
+            xmin = 1619.927 
+            xmax = 1622.418 
+            text = "demlt iz geven sh- hm, shreklekh." 
+        intervals [769]:
+            xmin = 1622.418 
+            xmax = 1622.644 
+            text = "" 
+        intervals [770]:
+            xmin = 1622.644 
+            xmax = 1624.894 
+            text = "m'hot, mir hobn gehat nokh mazl" 
+        intervals [771]:
+            xmin = 1624.894 
+            xmax = 1628.392 
+            text = "vos s'iz geven, eh, rumenishe soldatn" 
+        intervals [772]:
+            xmin = 1628.392 
+            xmax = 1628.432 
+            text = "" 
+        intervals [773]:
+            xmin = 1628.432 
+            xmax = 1631.295 
+            text = "un <di,> mir hobn gekont redn rumenish." 
+        intervals [774]:
+            xmin = 1631.295 
+            xmax = 1631.52 
+            text = "" 
+        intervals [775]:
+            xmin = 1631.52 
+            xmax = 1633.184 
+            text = "dos iz geven undzer mazl." 
+        intervals [776]:
+            xmin = 1633.184 
+            xmax = 1634.035 
+            text = "" 
+        intervals [777]:
+            xmin = 1634.035 
+            xmax = 1638.326 
+            text = "zey, <hm>, zenen oykhet geven, zenen oykhet geven gut vi..." 
+        intervals [778]:
+            xmin = 1638.326 
+            xmax = 1642.871 
+            text = "nor nisht azoy, nisht azoy... epes hobn zey gehat a, hm, beser harts." 
+        intervals [779]:
+            xmin = 1642.871 
+            xmax = 1643.653 
+            text = "" 
+        intervals [780]:
+            xmin = 1643.653 
+            xmax = 1647.447 
+            text = "un mir hobn gehat, uh, ile tog iz geven a ander mayse." 
+        intervals [781]:
+            xmin = 1647.447 
+            xmax = 1651.77 
+            text = "" 
+        intervals [782]:
+            xmin = 1651.77 
+            xmax = 1653.806 
+            text = "tsk, zey hobn moyre gehat tsu helfn." 
+        intervals [783]:
+            xmin = 1653.806 
+            xmax = 1657.316 
+            text = "zey hobn moyre gehat, nor <zey> zenen oykhet geven gute khuliganen." 
+        intervals [784]:
+            xmin = 1657.316 
+            xmax = 1657.66 
+            text = "" 
+        intervals [785]:
+            xmin = 1657.66 
+            xmax = 1659.864 
+            text = "un oykhet geven gute antisemitn." 
+        intervals [786]:
+            xmin = 1659.864 
+            xmax = 1660.225 
+            text = "" 
+        intervals [787]:
+            xmin = 1660.225 
+            xmax = 1662.041 
+            text = "nor ikh bin geven a kind." 
+        intervals [788]:
+            xmin = 1662.041 
+            xmax = 1662.621 
+            text = "" 
+        intervals [789]:
+            xmin = 1662.621 
+            xmax = 1664.96 
+            text = "ikh vey nisht, mir flegn," 
+        intervals [790]:
+            xmin = 1664.96 
+            xmax = 1665.034 
+            text = "" 
+        intervals [791]:
+            xmin = 1665.034 
+            xmax = 1668.473 
+            text = "hm, geyn un zukhn in, uh, in dem GARBAGE" 
+        intervals [792]:
+            xmin = 1668.473 
+            xmax = 1671.536 
+            text = "epes vos dem, uh, zey hobn a- UNK avekgevorfn." 
+        intervals [793]:
+            xmin = 1671.536 
+            xmax = 1672.891 
+            text = "flegn mir esn." 
+        intervals [794]:
+            xmin = 1672.891 
+            xmax = 1673.286 
+            text = "" 
+        intervals [795]:
+            xmin = 1673.286 
+            xmax = 1675.552 
+            text = "un mir zenen, s'iz geven geferlekh." 
+        intervals [796]:
+            xmin = 1675.552 
+            xmax = 1678.646 
+            text = "UNK s'iz, ikh veys nit azoy mir zenen geblibn lebn." 
+        intervals [797]:
+            xmin = 1678.646 
+            xmax = 1678.804 
+            text = "" 
+        intervals [798]:
+            xmin = 1678.804 
+            xmax = 1682 
+            text = "hm, i<r >veys<t> vifl toyznter mentshn zenen geshtorbn." 
+        intervals [799]:
+            xmin = 1682 
+            xmax = 1682.044 
+            text = "" 
+        intervals [800]:
+            xmin = 1682.044 
+            xmax = 1683.607 
+            text = "toyznter mentshn!" 
+        intervals [801]:
+            xmin = 1683.607 
+            xmax = 1683.799 
+            text = "" 
+        intervals [802]:
+            xmin = 1683.799 
+            xmax = 1685.627 
+            text = "<k- eh,> s'iz geven geferlekh." 
+        intervals [803]:
+            xmin = 1685.627 
+            xmax = 1688.895 
+            text = "ile minut hobn mir gehert az emetser andersh shtarbt. ile minut," 
+        intervals [804]:
+            xmin = 1688.895 
+            xmax = 1690.97 
+            text = "m'iz geshtorbn un m'hot ge- m- m-" 
+        intervals [805]:
+            xmin = 1690.97 
+            xmax = 1693.884 
+            text = "me fleg araynvarfn lebedike mentshn in di grubs," 
+        intervals [806]:
+            xmin = 1693.884 
+            xmax = 1693.907 
+            text = "" 
+        intervals [807]:
+            xmin = 1693.907 
+            xmax = 1696.449 
+            text = "in di, araynvarfn zey in di grubs." 
+        intervals [808]:
+            xmin = 1696.449 
+            xmax = 1700.671 
+            text = "mir hobn gegrobn un me fleg zey araynvarfn in UNK... ver s'hot nisht gekont arbetn," 
+        intervals [809]:
+            xmin = 1700.671 
+            xmax = 1702.595 
+            text = "ver s'hot nisht gekont shteyn oyf di fis," 
+        intervals [810]:
+            xmin = 1702.595 
+            xmax = 1705.596 
+            text = "ver s'hot nit gekont, f- hot men arayngevorfn in... lebedikerheyt!" 
+        intervals [811]:
+            xmin = 1705.596 
+            xmax = 1710.647 
+            text = "" 
+        intervals [812]:
+            xmin = 1710.647 
+            xmax = 1715.503 
+            text = "tsk, s'iz geven eyn mol tsuzamen, un nokh dem SEPARATE, un nokh dem nokh a mol tsuzamen." 
+        intervals [813]:
+            xmin = 1715.503 
+            xmax = 1716.812 
+            text = "s'iz geven farshidn." 
+        intervals [814]:
+            xmin = 1716.812 
+            xmax = 1719.636 
+            text = "az zey hobn nisht gehat keyn PLA- PLACES, flegn zey UNK..." 
+        intervals [815]:
+            xmin = 1719.636 
+            xmax = 1719.726 
+            text = "" 
+        intervals [816]:
+            xmin = 1719.726 
+            xmax = 1721.157 
+            text = "s'iz geven farshidenes." 
+        intervals [817]:
+            xmin = 1721.157 
+            xmax = 1723.806 
+            text = "un bay nakht flegn mir nisht kenen shlofn." 
+        intervals [818]:
+            xmin = 1723.806 
+            xmax = 1725.609 
+            text = "s'iz geven M<OUSE>," 
+        intervals [819]:
+            xmin = 1725.609 
+            xmax = 1725.649 
+            text = "" 
+        intervals [820]:
+            xmin = 1725.649 
+            xmax = 1726.672 
+            text = "MICE." 
+        intervals [821]:
+            xmin = 1726.672 
+            xmax = 1726.999 
+            text = "" 
+        intervals [822]:
+            xmin = 1726.999 
+            xmax = 1730.047 
+            text = "un, un s'iz geven geferlekh. s'iz nisht geven keyn..." 
+        intervals [823]:
+            xmin = 1730.047 
+            xmax = 1731.1 
+            text = "" 
+        intervals [824]:
+            xmin = 1731.1 
+            xmax = 1732.258 
+            text = "ikh veys nit." 
+        intervals [825]:
+            xmin = 1732.258 
+            xmax = 1732.298 
+            text = "" 
+        intervals [826]:
+            xmin = 1732.298 
+            xmax = 1733.861 
+            text = "s'iz, uh..." 
+        intervals [827]:
+            xmin = 1733.861 
+            xmax = 1735.538 
+            text = "" 
+        intervals [828]:
+            xmin = 1735.538 
+            xmax = 1738.62 
+            text = "UNK, NO, NO, s'iz geven, uh, shtroy." 
+        intervals [829]:
+            xmin = 1738.62 
+            xmax = 1739.065 
+            text = "" 
+        intervals [830]:
+            xmin = 1739.065 
+            xmax = 1740.985 
+            text = "shtroy mit, ehm," 
+        intervals [831]:
+            xmin = 1740.985 
+            xmax = 1743.514 
+            text = "mit, uh, azoy heyst es? fun WOOD." 
+        intervals [832]:
+            xmin = 1743.514 
+            xmax = 1744.515 
+            text = "" 
+        intervals [833]:
+            xmin = 1744.515 
+            xmax = 1745.836 
+            text = "eh..." 
+        intervals [834]:
+            xmin = 1745.836 
+            xmax = 1748.385 
+            text = "nor mir zenen gekumen, zenen mir shoyn geven azoy..." 
+        intervals [835]:
+            xmin = 1748.385 
+            xmax = 1753.027 
+            text = "az m'hot undz gelozt, uh, a por sho lign, zenen mir geven gliklekh." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Toby Kriss" 
+        xmin = 0 
+        xmax = 1753.027 
+        intervals: size = 241 
+        intervals [1]:
+            xmin = 0 
+            xmax = 27.163 
+            text = "" 
+        intervals [2]:
+            xmin = 27.163 
+            xmax = 30.585 
+            text = "TODAY IS JULY FIFTEENTH, NINETEEN NINETY-SEVEN." 
+        intervals [3]:
+            xmin = 30.585 
+            xmax = 33.434 
+            text = "WE'RE INTERVIEWING KHAYA VAYNBERG," 
+        intervals [4]:
+            xmin = 33.434 
+            xmax = 33.913 
+            text = "" 
+        intervals [5]:
+            xmin = 33.913 
+            xmax = 38.778 
+            text = "NÉE DASKAL. THE INTERVIEWER IS TOBY KRISS, IN MILWAUKEE, WISCONSIN," 
+        intervals [6]:
+            xmin = 38.778 
+            xmax = 41.889 
+            text = "IN THE U.S.A., AND WE'RE GONNA BE INTERVIEWING IN YIDDISH." 
+        intervals [7]:
+            xmin = 41.889 
+            xmax = 42.722 
+            text = "" 
+        intervals [8]:
+            xmin = 42.722 
+            xmax = 45.061 
+            text = "MY NAME IS TOBY KRISS." 
+        intervals [9]:
+            xmin = 45.061 
+            xmax = 45.068 
+            text = "" 
+        intervals [10]:
+            xmin = 45.068 
+            xmax = 47.391 
+            text = "T.O.B.Y." 
+        intervals [11]:
+            xmin = 47.391 
+            xmax = 47.397 
+            text = "" 
+        intervals [12]:
+            xmin = 47.397 
+            xmax = 49.958 
+            text = "K.R.I.S.S." 
+        intervals [13]:
+            xmin = 49.958 
+            xmax = 53.434 
+            text = "TODAY IS JULY FIFTEENTH, NINETEEN NINETY-SEVEN" 
+        intervals [14]:
+            xmin = 53.434 
+            xmax = 57.296 
+            text = "AND I'M CONDUCTING AN INTERVIEW WITH KHAYA VAYNBERG," 
+        intervals [15]:
+            xmin = 57.296 
+            xmax = 57.37 
+            text = "" 
+        intervals [16]:
+            xmin = 57.37 
+            xmax = 59.94 
+            text = "K.H.A.Y.A." 
+        intervals [17]:
+            xmin = 59.94 
+            xmax = 63.762 
+            text = "V.A.Y.N.B.E.R.G.," 
+        intervals [18]:
+            xmin = 63.762 
+            xmax = 65.97 
+            text = "IN MILWAUKEE, WISCONSIN." 
+        intervals [19]:
+            xmin = 65.97 
+            xmax = 68.423 
+            text = "" 
+        intervals [20]:
+            xmin = 68.423 
+            xmax = 70.459 
+            text = "zay azoy gut, fang on" 
+        intervals [21]:
+            xmin = 70.459 
+            xmax = 70.853 
+            text = "" 
+        intervals [22]:
+            xmin = 70.853 
+            xmax = 72.652 
+            text = "dertseyln dayn nomen." 
+        intervals [23]:
+            xmin = 72.652 
+            xmax = 84.184 
+            text = "" 
+        intervals [24]:
+            xmin = 84.184 
+            xmax = 85.713 
+            text = "un in english" 
+        intervals [25]:
+            xmin = 85.713 
+            xmax = 85.753 
+            text = "" 
+        intervals [26]:
+            xmin = 85.753 
+            xmax = 87.097 
+            text = "shraybstu...?" 
+        intervals [27]:
+            xmin = 87.097 
+            xmax = 87.829 
+            text = "" 
+        intervals [28]:
+            xmin = 87.829 
+            xmax = 90.11 
+            text = "K.H.?" 
+        intervals [29]:
+            xmin = 90.11 
+            xmax = 98.494 
+            text = "" 
+        intervals [30]:
+            xmin = 98.494 
+            xmax = 101.47 
+            text = "un du host gehat ander nomen in di heym?" 
+        intervals [31]:
+            xmin = 101.47 
+            xmax = 108.231 
+            text = "" 
+        intervals [32]:
+            xmin = 108.231 
+            xmax = 110.267 
+            text = "un ven iz dayn geburtstog?" 
+        intervals [33]:
+            xmin = 110.267 
+            xmax = 116.162 
+            text = "" 
+        intervals [34]:
+            xmin = 116.162 
+            xmax = 117.202 
+            text = "un vel-...?" 
+        intervals [35]:
+            xmin = 117.202 
+            xmax = 118.558 
+            text = "" 
+        intervals [36]:
+            xmin = 118.558 
+            xmax = 120.425 
+            text = "un vi alt bistu haynt?" 
+        intervals [37]:
+            xmin = 120.425 
+            xmax = 124.313 
+            text = "" 
+        intervals [38]:
+            xmin = 124.313 
+            xmax = 127.445 
+            text = "un in velkhe shtot hostu geborn gevorn?" 
+        intervals [39]:
+            xmin = 127.445 
+            xmax = 143.635 
+            text = "" 
+        intervals [40]:
+            xmin = 143.635 
+            xmax = 144.99 
+            text = "un in velkhe," 
+        intervals [41]:
+            xmin = 144.99 
+            xmax = 147.24 
+            text = "uh, COUNTRY hot geven den?" 
+        intervals [42]:
+            xmin = 147.24 
+            xmax = 151.87 
+            text = "" 
+        intervals [43]:
+            xmin = 151.87 
+            xmax = 157.41 
+            text = "kenstu undz zogn vegn dayn lebn afrier f<ri-> di milkhome," 
+        intervals [44]:
+            xmin = 157.41 
+            xmax = 160.149 
+            text = "vos far a hoyz host gelebn?" 
+        intervals [45]:
+            xmin = 160.149 
+            xmax = 171.09 
+            text = "" 
+        intervals [46]:
+            xmin = 171.09 
+            xmax = 173.885 
+            text = "un zayn nemen zaynen geven?" 
+        intervals [47]:
+            xmin = 173.885 
+            xmax = 189.433 
+            text = "" 
+        intervals [48]:
+            xmin = 189.433 
+            xmax = 191.637 
+            text = "host gehat shvester un bruder?" 
+        intervals [49]:
+            xmin = 191.637 
+            xmax = 196.167 
+            text = "" 
+        intervals [50]:
+            xmin = 196.167 
+            xmax = 199.013 
+            text = "un kenst mir zogn za- zayn nemen?" 
+        intervals [51]:
+            xmin = 199.013 
+            xmax = 215.942 
+            text = "" 
+        intervals [52]:
+            xmin = 215.942 
+            xmax = 216.52 
+            text = "'KAY." 
+        intervals [53]:
+            xmin = 216.52 
+            xmax = 219.51 
+            text = "<i>n vos far a hoyz hostu geven?" 
+        intervals [54]:
+            xmin = 219.51 
+            xmax = 231.57 
+            text = "" 
+        intervals [55]:
+            xmin = 231.57 
+            xmax = 233.892 
+            text = "vos far a zakhn hostu gelernt?" 
+        intervals [56]:
+            xmin = 233.892 
+            xmax = 262.485 
+            text = "" 
+        intervals [57]:
+            xmin = 262.485 
+            xmax = 263.072 
+            text = "'KAY." 
+        intervals [58]:
+            xmin = 263.072 
+            xmax = 267.164 
+            text = "kenstu mir zogn fun dayn hoyz, vifl tsimer," 
+        intervals [59]:
+            xmin = 267.164 
+            xmax = 268.503 
+            text = "v- uhm...?" 
+        intervals [60]:
+            xmin = 268.503 
+            xmax = 284.305 
+            text = "" 
+        intervals [61]:
+            xmin = 284.305 
+            xmax = 285.041 
+            text = "s'iz..." 
+        intervals [62]:
+            xmin = 285.041 
+            xmax = 287.19 
+            text = "" 
+        intervals [63]:
+            xmin = 287.19 
+            xmax = 291.453 
+            text = "s'iz geven a groyse gase, lange, tsu a, a kleyne?" 
+        intervals [64]:
+            xmin = 291.453 
+            xmax = 298.296 
+            text = "" 
+        intervals [65]:
+            xmin = 298.296 
+            xmax = 299.02 
+            text = "hm." 
+        intervals [66]:
+            xmin = 299.02 
+            xmax = 299.54 
+            text = "" 
+        intervals [67]:
+            xmin = 299.54 
+            xmax = 302.473 
+            text = "vos kenstu undz zogn v- vegn ORGEEV?" 
+        intervals [68]:
+            xmin = 302.473 
+            xmax = 332.331 
+            text = "" 
+        intervals [69]:
+            xmin = 332.331 
+            xmax = 332.918 
+            text = "'KAY." 
+        intervals [70]:
+            xmin = 332.918 
+            xmax = 336.577 
+            text = "vos far a zakhn hostu geglaykht tsum shpiln?" 
+        intervals [71]:
+            xmin = 336.577 
+            xmax = 349.848 
+            text = "" 
+        intervals [72]:
+            xmin = 349.848 
+            xmax = 350.62 
+            text = "hm." 
+        intervals [73]:
+            xmin = 350.62 
+            xmax = 351.602 
+            text = "" 
+        intervals [74]:
+            xmin = 351.602 
+            xmax = 355.207 
+            text = "host geshpilt mit dayn shvester un bruder a sakh, tsu nisht?" 
+        intervals [75]:
+            xmin = 355.207 
+            xmax = 375.919 
+            text = "" 
+        intervals [76]:
+            xmin = 375.919 
+            xmax = 376.605 
+            text = "'KAY." 
+        intervals [77]:
+            xmin = 376.605 
+            xmax = 376.662 
+            text = "" 
+        intervals [78]:
+            xmin = 376.662 
+            xmax = 381.195 
+            text = "vos kenstu undz dertseyln fun, uh, yontoyvim in dayn hoym?" 
+        intervals [79]:
+            xmin = 381.195 
+            xmax = 415.423 
+            text = "" 
+        intervals [80]:
+            xmin = 415.423 
+            xmax = 420.513 
+            text = "host gehat a spetsyeln esn vos du host geglaykht fun d<en> yontoyvim?" 
+        intervals [81]:
+            xmin = 420.513 
+            xmax = 443.082 
+            text = "" 
+        intervals [82]:
+            xmin = 443.082 
+            xmax = 446.299 
+            text = "uh, vos far a mentshn hot gekumen tsu dayn hoyz?" 
+        intervals [83]:
+            xmin = 446.299 
+            xmax = 459.772 
+            text = "" 
+        intervals [84]:
+            xmin = 459.772 
+            xmax = 464.203 
+            text = "'KAY. uhm, hostu gehelft dayn mame a sakh ven du host geven a kind?" 
+        intervals [85]:
+            xmin = 464.203 
+            xmax = 484.088 
+            text = "" 
+        intervals [86]:
+            xmin = 484.088 
+            xmax = 486.478 
+            text = "vos far a arbet hot dayn tate geton?" 
+        intervals [87]:
+            xmin = 486.478 
+            xmax = 509.923 
+            text = "" 
+        intervals [88]:
+            xmin = 509.923 
+            xmax = 513.747 
+            text = "s'iz geven dayn tate's a FACTORY, oder an ander man's?" 
+        intervals [89]:
+            xmin = 513.747 
+            xmax = 520.319 
+            text = "" 
+        intervals [90]:
+            xmin = 520.319 
+            xmax = 521.319 
+            text = "UNK" 
+        intervals [91]:
+            xmin = 521.319 
+            xmax = 521.414 
+            text = "" 
+        intervals [92]:
+            xmin = 521.414 
+            xmax = 524.885 
+            text = "un du zogst az dayn mame hot gearbet. vos hot zi gearbet?" 
+        intervals [93]:
+            xmin = 524.885 
+            xmax = 525.853 
+            text = "" 
+        intervals [94]:
+            xmin = 525.853 
+            xmax = 527.281 
+            text = "in di zelbe plats?" 
+        intervals [95]:
+            xmin = 527.281 
+            xmax = 535.287 
+            text = "" 
+        intervals [96]:
+            xmin = 535.287 
+            xmax = 540.428 
+            text = "hot andere mentshn geleb<n> in dayn zelbe hoyz mit, mit dayne f- familye?" 
+        intervals [97]:
+            xmin = 540.428 
+            xmax = 545.53 
+            text = "" 
+        intervals [98]:
+            xmin = 545.53 
+            xmax = 546.176 
+            text = "'KAY." 
+        intervals [99]:
+            xmin = 546.176 
+            xmax = 547.289 
+            text = "uhm," 
+        intervals [100]:
+            xmin = 547.289 
+            xmax = 547.619 
+            text = "" 
+        intervals [101]:
+            xmin = 547.619 
+            xmax = 553.542 
+            text = "ven du host geven kleyn, hostu, uhm, geganen tsu a," 
+        intervals [102]:
+            xmin = 553.542 
+            xmax = 557.066 
+            text = "kh'veys nisht vi tsu zogn in yidish, tsu A GROUP OR A CAMP," 
+        intervals [103]:
+            xmin = 557.066 
+            xmax = 557.241 
+            text = "" 
+        intervals [104]:
+            xmin = 557.241 
+            xmax = 559.091 
+            text = "A YOUTH ORGANIZATION?" 
+        intervals [105]:
+            xmin = 559.091 
+            xmax = 562.185 
+            text = "" 
+        intervals [106]:
+            xmin = 562.185 
+            xmax = 563.191 
+            text = "UNK." 
+        intervals [107]:
+            xmin = 563.191 
+            xmax = 573.66 
+            text = "" 
+        intervals [108]:
+            xmin = 573.66 
+            xmax = 574.346 
+            text = "<o>." 
+        intervals [109]:
+            xmin = 574.346 
+            xmax = 575.382 
+            text = "" 
+        intervals [110]:
+            xmin = 575.382 
+            xmax = 576.945 
+            text = "dos hob ikh gehert." 
+        intervals [111]:
+            xmin = 576.945 
+            xmax = 578.211 
+            text = "uhm," 
+        intervals [112]:
+            xmin = 578.211 
+            xmax = 580.562 
+            text = "" 
+        intervals [113]:
+            xmin = 580.562 
+            xmax = 583.782 
+            text = "in, in dayn berg, in ORGEEV," 
+        intervals [114]:
+            xmin = 583.782 
+            xmax = 586.817 
+            text = "hot geven mentshn vos zaynen nisht yidishe?" 
+        intervals [115]:
+            xmin = 586.817 
+            xmax = 598.213 
+            text = "" 
+        intervals [116]:
+            xmin = 598.213 
+            xmax = 599.61 
+            text = "uh, vi hobn zey" 
+        intervals [117]:
+            xmin = 599.61 
+            xmax = 601.734 
+            text = "gekumen tsuzamen mit di yidn?" 
+        intervals [118]:
+            xmin = 601.734 
+            xmax = 618.177 
+            text = "" 
+        intervals [119]:
+            xmin = 618.177 
+            xmax = 619.903 
+            text = "hobn zey ir," 
+        intervals [120]:
+            xmin = 619.903 
+            xmax = 624.321 
+            text = "uh, getshepet o- oder ge- <hm>...?" 
+        intervals [121]:
+            xmin = 624.321 
+            xmax = 641.734 
+            text = "" 
+        intervals [122]:
+            xmin = 641.734 
+            xmax = 642.386 
+            text = "in..." 
+        intervals [123]:
+            xmin = 642.386 
+            xmax = 643.81 
+            text = "" 
+        intervals [124]:
+            xmin = 643.81 
+            xmax = 646.031 
+            text = "in velkhe yorn hot dos geven?" 
+        intervals [125]:
+            xmin = 646.031 
+            xmax = 650.728 
+            text = "" 
+        intervals [126]:
+            xmin = 650.728 
+            xmax = 651.316 
+            text = "'KAY." 
+        intervals [127]:
+            xmin = 651.316 
+            xmax = 653.02 
+            text = "hostu gehert fun," 
+        intervals [128]:
+            xmin = 653.02 
+            xmax = 656.375 
+            text = "uh, di onfang fu<l> milkhome in ander platsn?" 
+        intervals [129]:
+            xmin = 656.375 
+            xmax = 658.356 
+            text = "" 
+        intervals [130]:
+            xmin = 658.356 
+            xmax = 661.07 
+            text = "hostu gehert fun di" 
+        intervals [131]:
+            xmin = 661.07 
+            xmax = 665.623 
+            text = "onfangen f- fun di milkhome in a- in ander sht- sh<UNK>?" 
+        intervals [132]:
+            xmin = 665.623 
+            xmax = 703.648 
+            text = "" 
+        intervals [133]:
+            xmin = 703.648 
+            xmax = 707.559 
+            text = "un v- vos far a zakhn hot er ge- <uh>," 
+        intervals [134]:
+            xmin = 707.559 
+            xmax = 709.391 
+            text = "geredn fun in der heym," 
+        intervals [135]:
+            xmin = 709.391 
+            xmax = 712.073 
+            text = "vos tsu ton, <uh>...?" 
+        intervals [136]:
+            xmin = 712.073 
+            xmax = 731.113 
+            text = "" 
+        intervals [137]:
+            xmin = 731.113 
+            xmax = 733.291 
+            text = "tsk, uhm," 
+        intervals [138]:
+            xmin = 733.291 
+            xmax = 733.618 
+            text = "" 
+        intervals [139]:
+            xmin = 733.618 
+            xmax = 734.776 
+            text = "dayn" 
+        intervals [140]:
+            xmin = 734.776 
+            xmax = 735.593 
+            text = "" 
+        intervals [141]:
+            xmin = 735.593 
+            xmax = 737.207 
+            text = "bruder un shvester" 
+        intervals [142]:
+            xmin = 737.207 
+            xmax = 737.432 
+            text = "" 
+        intervals [143]:
+            xmin = 737.432 
+            xmax = 740.137 
+            text = "hobn gearbet di gantse <ta-> dayn shvester," 
+        intervals [144]:
+            xmin = 740.137 
+            xmax = 741.56 
+            text = "in di heym, <ehm>?" 
+        intervals [145]:
+            xmin = 741.56 
+            xmax = 784.446 
+            text = "" 
+        intervals [146]:
+            xmin = 784.446 
+            xmax = 787.392 
+            text = "vos hostu getrakht, ven du host geven a kind," 
+        intervals [147]:
+            xmin = 787.392 
+            xmax = 789.367 
+            text = "az du vest ton ven," 
+        intervals [148]:
+            xmin = 789.367 
+            xmax = 789.373 
+            text = "" 
+        intervals [149]:
+            xmin = 789.373 
+            xmax = 791.223 
+            text = "<hm>, du verst elter?" 
+        intervals [150]:
+            xmin = 791.223 
+            xmax = 795.432 
+            text = "" 
+        intervals [151]:
+            xmin = 795.432 
+            xmax = 798.137 
+            text = "hostu gevisn andere mentshn, andere" 
+        intervals [152]:
+            xmin = 798.137 
+            xmax = 801.164 
+            text = "uh, meydlekh v- vos hobn geven doktern?" 
+        intervals [153]:
+            xmin = 801.164 
+            xmax = 808.746 
+            text = "" 
+        intervals [154]:
+            xmin = 808.746 
+            xmax = 811.676 
+            text = "vos hot dayn mame un tate gedenkt fun dos?" 
+        intervals [155]:
+            xmin = 811.676 
+            xmax = 828.338 
+            text = "" 
+        intervals [156]:
+            xmin = 828.338 
+            xmax = 828.889 
+            text = "'KAY." 
+        intervals [157]:
+            xmin = 828.889 
+            xmax = 830.633 
+            text = "" 
+        intervals [158]:
+            xmin = 830.633 
+            xmax = 832.871 
+            text = "ven gedenkstu az" 
+        intervals [159]:
+            xmin = 832.871 
+            xmax = 833.063 
+            text = "" 
+        intervals [160]:
+            xmin = 833.063 
+            xmax = 835.253 
+            text = "du host gevisn tsu ersht" 
+        intervals [161]:
+            xmin = 835.253 
+            xmax = 836.617 
+            text = "fun di milkhome?" 
+        intervals [162]:
+            xmin = 836.617 
+            xmax = 839.408 
+            text = "" 
+        intervals [163]:
+            xmin = 839.408 
+            xmax = 841.191 
+            text = "ven hot dos geven?" 
+        intervals [164]:
+            xmin = 841.191 
+            xmax = 877.933 
+            text = "" 
+        intervals [165]:
+            xmin = 877.933 
+            xmax = 880.272 
+            text = "hostu gevisn vu zey zaynen im" 
+        intervals [166]:
+            xmin = 880.272 
+            xmax = 880.38 
+            text = "" 
+        intervals [167]:
+            xmin = 880.38 
+            xmax = 881.572 
+            text = "avek<genumen>?" 
+        intervals [168]:
+            xmin = 881.572 
+            xmax = 902.74 
+            text = "" 
+        intervals [169]:
+            xmin = 902.74 
+            xmax = 903.628 
+            text = "<er v->..." 
+        intervals [170]:
+            xmin = 903.628 
+            xmax = 905.052 
+            text = "" 
+        intervals [171]:
+            xmin = 905.052 
+            xmax = 907.172 
+            text = "vemen hot im avekgenemen?" 
+        intervals [172]:
+            xmin = 907.172 
+            xmax = 914.535 
+            text = "" 
+        intervals [173]:
+            xmin = 914.535 
+            xmax = 919.119 
+            text = "vemen hot im g- avekgenemen? ver hot gekumt tsu dayn hoyz oder...?" 
+        intervals [174]:
+            xmin = 919.119 
+            xmax = 924.812 
+            text = "" 
+        intervals [175]:
+            xmin = 924.812 
+            xmax = 925.734 
+            text = "tsu..." 
+        intervals [176]:
+            xmin = 925.734 
+            xmax = 936.827 
+            text = "" 
+        intervals [177]:
+            xmin = 936.827 
+            xmax = 938.272 
+            text = "mit di rusish<e>?" 
+        intervals [178]:
+            xmin = 938.272 
+            xmax = 940.86 
+            text = "" 
+        intervals [179]:
+            xmin = 940.86 
+            xmax = 943.841 
+            text = "hostu gevisn vu zey shikn im, tsu nisht?" 
+        intervals [180]:
+            xmin = 943.841 
+            xmax = 973.142 
+            text = "" 
+        intervals [181]:
+            xmin = 973.142 
+            xmax = 973.949 
+            text = "uh," 
+        intervals [182]:
+            xmin = 973.949 
+            xmax = 977.186 
+            text = "hobn a sakh soldatn gekumen tsu ORGEEV?" 
+        intervals [183]:
+            xmin = 977.186 
+            xmax = 1005.171 
+            text = "" 
+        intervals [184]:
+            xmin = 1005.171 
+            xmax = 1006.898 
+            text = "un vo- vos hot" 
+        intervals [185]:
+            xmin = 1006.898 
+            xmax = 1009.449 
+            text = "dayn familye geton, dayn pa-...?" 
+        intervals [186]:
+            xmin = 1009.449 
+            xmax = 1161.214 
+            text = "" 
+        intervals [187]:
+            xmin = 1161.214 
+            xmax = 1164.768 
+            text = "un di klenste bruder hot geven nokh mit di...?" 
+        intervals [188]:
+            xmin = 1164.768 
+            xmax = 1165.72 
+            text = "" 
+        intervals [189]:
+            xmin = 1165.72 
+            xmax = 1166.895 
+            text = "di eltern." 
+        intervals [190]:
+            xmin = 1166.895 
+            xmax = 1279.879 
+            text = "" 
+        intervals [191]:
+            xmin = 1279.879 
+            xmax = 1281.02 
+            text = "ven hot..." 
+        intervals [192]:
+            xmin = 1281.02 
+            xmax = 1281.904 
+            text = "" 
+        intervals [193]:
+            xmin = 1281.904 
+            xmax = 1283.619 
+            text = "ven hot dos geven?" 
+        intervals [194]:
+            xmin = 1283.619 
+            xmax = 1287.658 
+            text = "" 
+        intervals [195]:
+            xmin = 1287.658 
+            xmax = 1289.069 
+            text = "in velkhe yor?" 
+        intervals [196]:
+            xmin = 1289.069 
+            xmax = 1289.464 
+            text = "" 
+        intervals [197]:
+            xmin = 1289.464 
+            xmax = 1290.572 
+            text = "<un> fertsik." 
+        intervals [198]:
+            xmin = 1290.572 
+            xmax = 1290.696 
+            text = "" 
+        intervals [199]:
+            xmin = 1290.696 
+            xmax = 1291.511 
+            text = "un," 
+        intervals [200]:
+            xmin = 1291.511 
+            xmax = 1294.689 
+            text = "uh, gedenkstu di familye's nomen?" 
+        intervals [201]:
+            xmin = 1294.689 
+            xmax = 1353.15 
+            text = "" 
+        intervals [202]:
+            xmin = 1353.15 
+            xmax = 1355.253 
+            text = "SO, du host geven in MOGILEV-" 
+        intervals [203]:
+            xmin = 1355.253 
+            xmax = 1355.445 
+            text = "" 
+        intervals [204]:
+            xmin = 1355.445 
+            xmax = 1356.125 
+            text = "<uh>," 
+        intervals [205]:
+            xmin = 1356.125 
+            xmax = 1357.011 
+            text = "Podolsk," 
+        intervals [206]:
+            xmin = 1357.011 
+            xmax = 1359.084 
+            text = "BUT nisht in geto tsu ersht?" 
+        intervals [207]:
+            xmin = 1359.084 
+            xmax = 1361.537 
+            text = "" 
+        intervals [208]:
+            xmin = 1361.537 
+            xmax = 1362.408 
+            text = "o." 
+        intervals [209]:
+            xmin = 1362.408 
+            xmax = 1375.476 
+            text = "" 
+        intervals [210]:
+            xmin = 1375.476 
+            xmax = 1377.815 
+            text = "oy- oyf, uh, fun vos?" 
+        intervals [211]:
+            xmin = 1377.815 
+            xmax = 1434.893 
+            text = "" 
+        intervals [212]:
+            xmin = 1434.893 
+            xmax = 1439.527 
+            text = "UNK. vos hostu gevisn fun lager ven du host geven in geto?" 
+        intervals [213]:
+            xmin = 1439.527 
+            xmax = 1449.237 
+            text = "" 
+        intervals [214]:
+            xmin = 1449.237 
+            xmax = 1450.634 
+            text = "hostu gevisn" 
+        intervals [215]:
+            xmin = 1450.634 
+            xmax = 1454.664 
+            text = "keyn zakh fun dayn eltern oder fun dayn bruder?" 
+        intervals [216]:
+            xmin = 1454.664 
+            xmax = 1470.415 
+            text = "" 
+        intervals [217]:
+            xmin = 1470.415 
+            xmax = 1473.154 
+            text = "du host gezogt az s'iz geven" 
+        intervals [218]:
+            xmin = 1473.154 
+            xmax = 1475.893 
+            text = "di ende fun nayntsn eyn un fertsik," 
+        intervals [219]:
+            xmin = 1475.893 
+            xmax = 1475.899 
+            text = "" 
+        intervals [220]:
+            xmin = 1475.899 
+            xmax = 1477.547 
+            text = "un, un..." 
+        intervals [221]:
+            xmin = 1477.547 
+            xmax = 1589.282 
+            text = "" 
+        intervals [222]:
+            xmin = 1589.282 
+            xmax = 1592.381 
+            text = "vi lang<e> tsayt hostu geven in, in Petshore?" 
+        intervals [223]:
+            xmin = 1592.381 
+            xmax = 1601.652 
+            text = "" 
+        intervals [224]:
+            xmin = 1601.652 
+            xmax = 1603.181 
+            text = "un di gantse tsayt," 
+        intervals [225]:
+            xmin = 1603.181 
+            xmax = 1603.204 
+            text = "" 
+        intervals [226]:
+            xmin = 1603.204 
+            xmax = 1606.758 
+            text = "vos host geton dortn? host gearbet? UNK" 
+        intervals [227]:
+            xmin = 1606.758 
+            xmax = 1631.554 
+            text = "" 
+        intervals [228]:
+            xmin = 1631.554 
+            xmax = 1632.341 
+            text = "hobn," 
+        intervals [229]:
+            xmin = 1632.341 
+            xmax = 1633.157 
+            text = "" 
+        intervals [230]:
+            xmin = 1633.157 
+            xmax = 1636.003 
+            text = "hobn zey ge- -ton, <hm>..." 
+        intervals [231]:
+            xmin = 1636.003 
+            xmax = 1647.265 
+            text = "" 
+        intervals [232]:
+            xmin = 1647.265 
+            xmax = 1650.814 
+            text = "di rumenishe soldatn hot ir gehelft, uh," 
+        intervals [233]:
+            xmin = 1650.814 
+            xmax = 1652.844 
+            text = "uh, oder...?" 
+        intervals [234]:
+            xmin = 1652.844 
+            xmax = 1705.72 
+            text = "" 
+        intervals [235]:
+            xmin = 1705.72 
+            xmax = 1707.725 
+            text = "di mener un di froyen hobn" 
+        intervals [236]:
+            xmin = 1707.725 
+            xmax = 1710.618 
+            text = "gelebt  tsuzamen oder SEPAR-" 
+        intervals [237]:
+            xmin = 1710.618 
+            xmax = 1712.058 
+            text = "SEPARATE, UNK?" 
+        intervals [238]:
+            xmin = 1712.058 
+            xmax = 1732.72 
+            text = "" 
+        intervals [239]:
+            xmin = 1732.72 
+            xmax = 1735.256 
+            text = "h<ost> geven betn, oder" 
+        intervals [240]:
+            xmin = 1735.256 
+            xmax = 1737.523 
+            text = "v- vu hostu geshlofn?" 
+        intervals [241]:
+            xmin = 1737.523 
+            xmax = 1753.027 
+            text = "" 
