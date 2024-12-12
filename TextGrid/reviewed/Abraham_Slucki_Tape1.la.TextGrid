@@ -1,0 +1,136 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 71.639 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Abraham Slucki" 
+        xmin = 0 
+        xmax = 71.639 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 39.364 
+            text = "" 
+        intervals [2]:
+            xmin = 39.364 
+            xmax = 41.197 
+            text = "TO THIS SPECIAL OCCASION," 
+        intervals [3]:
+            xmin = 41.197 
+            xmax = 41.372 
+            text = "" 
+        intervals [4]:
+            xmin = 41.372 
+            xmax = 42.53 
+            text = "HAVING" 
+        intervals [5]:
+            xmin = 42.53 
+            xmax = 43.964 
+            text = "THE, THE PEOPLE" 
+        intervals [6]:
+            xmin = 43.964 
+            xmax = 44.258 
+            text = "" 
+        intervals [7]:
+            xmin = 44.258 
+            xmax = 46.057 
+            text = "WHO WORKS FOR" 
+        intervals [8]:
+            xmin = 46.057 
+            xmax = 46.097 
+            text = "" 
+        intervals [9]:
+            xmin = 46.097 
+            xmax = 47.728 
+            text = "MISTER SPIELBERG," 
+        intervals [10]:
+            xmin = 47.728 
+            xmax = 48.173 
+            text = "" 
+        intervals [11]:
+            xmin = 48.173 
+            xmax = 49.854 
+            text = "I TAKE mayn" 
+        intervals [12]:
+            xmin = 49.854 
+            xmax = 49.928 
+            text = "" 
+        intervals [13]:
+            xmin = 49.928 
+            xmax = 51.339 
+            text = "LIBERATION" 
+        intervals [14]:
+            xmin = 51.339 
+            xmax = 53.168 
+            text = "" 
+        intervals [15]:
+            xmin = 53.168 
+            xmax = 55.204 
+            text = "TO BOTHER A LITTLE BIT" 
+        intervals [16]:
+            xmin = 55.204 
+            xmax = 55.564 
+            text = "" 
+        intervals [17]:
+            xmin = 55.564 
+            xmax = 56.975 
+            text = "WITH THE PAST." 
+        intervals [18]:
+            xmin = 56.975 
+            xmax = 57.37 
+            text = "" 
+        intervals [19]:
+            xmin = 57.37 
+            xmax = 58.598 
+            text = "AND THE PAST" 
+        intervals [20]:
+            xmin = 58.598 
+            xmax = 59.366 
+            text = "IS" 
+        intervals [21]:
+            xmin = 59.366 
+            xmax = 61.565 
+            text = "FIFTY YEARS" 
+        intervals [22]:
+            xmin = 61.565 
+            xmax = 62.5 
+            text = "" 
+        intervals [23]:
+            xmin = 62.5 
+            xmax = 63.69 
+            text = "FROM mayn" 
+        intervals [24]:
+            xmin = 63.69 
+            xmax = 64.525 
+            text = "" 
+        intervals [25]:
+            xmin = 64.525 
+            xmax = 66.454 
+            text = "RESURRECTION OR" 
+        intervals [26]:
+            xmin = 66.454 
+            xmax = 68.012 
+            text = "vidergeburt," 
+        intervals [27]:
+            xmin = 68.012 
+            xmax = 69.435 
+            text = "" 
+        intervals [28]:
+            xmin = 69.435 
+            xmax = 71.639 
+            text = "IT'S FIFTY YEARS PAST." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Carol Stulberg" 
+        xmin = 0 
+        xmax = 71.639 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 71.639 
+            text = "" 
