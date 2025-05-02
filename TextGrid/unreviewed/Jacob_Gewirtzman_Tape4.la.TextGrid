@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 26.415 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Jacob Gewirtzman" 
+        xmin = 0 
+        xmax = 26.415 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 19.536 
+            text = "" 
+        intervals [2]:
+            xmin = 19.536 
+            xmax = 20.374 
+            text = "YEAH." 
+        intervals [3]:
+            xmin = 20.374 
+            xmax = 20.498 
+            text = "" 
+        intervals [4]:
+            xmin = 20.498 
+            xmax = 22.213 
+            text = "s'iz mayn FATHER AND MY MOTHER." 
+        intervals [5]:
+            xmin = 22.213 
+            xmax = 24.092 
+            text = "" 
+        intervals [6]:
+            xmin = 24.092 
+            xmax = 25.338 
+            text = "Shloyme" 
+        intervals [7]:
+            xmin = 25.338 
+            xmax = 26.415 
+            text = "un Khane." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Rhoda Daum-Kenner" 
+        xmin = 0 
+        xmax = 26.415 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.188 
+            text = "" 
+        intervals [2]:
+            xmin = 2.188 
+            xmax = 3.65 
+            text = "TAPE FOUR." 
+        intervals [3]:
+            xmin = 3.65 
+            xmax = 3.841 
+            text = "" 
+        intervals [4]:
+            xmin = 3.841 
+            xmax = 7.346 
+            text = "JANUARY TWENTY NINTH, NINETEEN NINETY SIX." 
+        intervals [5]:
+            xmin = 7.346 
+            xmax = 8.5 
+            text = "" 
+        intervals [6]:
+            xmin = 8.5 
+            xmax = 9.686 
+            text = "SURVIVOR:" 
+        intervals [7]:
+            xmin = 9.686 
+            xmax = 11.514 
+            text = "JACOB GEWIRTZMAN." 
+        intervals [8]:
+            xmin = 11.514 
+            xmax = 12.853 
+            text = "" 
+        intervals [9]:
+            xmin = 12.853 
+            xmax = 15.879 
+            text = "CAN YOU TELL US PLEASE ABOUT THIS PHOTOGRAPH?" 
+        intervals [10]:
+            xmin = 15.879 
+            xmax = 19.8 
+            text = "WHO IS IN, WHO IS THIS A PICTURE OF, MISTER GEWIRTZMAN?" 
+        intervals [11]:
+            xmin = 19.8 
+            xmax = 22.219 
+            text = "" 
+        intervals [12]:
+            xmin = 22.219 
+            xmax = 24.71 
+            text = "AND CAN YOU TELL US THEIR NAMES PLEASE?" 
+        intervals [13]:
+            xmin = 24.71 
+            xmax = 26.415 
+            text = "" 
