@@ -75,17 +75,17 @@ item []:
         intervals [16]:
             xmin = 95.828 
             xmax = 97.256 
-            text = "Shloyme Dovid." 
+            text = "Shloyme-Dovid." 
         intervals [17]:
             xmin = 97.256 
             xmax = 102.358 
             text = "" 
         intervals [18]:
             xmin = 102.358 
-            xmax = 106.756 
-            text = "di mishpokhe no- UNK Shloyme Dovid." 
+            xmax = 106.08 
+            text = "di mishpokhe no- UNK Shloyme-Dovid." 
         intervals [19]:
-            xmin = 106.756 
+            xmin = 106.08 
             xmax = 110.5 
             text = "" 
         intervals [20]:
@@ -115,7 +115,7 @@ item []:
         intervals [26]:
             xmin = 122.136 
             xmax = 124.104 
-            text = "UNK in eh" 
+            text = "PRZYSU- in eh" 
         intervals [27]:
             xmin = 124.104 
             xmax = 126.287 
@@ -251,7 +251,7 @@ item []:
         intervals [60]:
             xmin = 188.173 
             xmax = 189.477 
-            text = "a bal tfile." 
+            text = "a bal-tfile." 
         intervals [61]:
             xmin = 189.477 
             xmax = 190.513 
@@ -259,7 +259,7 @@ item []:
         intervals [62]:
             xmin = 190.513 
             xmax = 192.408 
-            text = "er UNK geven a bal tfile" 
+            text = "er UNK geven a bal-tfile" 
         intervals [63]:
             xmin = 192.408 
             xmax = 194.236 
@@ -303,7 +303,7 @@ item []:
         intervals [73]:
             xmin = 212.552 
             xmax = 216.275 
-            text = "Davidovitsh. nekhtn hob ikh nisht gedenkt, UNK haynt gedenk ikh." 
+            text = "Davidovitsh. nekhtn hob ikh nisht gedenkt, un haynt gedenk ikh." 
         intervals [74]:
             xmin = 216.275 
             xmax = 216.687 
@@ -379,7 +379,7 @@ item []:
         intervals [92]:
             xmin = 263.97 
             xmax = 265.381 
-            text = "UNK" 
+            text = "<az okh un...>" 
         intervals [93]:
             xmin = 265.381 
             xmax = 267.295 
@@ -403,7 +403,7 @@ item []:
         intervals [98]:
             xmin = 275.36 
             xmax = 276.26 
-            text = "fir UNK" 
+            text = "fir br- no- eh" 
         intervals [99]:
             xmin = 276.26 
             xmax = 279.068 
@@ -1319,7 +1319,7 @@ item []:
         intervals [327]:
             xmin = 746.292 
             xmax = 749.362 
-            text = "in di geto iz dokh geven UNK groyse tsores" 
+            text = "in in di geto iz dokh geven UNK groyse tsores" 
         intervals [328]:
             xmin = 749.362 
             xmax = 752.382 
@@ -1331,7 +1331,7 @@ item []:
         intervals [330]:
             xmin = 753.578 
             xmax = 755.836 
-            text = "s'iz genug ge<UNK> gevorn mentshn." 
+            text = "s'iz genug geharget gevorn mentshn." 
         intervals [331]:
             xmin = 755.836 
             xmax = 755.877 
@@ -1386,10 +1386,10 @@ item []:
             text = "" 
         intervals [344]:
             xmin = 775.789 
-            xmax = 776.593 
-            text = "ye." 
+            xmax = 777.45 
+            text = "ye. bald." 
         intervals [345]:
-            xmin = 776.593 
+            xmin = 777.45 
             xmax = 779.9 
             text = "" 
         intervals [346]:
@@ -3532,12 +3532,12 @@ item []:
             text = "di mishpokhe nomen?" 
         intervals [33]:
             xmin = 101.643 
-            xmax = 104.907 
+            xmax = 105.91 
             text = "" 
         intervals [34]:
-            xmin = 104.907 
+            xmin = 105.91 
             xmax = 107.516 
-            text = "Shloyme Dovid vos?" 
+            text = "Shloyme-Dovid vos?" 
         intervals [35]:
             xmin = 107.516 
             xmax = 107.961 
@@ -3545,7 +3545,7 @@ item []:
         intervals [36]:
             xmin = 107.961 
             xmax = 109.389 
-            text = "Shloyme Dovid..." 
+            text = "Shloyme-Dovid..." 
         intervals [37]:
             xmin = 109.389 
             xmax = 109.75 
@@ -4265,7 +4265,7 @@ item []:
         intervals [216]:
             xmin = 801.917 
             xmax = 804.369 
-            text = "n- a ployt? trepn, ya." 
+            text = "n- a ployt? trepn, yo." 
         intervals [217]:
             xmin = 804.369 
             xmax = 804.949 
@@ -4321,7 +4321,7 @@ item []:
         intervals [230]:
             xmin = 861.767 
             xmax = 862.453 
-            text = "ye." 
+            text = "yo." 
         intervals [231]:
             xmin = 862.453 
             xmax = 869.901 
