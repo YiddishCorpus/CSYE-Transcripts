@@ -259,7 +259,7 @@ item []:
         intervals [62]:
             xmin = 145.255 
             xmax = 148.016 
-            text = "<ikh hob> gehat a khaverte POLYA un Khayushya" 
+            text = "<ikh hob> gehat a khaverte POLYA un KHAYUSHYA" 
         intervals [63]:
             xmin = 148.016 
             xmax = 148.444 
@@ -287,7 +287,7 @@ item []:
         intervals [69]:
             xmin = 160.628 
             xmax = 161.972 
-            text = "eh Nodlman" 
+            text = "eh NODLMAN" 
         intervals [70]:
             xmin = 161.972 
             xmax = 162.703 
@@ -307,7 +307,7 @@ item []:
         intervals [74]:
             xmin = 168.492 
             xmax = 169.99 
-            text = "iz zi nokh di di muter" 
+            text = "iz zi nor di di muter" 
         intervals [75]:
             xmin = 169.99 
             xmax = 171.388 
@@ -483,7 +483,7 @@ item []:
         intervals [118]:
             xmin = 254.014 
             xmax = 261.298 
-            text = "hobn zey getribn di yidn, un m'hot geshlogn, m'hot eh, zey hobn geshribn, di yidn hobn geshribn oyf ukraynish UNK" 
+            text = "hobn zey getribn di yidn, un m'hot geshlogn, m'hot eh, zey hobn <geshrign>, di yidn hobn <geshribn> oyf ukraynish UNK" 
         intervals [119]:
             xmin = 261.298 
             xmax = 261.422 
@@ -667,7 +667,7 @@ item []:
         intervals [164]:
             xmin = 357.12 
             xmax = 360.239 
-            text = "fleg zitstn, zikh tsunoyfnemen ale in eynem, un eh" 
+            text = "fleg zitsn, zikh tsunoyfnemen ale in eynem, un eh" 
         intervals [165]:
             xmin = 360.239 
             xmax = 361.6 
@@ -731,11 +731,11 @@ item []:
         intervals [180]:
             xmin = 406.333 
             xmax = 408.484 
-            text = "iz gevorn, nor v- vos <vet>" 
+            text = "iz gevorn, nor v- vos fun" 
         intervals [181]:
             xmin = 408.484 
             xmax = 413.324 
-            text = "funem shtetl vos m'hot opgeharget iz geblibn shtark vintsik mentshn. s'iz geven a sakh geranet" 
+            text = "funem shtetl vos m'hot oysgeharget iz geblibn shtark vintsik mentshn. s'iz geven a sakh geranet" 
         intervals [182]:
             xmin = 413.324 
             xmax = 413.517 
@@ -767,7 +767,7 @@ item []:
         intervals [189]:
             xmin = 431.303 
             xmax = 435.634 
-            text = "un eh mir hobn moyre gehat az m- iz ale geven geboyde- gebahaltn oyf di beydemer." 
+            text = "UNK mir hobn moyre gehat az m- iz ale geven geboyde- gebahaltn oyf di beydemer." 
         intervals [190]:
             xmin = 435.634 
             xmax = 436.348 
@@ -775,7 +775,7 @@ item []:
         intervals [191]:
             xmin = 436.348 
             xmax = 439.534 
-            text = "me fleg aroyfnemen  dem leyter un aroyfkrikhn oyfn boydem" 
+            text = "me fleg aroyfnemen dem leyter un aroyfkrikhn oyfn boydem" 
         intervals [192]:
             xmin = 439.534 
             xmax = 443.767 
@@ -867,7 +867,7 @@ item []:
         intervals [214]:
             xmin = 477.237 
             xmax = 479.863 
-            text = "zenen zey gegan der armey" 
+            text = "zenen zey ge- gegan der armey" 
         intervals [215]:
             xmin = 479.863 
             xmax = 480.612 
@@ -875,7 +875,7 @@ item []:
         intervals [216]:
             xmin = 480.612 
             xmax = 484.521 
-            text = "un eh mir hobn ongehoybn in april tsu lernen" 
+            text = "un eh mir hobn ongehoybn in april tsu <lernen>" 
         intervals [217]:
             xmin = 484.521 
             xmax = 484.932 
@@ -983,7 +983,7 @@ item []:
         intervals [243]:
             xmin = 542.531 
             xmax = 544.764 
-            text = "es iz geven bay undz politseyen" 
+            text = "es iz geven bay undz politsayen" 
         intervals [244]:
             xmin = 544.764 
             xmax = 545.007 
@@ -1083,7 +1083,7 @@ item []:
         intervals [268]:
             xmin = 590.451 
             xmax = 592.115 
-            text = "m'hot im gornisht getun." 
+            text = "m'hot im gornisht geton." 
         intervals [269]:
             xmin = 592.115 
             xmax = 598.433 
@@ -1119,7 +1119,7 @@ item []:
         intervals [277]:
             xmin = 612.411 
             xmax = 615.116 
-            text = "bizn tsvey un fuftsikstn yor" 
+            text = "bizn tsvey un fuftsikstn yor." 
         intervals [278]:
             xmin = 615.116 
             xmax = 615.595 
@@ -1187,7 +1187,7 @@ item []:
         intervals [294]:
             xmin = 639.945 
             xmax = 643.449 
-            text = "hot men gezogt az me vet pakn a yidn, vet men im aropvarfn funem POEZD." 
+            text = "hot men gezogt az me vet pakn a yidn, vet men im aropvorfn funem POEZD." 
         intervals [295]:
             xmin = 643.449 
             xmax = 644.181 
@@ -1223,7 +1223,7 @@ item []:
         intervals [303]:
             xmin = 668.52 
             xmax = 670.435 
-            text = "m'vet nokh a mol epes tun mit di yidn" 
+            text = "m'vet nokh a mol epes ton mit di yidn" 
         intervals [304]:
             xmin = 670.435 
             xmax = 672.626 
@@ -1259,11 +1259,11 @@ item []:
         intervals [312]:
             xmin = 679.315 
             xmax = 686.445 
-            text = "hot er zikh ongeshikert bay nakht un m'hot gekhapt a hak, un er hot gezogt az mir ho- yidn hobn gesamt Stalinen, darf er undz oykhet derhargenen" 
+            text = "hot er zikh ongeshikert bay nakht un m'hot gekhapt a hak, un er hot gezogt az mir ho- yidn hobn gesamt Stalinen, darf er undz oykhet derhargenen." 
         intervals [313]:
             xmin = 686.445 
             xmax = 688.845 
-            text = "mir hobn gemuzt bay nakht aroysgeyn undzer gas" 
+            text = "mir hobn gemuzt bay nakht aroysgeyn oyf der gas" 
         intervals [314]:
             xmin = 688.845 
             xmax = 690.885 
@@ -1279,7 +1279,7 @@ item []:
         intervals [317]:
             xmin = 697.891 
             xmax = 702.613 
-            text = "fun Stalinen az nisht di yid- UNK <mistome> hot ayngezetst shtark a sakh yidn demlt" 
+            text = "fun Stalinen az nisht di yid- UNK <mistame> hot ayngezetst shtark a sakh yidn demlt" 
         intervals [318]:
             xmin = 702.613 
             xmax = 702.973 
@@ -1287,7 +1287,7 @@ item []:
         intervals [319]:
             xmin = 702.973 
             xmax = 706.477 
-            text = "hot men eh dernokh Stalin iz geshtorbn" 
+            text = "hot men eh dernokh eh Stalin iz geshtorbn" 
         intervals [320]:
             xmin = 706.477 
             xmax = 706.855 
@@ -1307,7 +1307,7 @@ item []:
         intervals [324]:
             xmin = 713.942 
             xmax = 716.99 
-            text = "ven Stalin iz geshtorbn, hob ikh azoy geveynt" 
+            text = "ven Stalin iz geshtorbn, hob ikh azoy geveynt." 
         intervals [325]:
             xmin = 716.99 
             xmax = 717.081 
@@ -1331,7 +1331,7 @@ item []:
         intervals [330]:
             xmin = 726.227 
             xmax = 732.392 
-            text = "un dernokh ersht hobn mir zikh dervust vifl mentshn er hot UNK un vos er hot getun un" 
+            text = "un dernokh ersht hobn mir zikh dervust vifl mentshn er hot UNK un vos er hot geton un" 
         intervals [331]:
             xmin = 732.392 
             xmax = 735.809 
@@ -1363,7 +1363,7 @@ item []:
         intervals [338]:
             xmin = 755.932 
             xmax = 763.819 
-            text = "er iz <dokh> geven dernokh krank. mir hobn gehert az me vil aroysshikn, nor mir hobn getrakht az s'iz UNK. Stalin ken nisht tun azoyns. azoy iz me geven <farlibt>" 
+            text = "er iz <dokh> geven dernokh krank. mir hobn gehert az me vil aroysshikn, nor mir hobn getrakht az s'iz UNK. Stalin ken nisht ton azoyns. azoy iz me geven <farlibt>" 
         intervals [339]:
             xmin = 763.819 
             xmax = 764.702 
@@ -1411,7 +1411,7 @@ item []:
         intervals [350]:
             xmin = 781.37 
             xmax = 784.69 
-            text = "ikh un nokh a yidish yingele, Shmulevitsh" 
+            text = "ikh un nokh a yidish yingele, SHMULEVITSH" 
         intervals [351]:
             xmin = 784.69 
             xmax = 784.969 
@@ -1531,7 +1531,7 @@ item []:
         intervals [380]:
             xmin = 867.223 
             xmax = 871.244 
-            text = "eh foter fleg dertseyln ven s'iz gevorn der SOVETSKIU VLAST'" 
+            text = "eh foter fleg dertseyln ven s'iz gevorn der SOVETSKIY VLAST'" 
         intervals [381]:
             xmin = 871.244 
             xmax = 871.437 
@@ -1551,7 +1551,7 @@ item []:
         intervals [385]:
             xmin = 880.988 
             xmax = 886.888 
-            text = "iz hot men, vegn di yidn, <yedn> zakh vos me hot zey gelozt tun iz dos geven a groyse zakh." 
+            text = "iz hot men, vegn di yidn, <yedn> zakh vos me hot zey gelozt ton iz dos geven a groyse zakh." 
         intervals [386]:
             xmin = 886.888 
             xmax = 888.784 
@@ -1622,10 +1622,10 @@ item []:
             text = "" 
         intervals [403]:
             xmin = 922.956 
-            xmax = 924.502 
+            xmax = 924.65 
             text = "un ikh hob khasene gehat." 
         intervals [404]:
-            xmin = 924.502 
+            xmin = 924.65 
             xmax = 924.778 
             text = "" 
         intervals [405]:
@@ -1711,7 +1711,7 @@ item []:
         intervals [425]:
             xmin = 975.775 
             xmax = 983.059 
-            text = "s'iz shoyn geven andersh eh dos lebn. di eltere tokhter hot khasene gehat in finef un zibetsikstn eh yor" 
+            text = "s'iz shoyn geven andersh eh dos lebn. di eltere tokhter hot khasene gehat in fin- finef un zibetsikstn eh yor" 
         intervals [426]:
             xmin = 983.059 
             xmax = 983.655 
@@ -1899,7 +1899,7 @@ item []:
         intervals [472]:
             xmin = 1076.097 
             xmax = 1079.871 
-            text = "nor bay mir, di eltere tokhter hot gelernt in konservatoryum" 
+            text = "nor bay mir, di eltere tokhter hot gelernt in konservatorye" 
         intervals [473]:
             xmin = 1079.871 
             xmax = 1080.298 
@@ -1907,7 +1907,7 @@ item []:
         intervals [474]:
             xmin = 1080.298 
             xmax = 1084.241 
-            text = "hob ikh eh gev- un zi hot zikh khasene gehat UNK hot zi geendikt" 
+            text = "hob ikh eh gev- un zi hot zikh khasene gehat. dernokh hot zi geendikt" 
         intervals [475]:
             xmin = 1084.241 
             xmax = 1084.382 
@@ -2003,7 +2003,7 @@ item []:
         intervals [498]:
             xmin = 1147.792 
             xmax = 1151.172 
-            text = "ir hot do nisht vos tsu tun. ir kent forn. ir hot IZRAIL." 
+            text = "ir hot do nisht vos tsu ton. ir kent forn. ir hot IZRAIL." 
         intervals [499]:
             xmin = 1151.172 
             xmax = 1151.46 
@@ -2107,7 +2107,7 @@ item []:
         intervals [524]:
             xmin = 1212.025 
             xmax = 1218.51 
-            text = "d- di eltere tokhter iz in UNK konservatoryum. der eydem iz a tseyn dokter in der eh" 
+            text = "d- di eltere tokhter iz in UNK konservatorye. der eydem iz a tseyn dokter in der eh" 
         intervals [525]:
             xmin = 1218.51 
             xmax = 1220.355 
@@ -2207,7 +2207,7 @@ item []:
         intervals [549]:
             xmin = 1275.458 
             xmax = 1279.147 
-            text = "un oyf <aroyftsu> gehat az ikh zol makhn mit, derlebn mit mayn man" 
+            text = "un oyf <aroyftsu> got az ikh zol makhn mit, derlebn mit mayn man" 
         intervals [550]:
             xmin = 1279.147 
             xmax = 1279.288 
@@ -2215,7 +2215,7 @@ item []:
         intervals [551]:
             xmin = 1279.288 
             xmax = 1281.745 
-            text = "mit d- mayne kinder di khasenes <oykh>." 
+            text = "mit d- mayne kinder di khasenes UNK." 
         intervals [552]:
             xmin = 1281.745 
             xmax = 1292.485 
