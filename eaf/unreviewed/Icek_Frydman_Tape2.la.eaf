@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2025-07-08T13:17:50-05:00" VERSION="3.0" FORMAT="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2026-09-23T16:41:08-05:00" VERSION="3.0" FORMAT="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
 		<MEDIA_DESCRIPTOR MEDIA_URL="Icek_Frydman_Tape2.m4a" RELATIVE_MEDIA_URL="./Icek_Frydman_Tape2.m4a" MIME_TYPE="audio/mp4" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -1169,7 +1169,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-				<ANNOTATION_VALUE>mit a shlitn zenen mir geforn. m'hot dos gebrengt keyn Byale, az in Byale hot shoyn damolst oysgefelt ZUCKER</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mit a shlitn zenen mir geforn. m'hot dos gebrengt keyn Byale, az in Byale hot shoyn damolslt oysgefelt ZUCKER</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1309,7 +1309,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
-				<ANNOTATION_VALUE>hobn mir gevoynt hundert mentshn dortn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hobn mir gevoynt hundert mentshn dort</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1354,7 +1354,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
-				<ANNOTATION_VALUE>UND mayn SCHWIEGERMUTTER &lt;damolslt&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>UND mayn SCHWIEGERMUTTER damolslt</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1394,12 +1394,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-				<ANNOTATION_VALUE>bloyz eyntsl</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bloyz eyntsl.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
-				<ANNOTATION_VALUE>es iz geven puter un tsuker un, un sakharin</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>es iz gevezn puter un tsuker un, un sakharin</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1544,7 +1544,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
-				<ANNOTATION_VALUE>un mir hobn zeyer, ken men zogn, sheyn parnose gemakht, damolst UNK oyf eh &lt;demldike&gt; tsaytn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un mir hobn zeyer, ken men zogn, sheyn parnose gemakht, damolslt. oyf eh &lt;demldike&gt; tsaytn</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1569,7 +1569,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
-				<ANNOTATION_VALUE>flegt zey UNK kumen yedn fraytik az mir zenen aheymgekumen</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>flegt er kumen yedn fraytik az mir zenen aheymgekumen</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1639,7 +1639,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts244">
-				<ANNOTATION_VALUE>dos broy- broyt hobn zey tsugegebn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dos broy- broyt hobn zey tsug- -gegebn</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1649,12 +1649,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts248">
-				<ANNOTATION_VALUE>yeder UNK &lt;vifl&gt; perzon hot tsugeshtelt &lt;azoy fil&gt; gram, fuftsik gram broyt a tog</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>yeder UNK &lt;vifl&gt; perzon hot tsugeshtelt &lt;azoy fil&gt; gram, fuftsik gram broyt a tog.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts250">
-				<ANNOTATION_VALUE>nakher hot men ges- ver genumen fun di nisht arbetnde.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nakher hot men ges- &lt;WEG&gt;genumen fun di nisht arbetnde.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1674,7 +1674,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts258">
-				<ANNOTATION_VALUE>a ts- a SPEISEZUG- -ZUTAT</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a ts- a SPEISEZUG- UNK</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1724,7 +1724,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts282">
-				<ANNOTATION_VALUE>UN mir hobn d- di STRASSE &lt;ile mol&gt; gemuzt &lt;UBERBAUEN&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>UN mir hobn d- di STRASSE ile mol gemuzt &lt;UBERBAUEN&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1804,7 +1804,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts315" TIME_SLOT_REF2="ts316">
-				<ANNOTATION_VALUE>in eh vi hot dos geheysn si statsye, ken ikh mir UNK nisht dermanen</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in eh vi hot dos geheysn di statsye, ken ikh mir UNK nisht dermanen</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1844,7 +1844,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts331" TIME_SLOT_REF2="ts332">
-				<ANNOTATION_VALUE>UND untn zenen geshtanen di eyropeishe vagones UNK DEUTSCHISCHE, POLNISCHE</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>UND untn zenen geshtanen di eyropeishe vagones UNK DEUTSCHISCHE, poylishe</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1859,7 +1859,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts337" TIME_SLOT_REF2="ts338">
-				<ANNOTATION_VALUE>UND WIR hobn UBERGELADEN, geven barn UBERLADEN</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>UND mir hobn UBERGELADEN, geven barn UBERLADEN</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1944,7 +1944,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts377" TIME_SLOT_REF2="ts378">
-				<ANNOTATION_VALUE>eh flegt men shneler fertik geven. hot men gekent afile shnel aheym forn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh flegt men shneler fertik geven. hot men gekent afile shnel aheymforn</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2219,7 +2219,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a212" TIME_SLOT_REF1="ts517" TIME_SLOT_REF2="ts518">
-				<ANNOTATION_VALUE>dray un fir iz shoyn zibn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dray un fir iz shoyn zibn.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2254,7 +2254,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts534" TIME_SLOT_REF2="ts535">
-				<ANNOTATION_VALUE>in eyn tsimer UNK iz gevezn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in eyn tsimer &lt;dos&gt; iz gevezn</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2264,7 +2264,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts542">
-				<ANNOTATION_VALUE>m- damolst hot nisht ge- iz krank geven, oder flegt men lign a tog in, in bet</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m- damolst hot nisht ge- iz krank gevezn, oder flegt men lign a tog in, in bet</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2309,7 +2309,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts561" TIME_SLOT_REF2="ts562">
-				<ANNOTATION_VALUE>hot men aroysgenumen ale kranke mit di shvester</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hot men aroysgenumen ale kranke mit di shvester.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2359,7 +2359,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts581" TIME_SLOT_REF2="ts582">
-				<ANNOTATION_VALUE>dos NEU geboyrene kind UNK in zeks un vertsik, ven mir hobn es aroysgenumen</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dos NEU geboyrene kind UNK in zeks un fertsik, ven mir hobn es aroysgenumen</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2369,7 +2369,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts585" TIME_SLOT_REF2="ts586">
-				<ANNOTATION_VALUE>vi &lt;EIN&gt; plastik umgefer</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vi &lt;EIN&gt; plastik umgefer.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2424,7 +2424,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts613" TIME_SLOT_REF2="ts614">
-				<ANNOTATION_VALUE>iz gelegn, hot ibergelegn, vi ikh hob shoyn, geven, ikh hob shoyn gehat fiber, geven zikher az ikh hob es, hob zikh nisht avekgeleygt</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>iz gelegn, hot ibergelegn, vi ikh hob shoyn, geven, ikh hob shoyn gehat fiber, geven zikher az ikh hob es, hob zikh nisht avekgeleygt.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2474,7 +2474,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts637" TIME_SLOT_REF2="ts638">
-				<ANNOTATION_VALUE>BITTE NICHT BETRETEN SOLCHEN GEFAHR</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>BITTE NICHT BETRETEN SOLCHEN GEFAHR.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2589,12 +2589,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts683" TIME_SLOT_REF2="ts684">
-				<ANNOTATION_VALUE>d- di ershte yorn, gornisht genumen</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d- di ershte yorn, gornisht genumen.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts685" TIME_SLOT_REF2="ts686">
-				<ANNOTATION_VALUE>di shtot hot, di groyse shtet hobn take gelitn hunger. UNK nisht gehat, s'iz nisht gevezn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di shtot hot, di groyse shtet hobn take gelitn hunger. zey hobn nisht gehat, s'iz nisht gevezn</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2664,7 +2664,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a301" TIME_SLOT_REF1="ts715" TIME_SLOT_REF2="ts716">
-				<ANNOTATION_VALUE>e- a zlote, a z- tsvey zlotes iz geven eyn mark umgefer.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e- a zlote, a z- tsvey zlotes iz gevezn eyn mark umgefer.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2689,7 +2689,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts725" TIME_SLOT_REF2="ts726">
-				<ANNOTATION_VALUE>un di DEUTSCHEN zenen gevezn UNK</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un di DEUTSCHEN zenen gevezn, eyer</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2729,7 +2729,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a314" TIME_SLOT_REF1="ts741" TIME_SLOT_REF2="ts742">
-				<ANNOTATION_VALUE>b- armey vos hot genumen anteyl in bazetsn Frankraykh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>b- armey vos hot genumen aynteyl in bazetsn Frankraykh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2759,7 +2759,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts753" TIME_SLOT_REF2="ts754">
-				<ANNOTATION_VALUE>der oystrit UNK</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>der oystrit, der</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2784,7 +2784,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a325" TIME_SLOT_REF1="ts763" TIME_SLOT_REF2="ts764">
-				<ANNOTATION_VALUE>flegt men geyn, un bay nakht flegn zey oysLADEN UNK di vagones vos zenen gekumen biz &lt;undz&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>flegt men geyn, iz bay nakht flegn zey oysLADEN UNK di vagones vos zenen gekumen biz &lt;undz&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2799,7 +2799,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts769" TIME_SLOT_REF2="ts770">
-				<ANNOTATION_VALUE>in di letste teg hobn zey oysgegruzevet fun di UNK banen</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in di letste teg hobn zey oysgegruzevet fun di &lt;VOENNE&gt; banen</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2859,7 +2859,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a339" TIME_SLOT_REF1="ts793" TIME_SLOT_REF2="ts794">
-				<ANNOTATION_VALUE>&lt;baerdn&gt; aza komendatur, n- s'iz geven komendatur, s'hot geheysn andersh, BEZIEHUNGSAMT</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;baerdn&gt; aza komendatur, n- s'iz geven komendatur, s'hot geheysn andersh, BEZIEHUNGSAMT, tsi vi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2879,7 +2879,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts802" TIME_SLOT_REF2="ts804">
-				<ANNOTATION_VALUE>zi hot gevust, zi hot gehert az dortn vartn zey. m'hot shoyn gevust</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zi hot gevust. zi hot gehert az dortn vartn zey. m'hot shoyn gevust</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2969,7 +2969,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a361" TIME_SLOT_REF1="ts843" TIME_SLOT_REF2="ts844">
-				<ANNOTATION_VALUE>hot dos geheysn az eyn iz dort in Rososh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hot dos geheysn az eyn yid iz dort in Rososh.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2989,12 +2989,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a365" TIME_SLOT_REF1="ts851" TIME_SLOT_REF2="ts852">
-				<ANNOTATION_VALUE>UNK Rososh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>UNK &lt;geyt adurkh durkh&gt; Rososh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts853" TIME_SLOT_REF2="ts854">
-				<ANNOTATION_VALUE>iz UNK veg in der mit UNK oyf zey</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>iz UNK veg in der mit UNK</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3019,7 +3019,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a371" TIME_SLOT_REF1="ts863" TIME_SLOT_REF2="ts864">
-				<ANNOTATION_VALUE>fraytiks far nakht vayle zi hot ongetsundn likht un dos geshtelt</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fraytiks far nakht vayle zi hot ongetsundn likht un &lt;dos&gt; geshtelt</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3029,7 +3029,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a373" TIME_SLOT_REF1="ts867" TIME_SLOT_REF2="ts868">
-				<ANNOTATION_VALUE>mit ayer shvarts f- kinstleray UNK hot er gezogt, arayngegan un hot avekgelsh- geshosn a yid tsi a</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mit &lt;ayer&gt; shvarts f- kinstleray UNK hot er gezogt, arayngegan un hot avekgelsh- geshosn a yid tsi a</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3044,7 +3044,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a376" TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts878">
-				<ANNOTATION_VALUE>di froy aleyn, di, di, di, hot gekumen, fleg kumen tsu undz</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di froy aleyn, di, di, di, hot gekumen, fleg kumen tsu undz.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3054,7 +3054,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a378" TIME_SLOT_REF1="ts881" TIME_SLOT_REF2="ts882">
-				<ANNOTATION_VALUE>UNK flegt zi handlen mit kurtse likht, fraytik tsu nakhts likht</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ot flegt zi handlen mit kurtse likht, fraytik tsu nakhts likht</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3154,7 +3154,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a396" TIME_SLOT_REF1="ts921" TIME_SLOT_REF2="ts922">
-				<ANNOTATION_VALUE>nor a- in tsayt fun krig hot er gebrengt gefirt dortn tsu eynem UNK nokh vayt in vald vos hot gevoynt</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nor a- in tsayt fun krig hot er gebrengt gefirt dortn tsu eynem UNK vayt in vald vos hot gevoynt</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3164,7 +3164,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts925" TIME_SLOT_REF2="ts926">
-				<ANNOTATION_VALUE>iz der flegt kumen tsu di arbet, flegt er &lt;muzn&gt; brengen a tsvey flesher eyl, un ikh vayter hob gekent, ikh hob gearbet bay mayn arbet, oykhet bay</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>iz er flegt kumen tsu di arbet, flegt er mitbrengen a tsvey flesher eyl, un ikh vayter hob gekent, ikh hob gearbet bay mayn arbet, oykhet bay</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3184,7 +3184,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a402" TIME_SLOT_REF1="ts933" TIME_SLOT_REF2="ts934">
-				<ANNOTATION_VALUE>vi ikh hob zeyer gute kontaktn mit dem</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vi ikh hob gehat zeyer gute kontaktn mit dem</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3339,7 +3339,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1066" TIME_SLOT_REF1="ts997" TIME_SLOT_REF2="ts998">
-				<ANNOTATION_VALUE>un do darf men nemen fun untn</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un do darf men nemen fun hintn</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3439,12 +3439,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a447" TIME_SLOT_REF1="ts1053" TIME_SLOT_REF2="ts1054">
-				<ANNOTATION_VALUE>UND di ale andere zenen, vos hobn gearbet, ikh bin geblibn in shtub</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>UND di ale andere zenen, vos hobn gearbet, ikh bin geblibn in shtubn</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts1055" TIME_SLOT_REF2="ts1056">
-				<ANNOTATION_VALUE>vayle in shtub UNK hot mikh oykhet di shviger UNK mit, mit mayn vayb hobn nisht ale gekent, kh'hob gemuzt zey helfn zey a bisl a mol.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vayle in shtubn UNK hot mikh oykhet di shviger UNK mit, mit mayn vayb hobn nisht ale gekent, kh'hob gemuzt zey helfn zey a bisl a mol.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
