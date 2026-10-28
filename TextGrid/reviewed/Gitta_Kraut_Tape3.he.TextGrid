@@ -582,18 +582,18 @@ item []:
             text = "מײַן מאַן האָט געאַרבעט אין אַ פּרדס." 
         intervals [143]:
             xmin = 312.592 
-            xmax = 313.611 
-            text = "אין אַ װאָס?" 
-        intervals [144]:
-            xmin = 313.611 
-            xmax = 313.903 
+            xmax = 314.058 
             text = "" 
+        intervals [144]:
+            xmin = 314.058 
+            xmax = 316.227 
+            text = "מאַראַנץ, מאַראַנץ," 
         intervals [145]:
-            xmin = 313.903 
-            xmax = 317.452 
-            text = "OH, אַ PARDES. KEN, KEN KEN." 
+            xmin = 316.227 
+            xmax = 317.262 
+            text = "PARDES." 
         intervals [146]:
-            xmin = 317.452 
+            xmin = 317.262 
             xmax = 320.219 
             text = "" 
         intervals [147]:
@@ -2145,7 +2145,7 @@ item []:
         name = "Naomi Rappaport" 
         xmin = 0 
         xmax = 1317.717 
-        intervals: size = 200 
+        intervals: size = 201 
         intervals [1]:
             xmin = 0 
             xmax = 2.158 
@@ -2372,577 +2372,581 @@ item []:
             text = "בײַ װאָס האָט איר..." 
         intervals [57]:
             xmin = 310.566 
-            xmax = 314.058 
+            xmax = 312.592 
             text = "" 
         intervals [58]:
-            xmin = 314.058 
-            xmax = 316.227 
-            text = "מאַראַנץ, מאַראַנץ," 
+            xmin = 312.592 
+            xmax = 313.611 
+            text = "אין אַ װאָס?" 
         intervals [59]:
-            xmin = 316.227 
-            xmax = 317.262 
-            text = "PARDES." 
+            xmin = 313.611 
+            xmax = 315.09 
+            text = "" 
         intervals [60]:
-            xmin = 317.262 
+            xmin = 315.09 
+            xmax = 317.452 
+            text = "OH, אַ PARDES. KEN, KEN KEN." 
+        intervals [61]:
+            xmin = 317.452 
             xmax = 325.491 
             text = "" 
-        intervals [61]:
+        intervals [62]:
             xmin = 325.491 
             xmax = 328.69 
             text = "uh אױב ס'איז פֿאַר אײַך שװער װעל איך אײַך בלױז" 
-        intervals [62]:
+        intervals [63]:
             xmin = 328.69 
             xmax = 332.642 
             text = "פֿרעגן אַ פּאָר, נאָך אַ פּאָר פֿראַגעס, און מיר װעלן מאַכן אַ סוף פֿון דעם." 
-        intervals [63]:
+        intervals [64]:
             xmin = 332.642 
             xmax = 336.997 
             text = "uh פֿאַר װאָס האָט איר באַשטימט פֿאָרן קײן uhm..." 
-        intervals [64]:
+        intervals [65]:
             xmin = 336.997 
             xmax = 338.631 
             text = "קײן אַמעריקע." 
-        intervals [65]:
+        intervals [66]:
             xmin = 338.631 
             xmax = 339.98 
             text = "" 
-        intervals [66]:
+        intervals [67]:
             xmin = 339.98 
             xmax = 340.917 
             text = "יאָ." 
-        intervals [67]:
+        intervals [68]:
             xmin = 340.917 
             xmax = 410.604 
             text = "" 
-        intervals [68]:
+        intervals [69]:
             xmin = 410.604 
             xmax = 413.041 
             text = "װער האָט אײַך געבראַכט קײן אַמעריקע?" 
-        intervals [69]:
+        intervals [70]:
             xmin = 413.041 
             xmax = 415.75 
             text = "" 
-        intervals [70]:
+        intervals [71]:
             xmin = 415.75 
             xmax = 418.58 
             text = "oh YOUR BR-, אײַערע ברידער זענען געװען..." 
-        intervals [71]:
+        intervals [72]:
             xmin = 418.58 
             xmax = 419.273 
             text = "" 
-        intervals [72]:
+        intervals [73]:
             xmin = 419.273 
             xmax = 421.921 
             text = "אײַערע ברידער אָדער אײַער מאַן?" 
-        intervals [73]:
+        intervals [74]:
             xmin = 421.921 
             xmax = 452.835 
             text = "" 
-        intervals [74]:
+        intervals [75]:
             xmin = 452.835 
             xmax = 456.25 
             text = "װי אַזױ האָט מען אײַך אױפֿגענומען אין אַמעריקע?" 
-        intervals [75]:
+        intervals [76]:
             xmin = 456.25 
             xmax = 457.6 
             text = "" 
-        intervals [76]:
+        intervals [77]:
             xmin = 457.6 
             xmax = 460.405 
             text = "װי אַזױ האָט זיך עס געלעבט פֿאַר אײַך?" 
-        intervals [77]:
+        intervals [78]:
             xmin = 460.405 
             xmax = 498.317 
             text = "" 
-        intervals [78]:
+        intervals [79]:
             xmin = 498.317 
             xmax = 499.488 
             text = "און אײַ- װעלכע" 
-        intervals [79]:
+        intervals [80]:
             xmin = 499.488 
             xmax = 503.049 
             text = "אײַערע פֿרײַנד, מיט װעמען האָט איר זיך דאָ באַפֿרײַנדעט eh?" 
-        intervals [80]:
+        intervals [81]:
             xmin = 503.049 
             xmax = 508.536 
             text = "מיט מענטשן פֿון uh אַמעריקע אָדער פֿון eh EUROPE?" 
-        intervals [81]:
+        intervals [82]:
             xmin = 508.536 
             xmax = 514.577 
             text = "" 
-        intervals [82]:
+        intervals [83]:
             xmin = 514.577 
             xmax = 517.017 
             text = "און װוּ uhm," 
-        intervals [83]:
+        intervals [84]:
             xmin = 517.017 
             xmax = 519.992 
             text = "װוּ האָבן זיך געלערנט די קינדער?" 
-        intervals [84]:
+        intervals [85]:
             xmin = 519.992 
             xmax = 523.652 
             text = "" 
-        intervals [85]:
+        intervals [86]:
             xmin = 523.652 
             xmax = 524.75 
             text = "יאָ, יאָ." 
-        intervals [86]:
+        intervals [87]:
             xmin = 524.75 
             xmax = 542.615 
             text = "" 
-        intervals [87]:
+        intervals [88]:
             xmin = 542.615 
             xmax = 544.164 
             text = "mhm, יאָ." 
-        intervals [88]:
+        intervals [89]:
             xmin = 544.164 
             xmax = 552.109 
             text = "" 
-        intervals [89]:
+        intervals [90]:
             xmin = 552.109 
             xmax = 554.719 
             text = "װיפֿל uh" 
-        intervals [90]:
+        intervals [91]:
             xmin = 554.719 
             xmax = 558.914 
             text = "װײסן, װיפֿל װײסן אײַערע קינדער," 
-        intervals [91]:
+        intervals [92]:
             xmin = 558.914 
             xmax = 563.231 
             text = "װיפֿל װײסן די קינדער אײַערע װעגן אײַערע געשיכטע?" 
-        intervals [92]:
+        intervals [93]:
             xmin = 563.231 
             xmax = 563.919 
             text = "" 
-        intervals [93]:
+        intervals [94]:
             xmin = 563.919 
             xmax = 567.699 
             text = "אי- זײ האָבן נישט געפֿרעגט OR איר האָט נישט געװאָלט..." 
-        intervals [94]:
+        intervals [95]:
             xmin = 567.699 
             xmax = 585.259 
             text = "" 
-        intervals [95]:
+        intervals [96]:
             xmin = 585.259 
             xmax = 589.771 
             text = "די קינדער זײַנען פֿאַראינטערעסירט אין ייִדישע ענינים?" 
-        intervals [96]:
+        intervals [97]:
             xmin = 589.771 
             xmax = 612.318 
             text = "" 
-        intervals [97]:
+        intervals [98]:
             xmin = 612.318 
             xmax = 616.147 
             text = "װאָס איז פֿאַר אײַך געװען די שװערסטע זאַך? װאָס איז..." 
-        intervals [98]:
+        intervals [99]:
             xmin = 616.147 
             xmax = 618.18 
             text = "uh װען איר זײַנט געװען אין די CAMPS?" 
-        intervals [99]:
+        intervals [100]:
             xmin = 618.18 
             xmax = 623.262 
             text = "אין די לאַגערן און אין AUSCHWITZ, װאָס איז פֿאַר אײַך די גאַנצע צײַט געװען די שװערסטע זאַך?" 
-        intervals [100]:
+        intervals [101]:
             xmin = 623.262 
             xmax = 633.854 
             text = "" 
-        intervals [101]:
+        intervals [102]:
             xmin = 633.854 
             xmax = 637.098 
             text = "איר חלומט װעגן די זאַכן? איר חלומט?" 
-        intervals [102]:
+        intervals [103]:
             xmin = 637.098 
             xmax = 641.318 
             text = "איר איר האָט, איר דרימלט אַ מאָל, OR חלומט װעגן די... יאָ." 
-        intervals [103]:
+        intervals [104]:
             xmin = 641.318 
             xmax = 642.293 
             text = "" 
-        intervals [104]:
+        intervals [105]:
             xmin = 642.293 
             xmax = 645.96 
             text = "װעגן װאָס ס'איז געשען מיט אײַך, און מיט אײַער משפּחה... יאָ." 
-        intervals [105]:
+        intervals [106]:
             xmin = 645.96 
             xmax = 679.367 
             text = "" 
-        intervals [106]:
+        intervals [107]:
             xmin = 679.367 
             xmax = 682.172 
             text = "איצט דענקט איר איר װאָלט געקענט רעדן צו זײ?" 
-        intervals [107]:
+        intervals [108]:
             xmin = 682.172 
             xmax = 683.649 
             text = "" 
-        intervals [108]:
+        intervals [109]:
             xmin = 683.649 
             xmax = 685.635 
             text = "און אײַערע אײניקלעך?" 
-        intervals [109]:
+        intervals [110]:
             xmin = 685.635 
             xmax = 701.731 
             text = "" 
-        intervals [110]:
+        intervals [111]:
             xmin = 701.731 
             xmax = 704.902 
             text = "פֿאַר װאָס דענקט, אַנ- אַנטשולדיקט." 
-        intervals [111]:
+        intervals [112]:
             xmin = 704.902 
             xmax = 722.066 
             text = "" 
-        intervals [112]:
+        intervals [113]:
             xmin = 722.066 
             xmax = 725.505 
             text = "פֿאַר װאָס דענקט איר אַז איר זײַנט געבליבן לעבן?" 
-        intervals [113]:
+        intervals [114]:
             xmin = 725.505 
             xmax = 741.398 
             text = "" 
-        intervals [114]:
+        intervals [115]:
             xmin = 741.398 
             xmax = 744.742 
             text = "איך װיל, איך איך זע אַז ס'איז פֿאַר אײַך שװער צו רעדן" 
-        intervals [115]:
+        intervals [116]:
             xmin = 744.742 
             xmax = 749.901 
             text = "איצט, uh, איר פֿילט זיך נישט צו גוט, און איך באַדאַנק אײַך זײער," 
-        intervals [116]:
+        intervals [117]:
             xmin = 749.901 
             xmax = 750.647 
             text = "װאָס איר eh" 
-        intervals [117]:
+        intervals [118]:
             xmin = 750.647 
             xmax = 750.662 
             text = "" 
-        intervals [118]:
+        intervals [119]:
             xmin = 750.662 
             xmax = 752.779 
             text = "און איך באַדאַנק אײַך..." 
-        intervals [119]:
+        intervals [120]:
             xmin = 752.779 
             xmax = 754.413 
             text = "יאָ, אָבער זיצט, זיצט." 
-        intervals [120]:
+        intervals [121]:
             xmin = 754.413 
             xmax = 758.681 
             text = "איך באַדאַנק אײַך פֿאַר די צײַט װאָס איר האָט אונדז געגעבן," 
-        intervals [121]:
+        intervals [122]:
             xmin = 758.681 
             xmax = 759.437 
             text = "און אי-" 
-        intervals [122]:
+        intervals [123]:
             xmin = 759.437 
             xmax = 759.464 
             text = "" 
-        intervals [123]:
+        intervals [124]:
             xmin = 759.464 
             xmax = 766.001 
             text = "אי- מיר װעלן, איך װיל אײַך בלױז פֿרעגן אױב איר האָט עפּעס צוצוגעבן צו װאָס איר האָט געזאָגט און אונדז דערצײלט." 
-        intervals [124]:
+        intervals [125]:
             xmin = 766.001 
             xmax = 768.22 
             text = "און דאַן װעלן מיר װײַזן די בילדער." 
-        intervals [125]:
+        intervals [126]:
             xmin = 768.22 
             xmax = 768.353 
             text = "" 
-        intervals [126]:
+        intervals [127]:
             xmin = 768.353 
             xmax = 773.463 
             text = "יאָ, אָבער איר װילט עפּעס צוגעבן צו אײַער געשיכטע, צו װאָס איר האָט אונדז דערצײלט?" 
-        intervals [127]:
+        intervals [128]:
             xmin = 773.463 
             xmax = 776.434 
             text = "" 
-        intervals [128]:
+        intervals [129]:
             xmin = 776.434 
             xmax = 777.629 
             text = "NO." 
-        intervals [129]:
+        intervals [130]:
             xmin = 777.629 
             xmax = 782.312 
             text = "איר װילט, איר האָט עפּעס צו זאָגן צו דער װעלט, צו אײַערע קינדער, צו..." 
-        intervals [130]:
+        intervals [131]:
             xmin = 782.312 
             xmax = 783.124 
             text = "" 
-        intervals [131]:
+        intervals [132]:
             xmin = 783.124 
             xmax = 788.026 
             text = "איר דאַרפֿט נישט זאָגן, אױב איר װילט ניט, אָבער אױב איר האָט עפּעס צוצוגעבן" 
-        intervals [132]:
+        intervals [133]:
             xmin = 788.026 
             xmax = 789.002 
             text = "" 
-        intervals [133]:
+        intervals [134]:
             xmin = 789.002 
             xmax = 790.49 
             text = "װעלן מיר אױסהערן." 
-        intervals [134]:
+        intervals [135]:
             xmin = 790.49 
             xmax = 816.045 
             text = "" 
-        intervals [135]:
+        intervals [136]:
             xmin = 816.045 
             xmax = 819.606 
             text = "נו, איך װיל אײַך באַדאַנקען, און מיר װעלן איצט" 
-        intervals [136]:
+        intervals [137]:
             xmin = 819.606 
             xmax = 820.484 
             text = "uhm," 
-        intervals [137]:
+        intervals [138]:
             xmin = 820.484 
             xmax = 824.14 
             text = "פֿאַרמאַכן דעם TAPE, װײַל מיר דאַרפֿן װײַזן די בילדער און איך װיל אַז" 
-        intervals [138]:
+        intervals [139]:
             xmin = 824.14 
             xmax = 827.143 
             text = "eh װײַזן װי אַז- װוּ איר דאַרפֿט זיצן און װאָס איר דאַרפֿט," 
-        intervals [139]:
+        intervals [140]:
             xmin = 827.143 
             xmax = 828.97 
             text = "װי אַזױ צו װײַזן די בילדער." 
-        intervals [140]:
+        intervals [141]:
             xmin = 828.97 
             xmax = 830.873 
             text = "און אַ שײנעם דאַנק אײַך." 
-        intervals [141]:
+        intervals [142]:
             xmin = 830.873 
             xmax = 835.111 
             text = "" 
-        intervals [142]:
+        intervals [143]:
             xmin = 835.111 
             xmax = 836.833 
             text = "uh, זי האָט נישט געװוּסט." 
-        intervals [143]:
+        intervals [144]:
             xmin = 836.833 
             xmax = 836.959 
             text = "" 
-        intervals [144]:
+        intervals [145]:
             xmin = 836.959 
             xmax = 838.837 
             text = "ALL RIGHT. װער איז אױף דעם בילד?" 
-        intervals [145]:
+        intervals [146]:
             xmin = 838.837 
             xmax = 871.571 
             text = "" 
-        intervals [146]:
+        intervals [147]:
             xmin = 871.571 
             xmax = 872.867 
             text = "OKAY אַ דאַנק." 
-        intervals [147]:
+        intervals [148]:
             xmin = 872.867 
             xmax = 875.633 
             text = "" 
-        intervals [148]:
+        intervals [149]:
             xmin = 875.633 
             xmax = 876.669 
             text = "װער איז ד-" 
-        intervals [149]:
+        intervals [150]:
             xmin = 876.669 
             xmax = 918.356 
             text = "" 
-        intervals [150]:
+        intervals [151]:
             xmin = 918.356 
             xmax = 920.387 
             text = "און און װוּ איז דאָס גענומען געװאָרן?" 
-        intervals [151]:
+        intervals [152]:
             xmin = 920.387 
             xmax = 968.046 
             text = "" 
-        intervals [152]:
+        intervals [153]:
             xmin = 968.046 
             xmax = 968.698 
             text = "OKAY." 
-        intervals [153]:
+        intervals [154]:
             xmin = 968.698 
             xmax = 982.316 
             text = "" 
-        intervals [154]:
+        intervals [155]:
             xmin = 982.316 
             xmax = 985.108 
             text = "װער זײַנען די קינדער דאָרטן אָדער די אַנדערע?" 
-        intervals [155]:
+        intervals [156]:
             xmin = 985.108 
             xmax = 1030.439 
             text = "" 
-        intervals [156]:
+        intervals [157]:
             xmin = 1030.439 
             xmax = 1030.938 
             text = "יאָ!" 
-        intervals [157]:
+        intervals [158]:
             xmin = 1030.938 
             xmax = 1059.449 
             text = "" 
-        intervals [158]:
+        intervals [159]:
             xmin = 1059.449 
             xmax = 1060.899 
             text = "MISSUS KRAUT," 
-        intervals [159]:
+        intervals [160]:
             xmin = 1060.899 
             xmax = 1067.264 
             text = "זײַט אַזױ גוט און שטעלט אונדז פֿאָר אײַער משפּחה, WOULD YOU PLEASE INTRODUCE YOUR FAMILY TO US?" 
-        intervals [160]:
+        intervals [161]:
             xmin = 1067.264 
             xmax = 1069.508 
             text = "" 
-        intervals [161]:
+        intervals [162]:
             xmin = 1069.508 
             xmax = 1070.045 
             text = "איר..." 
-        intervals [162]:
+        intervals [163]:
             xmin = 1070.045 
             xmax = 1071.703 
             text = "I KNOW, אָבער" 
-        intervals [163]:
+        intervals [164]:
             xmin = 1071.703 
             xmax = 1074.264 
             text = "יאָ, אָבער די װעלכע זײַנען איצט דאָ." 
-        intervals [164]:
+        intervals [165]:
             xmin = 1074.264 
             xmax = 1095.45 
             text = "" 
-        intervals [165]:
+        intervals [166]:
             xmin = 1095.45 
             xmax = 1097.328 
             text = "WHERE IS BR- WHICH ONE IS BRIAN?" 
-        intervals [166]:
+        intervals [167]:
             xmin = 1097.328 
             xmax = 1098.287 
             text = "" 
-        intervals [167]:
+        intervals [168]:
             xmin = 1098.287 
             xmax = 1099.45 
             text = "OH, I SEE." 
-        intervals [168]:
+        intervals [169]:
             xmin = 1099.45 
             xmax = 1100.767 
             text = "TZALI IS SCOTTY." 
-        intervals [169]:
+        intervals [170]:
             xmin = 1100.767 
             xmax = 1101.889 
             text = "I GOT IT." 
-        intervals [170]:
+        intervals [171]:
             xmin = 1101.889 
             xmax = 1129.962 
             text = "" 
-        intervals [171]:
+        intervals [172]:
             xmin = 1129.962 
             xmax = 1133.182 
             text = "I'D LIKE TO ASK YOU uh YEHUDA, IF I MAY," 
-        intervals [172]:
+        intervals [173]:
             xmin = 1133.182 
             xmax = 1135.938 
             text = "uh HOW MUCH OF YOUR MOTHER'S STORY" 
-        intervals [173]:
+        intervals [174]:
             xmin = 1135.938 
             xmax = 1137.377 
             text = "DID YOU KNOW?" 
-        intervals [174]:
+        intervals [175]:
             xmin = 1137.377 
             xmax = 1170.29 
             text = "" 
-        intervals [175]:
+        intervals [176]:
             xmin = 1170.29 
             xmax = 1171.188 
             text = "HOW DID," 
-        intervals [176]:
+        intervals [177]:
             xmin = 1171.188 
             xmax = 1172.993 
             text = "WHAT WAS IT LIKE GROWING UP" 
-        intervals [177]:
+        intervals [178]:
             xmin = 1172.993 
             xmax = 1173.095 
             text = "" 
-        intervals [178]:
+        intervals [179]:
             xmin = 1173.095 
             xmax = 1175.826 
             text = "IN A HOUSEHOLD OF PEOPLE WHO HAD," 
-        intervals [179]:
+        intervals [180]:
             xmin = 1175.826 
             xmax = 1179.436 
             text = "WERE SURVIVORS AND HAD GONE THROUGH THIS KIND OF TRAUMA?" 
-        intervals [180]:
+        intervals [181]:
             xmin = 1179.436 
             xmax = 1201.231 
             text = "" 
-        intervals [181]:
+        intervals [182]:
             xmin = 1201.231 
             xmax = 1206.011 
             text = "HOW DID THIS IMPACT ON THE WAY YOU RAISED THOSE TWO YOUNG MEN?" 
-        intervals [182]:
+        intervals [183]:
             xmin = 1206.011 
             xmax = 1232.731 
             text = "" 
-        intervals [183]:
+        intervals [184]:
             xmin = 1232.731 
             xmax = 1236.097 
             text = "HOW ABOUT YOU, TZALI? HERSHL." 
-        intervals [184]:
+        intervals [185]:
             xmin = 1236.097 
             xmax = 1238.414 
             text = "uh WHAT DID YOU KNOW ABOUT" 
-        intervals [185]:
+        intervals [186]:
             xmin = 1238.414 
             xmax = 1241.682 
             text = "YOUR GRANDMOTHER'S EXPERIENCES, HER..." 
-        intervals [186]:
+        intervals [187]:
             xmin = 1241.682 
             xmax = 1259.865 
             text = "" 
-        intervals [187]:
+        intervals [188]:
             xmin = 1259.865 
             xmax = 1261.175 
             text = "YOUNG MAN, YOUNG MAN." 
-        intervals [188]:
+        intervals [189]:
             xmin = 1261.175 
             xmax = 1265.68 
             text = "" 
-        intervals [189]:
+        intervals [190]:
             xmin = 1265.68 
             xmax = 1267.85 
             text = "DID YOU EVER ASK QUESTIONS?" 
-        intervals [190]:
+        intervals [191]:
             xmin = 1267.85 
             xmax = 1272.436 
             text = "" 
-        intervals [191]:
+        intervals [192]:
             xmin = 1272.436 
             xmax = 1275.046 
             text = "ARE YOU, EITHER OF YOU INVOLVED IN," 
-        intervals [192]:
+        intervals [193]:
             xmin = 1275.046 
             xmax = 1279.485 
             text = "OR ALL THREE OF YOU INVOLVED IN ANY KIND OF HOLOCAUST STUDIES, OR" 
-        intervals [193]:
+        intervals [194]:
             xmin = 1279.485 
             xmax = 1281.85 
             text = "PROGRAMS OR ANYTHING OF THAT SORT?" 
-        intervals [194]:
+        intervals [195]:
             xmin = 1281.85 
             xmax = 1303.875 
             text = "" 
-        intervals [195]:
+        intervals [196]:
             xmin = 1303.875 
             xmax = 1308.662 
             text = "WELL, I DO WANT TO THANK YOU FOR COMING AND SHARING THIS AND uh," 
-        intervals [196]:
+        intervals [197]:
             xmin = 1308.662 
             xmax = 1308.749 
             text = "" 
-        intervals [197]:
+        intervals [198]:
             xmin = 1308.749 
             xmax = 1313.871 
             text = "THANK YOU AGAIN, MISSUS KRAUT. AND YOU FOR, SORRY WE WOKE YOU UP," 
-        intervals [198]:
+        intervals [199]:
             xmin = 1313.871 
             xmax = 1314.905 
             text = "" 
-        intervals [199]:
+        intervals [200]:
             xmin = 1314.905 
             xmax = 1317.046 
             text = "uh AND WE WISH YOU WELL." 
-        intervals [200]:
+        intervals [201]:
             xmin = 1317.046 
             xmax = 1317.717 
             text = "THANK YOU." 
